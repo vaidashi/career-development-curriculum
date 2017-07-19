@@ -3,7 +3,8 @@
 Build on your professional story by thinking about how you're progressing at Turing. Answer the questions below in your own gist to use your StrengthsFinder themes to add to your story:
 
 * Write 1-2 paragraphs about your StrengthsFinder themes:
-      How have you seen yourself using these strengths at Turing? Has your understanding of these strengths changed since you first reflected on them? If so, how? 
+      How have you seen yourself using these strengths at Turing? Has your understanding of these strengths changed since you first reflected on them? If so, how?
+
 
 * Write a story about your Turing experience so far:
     When have you struggled? How have you dealt with struggle? When have you succeeded at Turing? How did you accomplish those successes?

@@ -11,8 +11,15 @@ Example: M1 Jessica Rodriguez
 
 ## Mod 1 Deliverables Round 2:
 
+DTR memo:
 
- 
+https://gist.github.com/mikeyduece/3e8389bd0b7f7d6f4633432b689dfd15
+
+strength and strengths_storytelling_reflection:
+https://gist.github.com/mikeyduece/1174f17013ac787d1d5e36409f518b9b
+
+
+
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md): https://github.com/mdevoe12/night_writer/blob/master/DTR.md
