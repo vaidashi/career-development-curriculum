@@ -1,6 +1,20 @@
-1. 03/14/2017: April Rose, Engineer at Civic Actions. No reply.
-2. 03/14/2017: Jesse Snyder, Senior Software Engineer at Baker Technologies. Met for coffee on 3/22.
-3. 03/20/2017: Heather Rodriguez, Engineer at Civic Actions. No reply.
-4. 03/20/2017: Connor Ford, Software Engineer at Travler's Haven. No reply.
-5. 04/05/2017: Kelley Francis, Tech Team Lead at Meow Wolf. Still trying to work out a mutually good time for a hangout.
-6. 04/07/2017: Lani Berry, Software Engineer at Carimus. No reply.
+# Cold Outreach Deliverable Documentation
+
+## To fulfill this deliverable, submit documentation that includes the following for all 6 emails in a gist:
+
+* Company of Contact
+  * "Allstate"
+
+* Person of contact and relevant postion 
+  * "Joe Schneider, Senior Software Developer"
+
+* Date of contact
+  * "01/29/2017"
+
+* Outcome (ie did you get a response? If so, what happened?)
+
+  *  "She didn't respond"
+
+  *  "He and I have coffee scheduled on 02/14"
+
+  *  "She and I had coffee on 02/06 and I am going to tour the Allstate office next week on 02/16"

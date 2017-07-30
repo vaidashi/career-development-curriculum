@@ -2,12 +2,13 @@
 
 Build on your professional story by thinking about how you're progressing at Turing. Answer the questions below in your own gist to use your StrengthsFinder themes to add to your story:
 
-* Look at your initial StrengthsFinder reflection that you completed in week 1 -- how have your perceptions of the top 5 themes changed?
+* Write 1-2 paragraphs about your StrengthsFinder themes:
+      How have you seen yourself using these strengths at Turing? Has your understanding of these strengths changed since you first reflected on them? If so, how? 
 
-* How are you different today than when you first started at Turing? Where are you stronger now than on day 1?
+* Write a story about your Turing experience so far:
+    When have you struggled? How have you dealt with struggle? When have you succeeded at Turing? How did you accomplish those successes?
 
-* Considering how you describe these themes, how do you want others to see you as you continue to progress through Turing?
+* Answer the question: how does your Turing story end? Create a vision for your future and your career transition into being a junior developer.
 
-* How might these themes play a role in describing your Turing story?
-
-* Even though your Turing story isn't finished yet, what do you envision for your development in future mods? How will this story end?
+* After you practice storytelling in the session, answer this question:
+      What was particularly easy or difficult about telling your story? What are 1-2 steps that you can take to continue to improve your abilities to tell your story, talk about yourself with ease, and examine your strengths?

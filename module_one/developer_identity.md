@@ -58,7 +58,7 @@ If you don't already have a LinkedIn profile, now is time to set one up [here](h
 	* You can combine your past experiences with new skills like "Software Developer \| Former Educator"
 	* Examples:
 		* [Meg Stewart](https://www.linkedin.com/in/megstew/)
-		* [Lia James](https://www.linkedin.com/in/liajames/)
+		* [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)
 
 **First Look:**
 When a recruiter or potential employer clicks on your profile, they see 4 initial things:
@@ -95,6 +95,8 @@ Under education, make sure to include Turing again as this ties you to the [Turi
 **Unique URL:**
 Edit your URL with your name. Use just your first and last name, no numbers -- you don't want to open yourself up to any age discrimination.
 
+To edit your URL, click on "edit your public profile" on the righthand side of the screen. From there, you'll see an edit button for your URL.
+
 If your name is taken, use your middle name, etc. but it should be consistent across all social platforms. This is also easy to put on business cards.
 
 **Nice to haves:** *Don't spend a ton of time on these extras, but consider how they may add to your profile.*
@@ -120,8 +122,8 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
   <td><a href="https://www.linkedin.com/in/michaeldao?authType=NAME_SEARCH&authToken=uW_W&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A35154597%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970491750%2Ctas%3Amichael%20d">Mike Dao</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.linkedin.com/in/andrewcarmer?authType=NAME_SEARCH&authToken=j6pP&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A90187252%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970530651%2Ctas%3AAndrew%20Ca">Andrew Carmer</a></td>
-  <td><a href="https://www.linkedin.com/in/neightallen?authType=NAME_SEARCH&authToken=xfbk&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A15405068%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970564474%2Ctas%3ANate%20Allen">Nate Allen</a></a></td>
+  <td><a href="https://www.linkedin.com/in/icorson3/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Ilana Corson</a></td>
+  <td><a href="https://www.linkedin.com/in/neightallen?authType=NAME_SEARCH&authToken=xfbk&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A15405068%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970564474%2Ctas%3ANate%20Allen">Nate Allen</a></td>
   <td><a href="https://www.linkedin.com/in/louisabarrett?authType=NAME_SEARCH&authToken=O6X9&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A18902368%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970603391%2Ctas%3ALouisa">Louisa Barrett</a></td>
   </tr>
   <tr>
@@ -133,14 +135,14 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
    <td><a href="https://www.linkedin.com/in/megstew/authType=NAME_SEARCH&authToken=XB3a&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A383897055%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970853087%2Ctas%3AErin%20Will">Meg Stewart</a></td>
     </tr>
     <tr>
-   <td><a href="https://www.linkedin.com/in/alex-tideman-2a33821a/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Alex Tideman</a></td>
+    <td><a href="https://www.linkedin.com/in/rachel-martinez-16693956/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Rachel Martinez</a></td>
   <td><a href="https://www.linkedin.com/in/ellen-mary-hickmann-102791118/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Ellen Mary Hickmann</a></td>
   <td><a href="https://www.linkedin.com/in/brittanystoroz/authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Brittany Storoz</a></td>
   </tr>
   <tr>
-   <td><a href="https://www.linkedin.com/in/breethomas/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Bree Thomas</a></td>
   <td><a href="https://www.linkedin.com/in/robertjaeger0/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Robbie Jaeger</a></td>
   <td><a href="https://www.linkedin.com/in/taylor-moore-0298a635/authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Taylor Moore</a></td>
+  <td><a href="https://www.linkedin.com/in/tmikeschu/">Mike Schutte</a></td>
   </tr>
   <tr>
    <td><a href="https://www.linkedin.com/in/salespinosa/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Sal Espinosa</a></td>
@@ -148,8 +150,7 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
   <td><a href="https://www.linkedin.com/in/nathanielfosterofficial/authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Nathaniel Foster</a></td>
   </tr>
   <tr>
-   <td><a href="https://www.linkedin.com/in/icorson3/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Ilana Corson</a></td>
-  <td><a href="https://www.linkedin.com/in/rachel-martinez-16693956/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Rachel Martinez</a></td>
+   <td><a href="https://www.linkedin.com/in/limberg-mike/">Mike Limberg</a></td>
   </tr>
 </table>
 
@@ -173,8 +174,9 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 ### GitHub Overview
 - Add a headshot photo rather than using the avatar - CTOs will think you're an amateur otherwise
 - Complete GitHub profile with:
-	- location
-	- link to personal site once you have one
+	- Name
+	- Location
+	- Link to personal site once you have one
 	- Twitter handle
 
 #### Complete Profile

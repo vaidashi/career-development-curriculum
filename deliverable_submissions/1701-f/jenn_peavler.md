@@ -1,5 +1,28 @@
 # Jenn Peavler
 
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+    * Blog Post: Link to gist listing:
+       [Jenn Peavler's Blog Post](https://medium.com/@jpeavler/learning-to-contribute-my-first-dive-into-open-source-led-me-to-learn-a-little-ruby-b21a7b0359b6)
+       
+       This blog will be a great talking point with contacts and potential employers.  It demonstrates how I jumped into an unfamiliar codebase in an unfamiliar languange and quickly adapted in order to contribute to the project.  Not only that, but it gave me some experience with Ruby which is a very strong selling point to a lot of companies.
+       
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
+## Mod 3 Deliverables:
+
+* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
+[Jenn Peavler's Resume](https://drive.google.com/file/d/0B3ItQVupdvvgN3ZWLTF6amNBeU0/view)
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+[Jenn Peavler's Turing Portfolio](https://www.turing.io/node/add/graduate)
+* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+* Link to Trello Board with companies that are being tracked:
+[Jenn Peavler's Trello Board](https://trello.com/b/iKs0XkdX/job-tracker)
+* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+[Jenn Peavler's Action Plan](https://gist.github.com/jennPeavler/7e067a2e788f1b0027e859dae6948ef4)
+
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)

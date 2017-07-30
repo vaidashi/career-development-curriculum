@@ -37,15 +37,7 @@ Allison is the lead on all career development sessions outside of Gear Up. If yo
 
 Meg conducts 1-on-1 meetings with students in Modules 3, 4, and after graduation to provide support on the job search. She checks on and provides any necessary feedback on PD deliverables for Modules 3 and 4. 
 
-**Lia James, Partnerships Manager**
+**Ellen Mary Hickmann, Director of Professional Learning**
 
-Lia creates relationships with companies across the country to find out their hiring needs and recommends students who meet those needs. She works with Meg and Allison to learn more about specific strengths and interests of students to help make connections with companies that are a good fit.
-
-**Beth Sebian, Instructor, Gear Up M2-M4 Lead**
-
-Beth creates and helps facilitate Gear Up sessions for Modules 2-4. Any questions about that curriculum or the M2-M4 deliverables can go to her.
-
-**Ellen Mary Hickmann, Director of Professional Learning & Casey Cumbow, Instructor, Gear Up M1 Leads**
-
-Ellen Mary and Casey co-create curriculum and co-facilitate sessions for the Module 1 Gear Up sessions. Any questions about those sessions or their deliverables can go to them. 
+Ellen Mary creates curriculum and facilitates sessions for Gear Up sessions. Any questions about those sessions or their deliverables can go to her.
 

@@ -78,62 +78,58 @@ With mentors:
 
 When you're ready to apply this to industry contacts, you may also consider:
 
-* Informational interviews
+* Research conversations
 * Visit their company and tour their office
 * Company's process for hiring junior developers
 
 **Examples**:
 
-Example #1:
+Example #1 (warm outreach):
 
     Hi Jose,
 
-    My name is Gaby, and I'm a module two student in the Back End program at Turing. I'm originally 
-    from Chicago and would love to move back there after I graduate. I'd really like to connect 
-    with you to discuss your work and the tech scene there. I'm particularly interested in any advice 
-    you have for how I can prepare for my job search in Chicago. I noticed on your schedule that you are 
-    available Wednesdays at 5pm -- are you free next Wednesday the 28th? If so, I can set up Google 
-    Hangout. If that date/time doesn't work for you, please let me know a time that's better for you. 
+    I'm in Mod 2 in the Back End program at Turing. I'm originally from Chicago and hope
+    to move back there after I graduate. I'd love to discuss the tech scene there and any 
+    advice you have for my job search. 
+    I saw on the mentor schedule that you are available Wednesdays at 5pm -- are you free next 
+    Wednesday the 28th? If that date/time doesn't work for you, please let me know a time that's better 
+    for you. 
 
     Thanks,
     Gaby Martinez
-    @GabyMartinez
-    gabymartinez.com
-    555-555-1234
     
 What do you notice about this email? What is working well? What would you do differently?
 
-Example #2:
+Example #2 (warm outreach):
 
     Hi Jenna,
     
-    I'm reaching out because I'm currently in Mod Two of the Front End program at Turing. I'm starting
-    to learn React and figured it's about time I find a mentor. I saw that you work in React, and as I 
-    start to use it more in my projects, I would really appreciate any guidance you might be able to give 
-    me. Are you available to meet at Turing this Thursday (6/2) at 4pm? If not, please 
-    let me know a better date/time we could meet!
+    I'm starting to learn React in Mod Two of the Front End program and figured it's about time 
+    I find a mentor. I saw that you work in React! We're just starting to use that in our projects, 
+    and I'd love to pick your brain about it. Are you available to meet at Turing this Thursday (6/2) 
+    at 4pm to pair? If not, please let me know a better date/time we could meet!
 
     Thanks,
     Stefan Morris
-    smorris.me
-    @smorris
-    727-333-9877
     
 What do you notice about this email? What is working well? What would you do differently?
 
-Example #3: *This email is not to a mentor but rather leveraging a mentor relationship for a "colder" contact*
+Example #3 (cold outreach):
 
     Hi Mark,
     
-    My name is Katrina, and I'm a back end student at Turing. Our mutual connection Shauna Williams 
-    recommended I reach out to ask you about your work at Tech Choice. I'm very interested in pursuing 
-    work at a start-up like that and would really appreciate any advice you have for me as I start out as a junior dev. I       saw that you've posted in the Turing job hunt channel about senior positions opening up at Tech Choice. Any chance 
-    you'll be hiring junior devs soon? I'd love to talk with you about that too. What's your schedule like next week? I am 
-    free on Tuesday afternoon. We could meet at Dazbog off of Curtis and 18th. 
+    My name is Katrina, and I'm a back end student at Turing. I recently talked with Shauna Williams about
+    Tech Choice, and she recommended that I reach out to ask you about your work there. I'm very interested 
+    in pursuing work at a start-up like that and would really appreciate any advice you have for me as I begin 
+    my career as a junior dev. I saw that you've posted in the Turing job hunt channel about senior positions 
+    opening up at Tech Choice. Any chance you'll be hiring junior devs soon? I'd love to talk with you about 
+    that too. What's your schedule like next week? I am free on Tuesday afternoon. We could meet at Dazbog off 
+    of Curtis and 18th. 
 
     Thanks,
     Katrina Johnson
     @katrina
+    katrinajohnson.com
     303-123-4567
 
 What do you notice about this email? What is working well? What would you do differently?

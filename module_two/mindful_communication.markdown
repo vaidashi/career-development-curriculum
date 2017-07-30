@@ -7,9 +7,9 @@
 
 ## Opening (5 min)
 
-* This session falls into a series of sessions that you have already engaged in.  You started in Mod 1 week 5 with a viewing of the movie CODE in ordert to better understand the experiences of others in the tech world.  You have had multiple sessions on giving feedback and week 1 of Mod 2 you did a deeper reflection of how people experience privilege in different situations.
+* This session falls into a series of sessions that you have already engaged in.  You started in Mod 1 week 5 with a viewing of the movie CODE in ordert to better understand the experiences of others in the tech world.  You have had multiple sessions on giving feedback and this is an additional tool that you can use to increase the effectiveness of your feedback. 
 * This session is a space for us to reflect on the day to day conversations that we have with people, especially in context of teams and partner work.  Most conficts begin in day to day conversations, not in formal settings when we are giving feedback.  
-* This session is going to provide a potential framework to communicate effectively while also considering perspective of others.   
+* This session is going to provide a potential framework to communicate effectively while also considering perspective of other and the dynamics of power that we need to be conscious of when communicating.   
 * Ultimately, meaningful communication is going to lead to better pairing, better team work, and better products.  
 
 ## Review Agenda
@@ -36,7 +36,7 @@ Give the groups 5-6 minutes to share and then do a whole group share.  Some thin
 	* We don't have time to be mindful.  We are always under deadlines. 
 	
 	
-Highlight that these (and other) ideas will be addressed.  Move to slide 4 and highlight that we might not be great at mindful communication and their might seem to be barriers in our way (time, resources, etc); however, mindful communication is a SKILL that we can learn.  True growth mindset allows us to see mindful communication as something we are not great at, yet, but we can be if we focus on it.  Humans are not great at mindful communication.  We often revert or start by categorizing, judging, blaming, labeling, making comparisons.  That is how we have survived in the past and those things can help us make quick decisions.  However, these things that we are very good at also can cause us to jump to conclusions that distance us from what we want to actually achieve.  
+Highlight that these (and other) ideas will be addressed.  Move to slide 4 and highlight that we might not be great at mindful communication and their might seem to be barriers in our way (time, resources, etc); however, mindful communication is a SKILL that we can learn.  True growth mindset allows us to see mindful communication as something we are not great at, yet, but we can be if we focus on it.  Humans are not great at mindful communication.  We often revert or start by categorizing, judging, blaming, labeling, making comparisons.  That is how we have survived in the past and those things can help us make quick decisions.  However, these things that we are very good at also can cause us to jump to conclusions that distance us from what we want to actually achieve.  Last week you talked about active listening and the challenge of being fully present while at Turing.  It is impossible to be mindful of people's perspectives, potential power dynamics, or other issues if you are not fully present.  
 
 ## Nonviolent Communication Framework (5 min)
 
@@ -63,10 +63,11 @@ This framework only works if we spend time doing a good amount of self reflectio
 ## Needs and Requests (5 min)
 
 * These two are connected
-* Make it easier on people by being clear about your needs and your request. This saves cognitive energy.  
+* Make it easier on people by being clear about your needs and your request. This saves cognitive energy and resources.  
 * If someone is not being clear (maybe they don't tell you what they are thinking or feeling) develop your skill of ASKING someone what they  need and what the potential solution might be.  Being frustrated that someone isn't sharing is not a good solution.  You can and should ask for a reflection.
 * Consider your PRIVILEGE and POWER in the dynamic that you are in.  If you are in a space of power or privilge , extending a reflection is critical in order for you to SHARE power.  If you do not open the space, you can't share power. Most often people who are in a vulnerable space are less likely to openly communicate how they are doing.  So share the power and create better lines of communication.  
 * This is especially true with NON-verbal communication.  Just saying "I'm not good at picking up cues from others, they should just tell me" isn't going to get you very far and isn't really practicing empathy.  If you are not sure, ask.  Continue to ask throughout the time you are working together.  It will help your partner improve and it will help your work get done more effectively. 
+* Remember to consider your tone, body language, and eye contact when having these conversations.  This is extremely important to ensure you are being assertive and not passive, agressive, or passive agressive in this conversation.
 
 ## Practice (15 min)
 

@@ -7,6 +7,15 @@
 * [Chapter 4: Ask Questions Instead of Giving Direct Orders from How to Win Friends and Influence People in the Digital Age](https://github.com/turingschool/career-development-curriculum/blob/master/files/Chapter%204%20Ask%20Questions%20Instead%20of%20Giving%20Direct%20Orders.pdf)
 * [Chapter 5: Mitigate Fault from How to Win Friends and Influence People in the Digital Age](https://github.com/turingschool/career-development-curriculum/blob/master/files/Chapter%205%20Mitigate%20Fault.pdf)
 
+## Timeframe
+
+Length: 60 mins
+
+* Opening/review: 6 mins
+* Discussion #1: 20 mins 
+* Discussion #2: 24 mins
+* Reflections: 10 mins
+
 ## Learning Objectives:
 
 * Describe how to use agile practices with teams
@@ -35,12 +44,12 @@ Recap project management and agile practices:
 How do these practices relate to the success of a team?
 
 ## Leadership in Teams
-**Discuss Chapter 4 in small groups:**
+**Discuss Chapter 4: Ask Questions Instead of Giving Direct Orders in small groups:**
 
 * What was this chapter about?
 * Do you agree with this approach? Why/why not?
 * What does it mean to be a good leader?
-* How can you replicate this approach within teams, especially when there’s a project manager?
+* How can you replicate this approach within teams at Turing?
 
 **Whole Group Discussion: Project Managers**
 
@@ -62,8 +71,8 @@ Back in your small groups, define the role of the project manager for your group
 
 How can the project manager help in this situation? What would you do if Teammate A was your project manager?
 
-## How to handle Failure:
-**Discuss Chapter 5 in small groups:**
+## How to Handle Failure:
+**Discuss Chapter 5: Mitigate Fault in small groups:**
 
 * What was this chapter about?
 * What does it look like to actually learn from and move past mistakes?

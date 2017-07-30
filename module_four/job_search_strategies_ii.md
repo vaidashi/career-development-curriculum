@@ -81,4 +81,4 @@ Take the rest of the session to work on your deliverable.
 
 Put your plan into a gist to share with Meg. Here's an [example](https://gist.github.com/kjs222/7ef5e79a71eedf9d8c8d401da1e687c7) of what this can look like for your reference. 
 
-Meg will send you a newsletter each week focused specifically on job searching tips. Make sure to read that newsletter and set up 1-on-1s with her regularly to discuss your search progress. You can schedule time with Meg [here](https://megstew.youcanbook.me/index.jsp) and the password is *complete*.
+After graduation, you should still set up 1-on-1s with Meg regularly to discuss your search progress. You can schedule time with Meg [here](https://megstew.youcanbook.me/index.jsp) and the password is *complete*.

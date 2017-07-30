@@ -18,6 +18,6 @@ Be more emotionally available and present
 
 * How would you like your teammates to see you?
 
-Approachable
+Approachable, Helpful, Creative
 
 * Any other comments:
