@@ -1,14 +1,7 @@
 # Amy Holt
 
-## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen), which creates a copy of this repository. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request, make sure to post:
-
-* Your Module
-* Your First Name
-* Your Last Name
-
-Example: M1 Jessica Rodriguez
-
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* DTR Memo - [Linked List] (https://gist.github.com/ameseee/7ef77a61b0ee9289ba282aae78708984)
+* DTR Memo - [IdeaBox] (https://gist.github.com/ameseee/cdb07f542ef5a68198c643a80fa0f26c)
+* DTR Memo - [2DoBox-Pivot] (https://gist.github.com/ameseee/d0495ea53021c00504f5d9178fd412a4)
+* Gist on [Strengths and Storytelling Reflection] (https://gist.github.com/ameseee/252b8cea4250a3b13cf21f493f12b7a4)
