@@ -5,7 +5,7 @@ Students should clone their individual file and update them with gist links for 
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
-https://www.canva.com/design/DACece23zEM/uRxvQ_dxKFPA6rb4KQlewg/view?website
+https://www.canva.com/design/DACece23zEM/uRxvQ_dxKFPA6rb4KQlewg/view?utm_content=DACece23zEM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
 https://www.turing.io/alumni/laura-caroselli
