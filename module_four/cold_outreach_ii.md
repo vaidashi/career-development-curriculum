@@ -3,17 +3,21 @@
 [Slides for this lesson](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing)
 
 ### Session Structure:
+Time: 90 mins
+
 * Opening: objectives, deliverables, recap on cold outreach/networking and the why (8 mins)
 * Cold Outreach Overview (20 mins)
+* Cold Outreach Practice (20 mins)
 * Meetup Speaker Overview (10 mins)
+* Meetup Speaker Practice (10 mins)
 * Technical Blog Post Overview (10 mins)
-* Work time (10 mins)
+* Technical Blog Post Practice (10 mins)
 * Closing (2 mins)
 
 ### Objectives
 * Understand the purpose of cold outreach and networking in regards to your job search
 * Discuss how to leverage the network you have to find new relationships
-* Implement strategies to write effective outreach emails OR research Meetups to speak at OR brainstorm ideas for a technical blog post
+* Implement strategies to write effective outreach emails, researching Meetups to speak at, and brainstorming ideas for a technical blog post
 
 ### Deliverable
 For this deliverable, you have 3 options to choose from. To fulfill the deliverable requirement, you only need to submit documentation of 1 option although you're absolutely encouraged to do more than one. Whichever option you choose, you'll need to submit your deliverable via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). All three of these options are meant to push you out of your comfort zone when it comes to the role of networking in your job search -- *blindly submitting resumes is not the way to go in the tech industry.* These options are meant to help you start forming meaningful connections that will lead to increased exposure in the industry and more job leads. Check each option for specific due dates:
@@ -172,8 +176,28 @@ For more on the effectiveness of outreach and follow up, check out 1606-BE alum 
 * Spell their name or company name wrong
 * Writing a generic email (make sure to tailor it accordingly)
 
-#### Get Feedback
-Before you send out your email, if you're not sure about the tone or the wording, send it to Allison, Meg, or a peer for review. 
+### Practice & Group Feedback
+Spend 10 minutes drafting an email to the person you've been researching. Be sure to include:
+
+* Subject line
+* Connection
+* Call to action with a specific date and time
+
+**Pair & Share:**
+Form groups of 3-4 (4 max) and spend 10 minutes giving and receiving positive feedback and suggestions for improvement. Person A will read email and person B & C will both give:
+
+* 1 specific piece of appreciative feedback
+* 1 constructive recommendation for improvement
+
+Reminder of guidelines for feedback conversations. Be specific, actionable, and kind! Here are examples:
+
+* “I really like the way you circled back to the company mission!”
+* “Your subject line does a great job of capturing the reader's attention!”
+* “The personal connection about snowboarding was really clear!”
+* "I wasn't quite sure what your connection was. Try out a few different phrases to get more specific."
+* "I didn't hear a call to action. Provide a date and time to meet to make it easy for someone to respond."
+
+“Good job buddy!” is *NOT* constructive feedback
 
 ### Follow Up
 **What if they don't respond?**
@@ -217,7 +241,6 @@ OR
 Look for kinds of topics have been covered at this Meetup recently -- how could you contribute?
 
 #### Utilize Your Network
-* Denver.rb beginner's track is run by former Turing instructor, Andrew Carmer 
 * Mentor Ian Douglas frequently includes Turing students and alumni as speakers at the Boulder Python meetup
 * See what other meetups that Turing community members are involved in
 
@@ -248,6 +271,9 @@ More helpful prompts (from this [article](http://www.noelrappin.com/railsrx/2014
 
 #### Contact the Organizers
 Reach out to the organizers to find out their upcoming schedule and pitch your talk. Utilize the same cold outreach principles discussed above. 
+
+#### Practice Time
+Spend 10 minutes researching meetups and topics that you're interested in speaking on. Begin crafting an outline of a possible talk.
 
 ### Option 3: Writing a Technical Blog Post and Showing it Off
 Why do developers write blogs? The biggest reason is to **build relationships.** Just as with open source projects, blog posts are another way to share knowledge and invite collaboration from others.
@@ -330,11 +356,11 @@ The peer review process is similar to soliciting feedback on a project. As you d
 Now that you have a blog post, you need people to read it! As mentioned above, Medium is an excellent platform to write your blog post on as it's easy to post to other forms of social media or back to your own personal site. 
 
 ### Your Turn
-Time to decide on a deliverable that you want to pursue and begin your research! We'll take 10 minutes to work on these here in class, but you'll be expected to turn in one of these options on Monday of Week 5. 
+Spend 10 minutes choosing a format to write from and begin brainstorming a technical blog post. 
 
-* Option 1: Find someone you want to contact and draft your email
-* Option 2: Research meetups you'd like to speak at and consider what you want to say
-* Option 3: Choose a format to write from and begin a draft of your blog post
+Make sure to solicit feedback from others as you craft this!
 
 ### Closing & Next Steps
+Decide on a deliverable that you want to pursue, and you'll be expected to turn in one of these options on Monday of Week 5. 
+
 Remember to document your cold outreach and networking opportunities in your Trello board -- this will also make it easier to fill out the deliverable guidelines when you've kept a record of what has happened. 
