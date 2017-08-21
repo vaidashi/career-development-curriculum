@@ -1,3 +1,7 @@
+### MOD 3 DELIVERABLE
+
+* RESUME: https://uptowork.com/mycv/daniel_vogelsang
+
 ### MOD 2 DELIVERABLE
 
 #### Cold Outreach
