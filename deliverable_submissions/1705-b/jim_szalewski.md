@@ -1,14 +1,21 @@
-Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module First Name Last Name*, i.e. "M2 Allison Singer"
+# Jim Szalewski
+
+Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M3 BE Allison Singer"
+
+## Mod 3 Deliverables:
+
+* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+* Link to Trello Board with companies that are being tracked: 
+* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
 
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
-
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
-
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
-
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+* [Mentor outreach conducted](https://gist.github.com/jimszalew/4ba3ceb99a41b805a9e1d49b8a700f77)
+* [Agile Practices and Project Management](https://gist.github.com/jimszalew/5a1b351608e0fa7578bb03187b4b29d7)
+* [Reflection on in-person feedback conversation](https://gist.github.com/jimszalew/18e216f33cf4653cfdf22af5101002f2)
+* [Feedback implementation reflection & application of strengths](https://gist.github.com/jimszalew/7004b6d24bd42c25da37187f8fe7b2a5)
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo https://gist.github.com/jimszalew/1978abff2db4c8b832d5a9502f4cb2f8
-* Link to gist documenting your strengths & storytelling reflection https://gist.github.com/jimszalew/aa1e7f5e74af5ded6675c67dd1365cfd/edit
+* [Paired project DTR Memo](https://gist.github.com/jimszalew/1978abff2db4c8b832d5a9502f4cb2f8)
+* [Strengths & storytelling reflection](https://gist.github.com/jimszalew/aa1e7f5e74af5ded6675c67dd1365cfd/edit)
