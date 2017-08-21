@@ -5,6 +5,18 @@ Students should clone their individual file and update them with gist links for 
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
+
+### PLEASE READ FIRST:
+> Meg, I'm submitting the version of my cover letter and resume to which I entered Turing with. Because I've been hammering away at a project also due Monday, I decided not to begin the re-formatting of my resume. This process will take me a while, as I need to remove several parts / consolidate others / and add Turing to it (per our discussion the other day). On top of that, I'm still playing around with new design approaches. I'm going to work on getting a new version put together this week. In the mean-time, please review my cover letter :)
+
+**this is uncharacteristic of me to fall short on a deliverable, but without having the time to put gether something I can be proud of, I didn't want to rush through a re-format and have you review something half-assed that I wasn't happy with myself**
+
+> Cover Letter:
+> https://slack-files.com/T029P2S9M-F6QHR0M88-e062592cd7
+
+> Resume:
+> https://slack-files.com/T029P2S9M-F6R7F7ZPC-872390c8da
+
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
 * Link to Trello Board with companies that are being tracked: 
