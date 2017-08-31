@@ -15,4 +15,4 @@ Example: M1 BE Jessica Rodriguez
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
 
 
-DTR for Project Night_Write <script src="https://gist.github.com/dionew1/9c4cad7c712b18992b2793b48ae1018d.js"></script>
+DTR for Project Night_Write https://gist.github.com/dionew1/9c4cad7c712b18992b2793b48ae1018d.js
