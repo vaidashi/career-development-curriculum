@@ -21,7 +21,7 @@ Your Gear Up pre-work is focused on Empathy, so that is not a focus of this pre-
 * Begin analyzing how your strengths apply to your development at Turing
 
 ### Directions: 
-For the activities listed below, **please put your reflections for each of these 3 parts in your Pre-work gist.**
+For the activities listed below, **please put your reflections for each of these 3 parts in your pre-work gist.**
    
 1. Read through [29 Behaviors That Will Make You an Unstoppable Programmer](http://blog.thefirehoseproject.com/posts/29-behaviors-will-make-unstoppable-programmer/)
    
