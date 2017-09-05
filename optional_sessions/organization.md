@@ -30,6 +30,7 @@ Syncing with Module Calendars, setting up deadlines, notifications, etc.
 Slack is Turing's main mode of communication, so we expect students to be checking it regularly. However, with all the channels and notifications, how can you keep it all straight?
 
 Start by setting up your notifications
+
 ![Opening Notifications](images/Opening%20Notifications.png)
 
 
