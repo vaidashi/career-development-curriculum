@@ -29,7 +29,7 @@ Syncing with Module Calendars, setting up deadlines, notifications, etc.
 ### Managing Messages & Notifications in Slack 
 Slack is Turing's main mode of communication, so we expect students to be checking it regularly. However, with all the channels and notifications, how can you keep it all straight?
 
-Start by setting up your notifications
+Start by setting up your notifications. Hit ```command ,``` to open up Notifications:
 
 ![Opening Notifications](https://github.com/turingschool/career-development-curriculum/blob/master/images/Opening%20Notifications.png)
 
