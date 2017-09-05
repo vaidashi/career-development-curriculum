@@ -31,7 +31,7 @@ Slack is Turing's main mode of communication, so we expect students to be checki
 
 Start by setting up your notifications
 
-![Opening Notifications](<img src=" https://github.com/turingschool/career-development-curriculum/blob/master/images/Opening%20Notifications.png" alt="Opening Notifications" width="100" height="80"> )
+<img src=" https://github.com/turingschool/career-development-curriculum/blob/master/images/Opening%20Notifications.png" alt="Opening Notifications" width="100" height="80">
 
 
 
