@@ -1,10 +1,10 @@
 # Success with Organization
 
-## 
+## How to Manage All the Things
 
 [Slides for this session](
 
-### Session Time: 60 minutes
+#### Session Time: 60 minutes
 
 * Opening (3 mins)
 * Self-Assessment (5 mins)
