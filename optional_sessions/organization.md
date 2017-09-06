@@ -21,7 +21,7 @@ Staying organized at Turing can be challenging for even the most put-together pe
 Objectives of this session:
 * Assess how you feel about certain areas of 
 
-Relating back to the mission: Turing's mission is to train...
+Relating back to the mission: *Turing's mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.* In this session, we're focused on this "unlocking human potential" piece because we can all become better organized by incorporating some intentional strategies!
 
 ### Self-Assessment 
 
