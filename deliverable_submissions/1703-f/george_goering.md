@@ -9,9 +9,8 @@ Students should clone their individual file and update them with links to specif
       * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
       * Your talk outline (1-2 paragraphs)
       * 3-4 sentences on how you hope to utilize this talk to help you in your job search
-    * Blog Post: Link to gist listing:
-       * Link to blog post on something you've learned
-       * 3-4 sentences on how you're using this blog post to connect with other people in your network 
+    * [Blog Post](https://medium.com/@ggoering/want-to-get-your-first-open-source-contribution-do-something-simple-like-really-simple-113830e7d323)
+    - My network is pretty much all Turing people.  So if any of them want to get my take on what allowed my PR to get merged on my first try, they might find it helpful.  I would also use the writing practice as a way to get better and hopefully write a more technical blogpost in the future.
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
