@@ -16,3 +16,5 @@ Example: M1 BE Jessica Rodriguez
 
 
 DTR for Project Night_Write https://gist.github.com/dionew1/9c4cad7c712b18992b2793b48ae1018d.js
+
+Strengths & Storytelling Refelction "https://gist.github.com/dionew1/1cd465e23d97acfcfa21d4bf027c4351.js"
