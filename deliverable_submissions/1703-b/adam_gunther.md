@@ -2,6 +2,10 @@
 
 Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
 
+## Mod 4 Deliverables:
+
+* [Cold Outreach](https://gist.github.com/adamgunther1/777aa9717cb236a9e2481f5317f6124c)
+
 ## Mod 3 Deliverables:
 
 * [Resume](https://drive.google.com/file/d/0B-uFDCEZa7tSejRnWm1Ta0Y5eEk/view?usp=sharing)
