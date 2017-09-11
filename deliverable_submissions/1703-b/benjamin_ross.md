@@ -8,7 +8,7 @@ Students should clone their individual file and update them with links to specif
 Emails: https://gist.github.com/Benja-Ross/6cc72a2d9271060916abf2958d64a2a8
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):  https://gist.github.com/Benja-Ross/cd6bdca5cbe4712afe5223917be40e7f
 
 ## Mod 3 Deliverables:
 
