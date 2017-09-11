@@ -17,6 +17,7 @@ https://www.turing.io/alumni/jimmy-truong
 https://gist.github.com/jtruong2/4323360cf549ac0ebac684cb3f125e4a
 
 * Link to Trello Board with companies that are being tracked: 
+
 https://trello.com/b/N2RvFAYM/job-hunt
 
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
