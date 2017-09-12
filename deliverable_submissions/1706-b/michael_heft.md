@@ -9,6 +9,18 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 
 Example: M1 Jessica Rodriguez
 
+## Mod 2 Deliverables:
+Link to gist documenting mentor outreach conducted using these guidelines
+
+Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+
+Link to reflection on in-person feedback conversation using these guidelines
+https://gist.github.com/mikeyduece/52670bb85a91c2cceff54d1a66333476
+
+Link to feedback implementation reflection & application of strengths to teams using these guidelines
+
+
+
 ## Mod 1 Deliverables Round 2:
 
 DTR memo:
