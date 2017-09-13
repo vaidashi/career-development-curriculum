@@ -10,8 +10,10 @@ Students should clone their individual file and update them with links to specif
       * Your talk outline (1-2 paragraphs)
       * 3-4 sentences on how you hope to utilize this talk to help you in your job search
     * Blog Post: Link to gist listing:
-       * Link to blog post on something you've learned
-       * 3-4 sentences on how you're using this blog post to connect with other people in your network 
+         * [Four Principles Article](https://medium.com/@benjaminpjacobs/the-four-principle-of-object-oriented-programming-f78600f62608)
+         * [Beautiful Markup Article](https://medium.com/@benjaminpjacobs/beautiful-markup-ff8d4875ea20)
+         * These two artciles mark the beginning of my technical blogging presence. In addition to these I have a third in the works about GraphQL. Thus far I have not only spread this post on medium, twitter, linked in and facebook but have used it as jumping off point in emails with recruiters and development professionals. Overall this has been of great assistance in giving me some credibility among new connections.
+         
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
