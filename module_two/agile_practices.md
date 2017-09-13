@@ -28,19 +28,40 @@ Deliverable ideas:
 
 Length: 90 minutes
 
+* Opening: objectives, deliverable, why (5-6 mins)
+* Waterfall vs. Agile (6 mins)
+   * Turn & Talk (5 mins)
+   * Whole Group share-out (3 mins)
 * 
 
-### Objectives
+### Objectives (Jeff & Allison)
 
-### Deliverable
+### Deliverable (Allison)
 
-### Opening
+### Opening (Jeff & Allison)
 Discuss the why / provide a hook -- relating to teamwork...
 
-### Waterfall vs. Agile
-
+### Waterfall vs. Agile (Jeff)
+ 
 #### Turn & Talk:
 * What are benefits/downsides to both Waterfall and Agile?
-* How do you see Agile already being used at Turing?
+* How do you see Agile already being used in your processes at Turing?
 
 1-3 groups share out takeaways to the whole group. 
+
+### Agile in Practice (Jeff)
+* The Sprint
+* Intro to Stories
+* Student Practice: Writing a story
+
+### Project Management Tools (Jeff)
+* Git Workflow
+* Waffle
+
+#### What This Can Look Like at Turing (Jeff)
+* Turn your requirements into stories following this template
+* Prioritize stories and schedule sprints (even just 2-3 days)
+* Deploy to production, maybe solicit feedback from "users"
+* Cutting scope is okay, cutting quality isn't
+
+### How Teams Work Together
