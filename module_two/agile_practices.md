@@ -64,4 +64,14 @@ Discuss the why / provide a hook -- relating to teamwork...
 * Deploy to production, maybe solicit feedback from "users"
 * Cutting scope is okay, cutting quality isn't
 
-### How Teams Work Together
+### How Teams Work Together (Allison)
+Let's talk now about how teams work together....
+
+#### Turn & Talk
+
+* What has made your previous teams successful? What has made them difficult?
+* When working together for the first time, what can you do/have you done to make sure your team is productive?
+
+2 groups share out from their discussions.
+
+
