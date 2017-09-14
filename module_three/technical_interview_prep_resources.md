@@ -19,6 +19,7 @@ Super mentor Ian Douglas has published [this handy guide](https://docs.google.co
 
 ### Apps & Other Resources
 
+* [Pramp](https://www.pramp.com/#/) is a free site to practice technical interviews with a peer
 * Coding challenges resources:
    * [Turing challenges](https://github.com/turingschool/challenges)
    * [Code Wars](https://www.codewars.com/)
