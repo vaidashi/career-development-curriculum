@@ -1,15 +1,10 @@
 # Brandon Farestad-Rittel
 
-## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen), which creates a copy of this repository. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request, make sure to post:
-
-* Your Module
-* Your Program
-* Your First Name
-* Your Last Name
-
-Example: M1 FE Jessica Rodriguez
+Example: M1 FE Brandon Farestad-Rittel
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+[DTR Project 1](https://gist.github.com/bfarestadrittel/a2b36a35732df61ce443f47f43a145f9)
+[DTR Project 2](https://gist.github.com/HartiganHM/ab0b418d881c4a261febb9d52272b902)
+[DTR Project 3](https://gist.github.com/julieahawkins/eea524687380359e95eda1dc905f3edd)
+
+[Storytelling Gist](https://gist.github.com/bfarestadrittel/6856f7364e3a4a9a97345b0d267bdd56)
