@@ -67,6 +67,16 @@
 15. Longterm: What do you want to learn this module to turn your talents into greater strengths? How will this help you with your professional or personal goals?
 
 
+### Repeating the Module
+If you've reflected on your StrengthsFinder results previously, here are some additional questions you may want to consider during this second module:
+
+* How did you see yourself using your strengths last module?
+* When did you overuse any of your strengths? When did you underuse them?
+* What did you realize about yourself both in your struggles and in your wins last module?
+* How could you capitalize on your strengths more effectively this time through the module?
+* How did working with others last module affect how you understand your strengths?
+* What goals for your personal development do you want to make for this module? How will you know if you've achieved them?
+
 
 ### Next Steps
 This reflection is for your own growth, and you do not need to turn this in. 

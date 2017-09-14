@@ -7,12 +7,12 @@
 
 Length: 60 minutes
 
-* Opening (4 mins)
-* Individual Reflection (8 mins)
-* Pair & Share: Inquiry (11 mins)
+* Opening (3 mins)
+* Individual Reflection (10 mins)
+* Pair & Share: Inquiry (10 mins)
 * Agile Review (5 mins)
-* Group Activity (20 mins)
-* Whole Group Debrief (5 mins)
+* Group Activity (18 mins)
+* Whole Group Debrief (7 mins)
 * Final Reflection (7 mins)
 
 ### Objectives:
@@ -34,24 +34,26 @@ Reflect on how your StrengthsFinder strengths have helped you worked with pairs 
 * How do you feel like you have used your strengths when you've paired with others?
 * How could you utilize these strengths more?
 * What gets in your way or keeps your from fully using your strengths?
+* Reference the [strengths leadership domain hand-out](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing) to see which leadership domains you may emphasize the most 
 
 ### Pair & Share: Inquiry 
 Pair up with a former team member. Describe a few of your strengths to each other.
 
 * Have you seen me express these strengths? If so, how?
 * What advice do you have on how I could express this strength more?
+* Discuss the [strengths leadership domains](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing) on what kinds of leadership you saw most when working with each other
 
 ### Agile Review 
 Read through the [Agile Manifesto](http://agilemanifesto.org/) again. 
 
 * How does this manifesto describe teamwork to you? 
-* Is there anything missing that could describe a better approach to team projects?
+* What might be missing from this manifesto that could describe a better approach to team projects? How might other perspectives help us understand teamwork better?
 * How is this manifesto relevant to the work you've been doing in Mod 2?
 
 ### Group Activity 
 With your project team members/pair, discuss your approach to the project thus far -- how are each other's strengths being utilized? How do your strengths complement each other? 
 
-Using the [12 principles of Agile](http://agilemanifesto.org/principles.html) as a model, work as a team to come up with a set of principles to leverage each team member's strengths and how this will positively impact your team for the rest of the project. 
+Using the [12 principles of Agile](http://agilemanifesto.org/principles.html) as a model, work as a team to come up with a set of inclusive principles to leverage each team member's strengths and how this will positively impact your team for the rest of the project. 
 
 * BEE: Little Shop Groups
 * FEE: Weatherly Pairs

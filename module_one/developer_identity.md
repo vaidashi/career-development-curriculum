@@ -174,8 +174,9 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 ### GitHub Overview
 - Add a headshot photo rather than using the avatar - CTOs will think you're an amateur otherwise
 - Complete GitHub profile with:
-	- location
-	- link to personal site once you have one
+	- Name
+	- Location
+	- Link to personal site once you have one
 	- Twitter handle
 
 #### Complete Profile

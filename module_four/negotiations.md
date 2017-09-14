@@ -70,7 +70,7 @@ When you are asked that question, recognize that you don't have the context to p
     * What do *you* care about? 
     * What's missing from the offer? What didn't they talk about?
       * In this example, they did not mention a 401k, maternity/paternity leave, signing bonuses, or other perks
-  * Talk to someone you trust to get some feedback (mentors, Lia, Meg, etc.)
+  * Talk to someone you trust to get some feedback (Meg, mentors, etc.)
   * Reach out to any other companies that you're talking with. Let them know that you’ve received an offer, and ask, *"do you know what your timeline is for making a hiring decision?"* Ask for any next steps.
     * Why do this? You're leveraging your offer (see *Create Leverage* below). You've also taken the guessing game out of it; instead of stressing about the offers, the ball is in their court. 
     * This also tells the company that you a person who is sought after, which increase their interest
@@ -115,8 +115,7 @@ When you are asked that question, recognize that you don't have the context to p
 * **Keep in Mind:**
   * Don’t negotiate too high, so you don’t waste that extra money you could’ve negotiated earlier
   * Negotiating just an extra $1000 or two isn't worth it -- it doesn’t even out to a lot of money. It could make you look petty. You don't want to ruin a relationship over it
-  * There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back. 
-    * In the 500-600 people that Lia has had experience with coaching negotiations, that has only happened once. 
+  * There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back.  
     * If a company rescinds simply because you brought up the conversation while you were respectful, that was probably a red flag and you dodged a bullet
     * You should be somewhere you want to be and where you’re valued
     * If they rescind the offer because you were disrespectful, that’s different. *But we don't expect you to be disrespectful*
