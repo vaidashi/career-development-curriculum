@@ -11,6 +11,7 @@ Example: M1 Jessica Rodriguez
 
 ## Mod 2 Deliverables:
 Link to gist documenting mentor outreach conducted using these guidelines
+https://gist.github.com/mikeyduece/97cfaf651636060d5836dcbff01ea5da
 
 Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
 
