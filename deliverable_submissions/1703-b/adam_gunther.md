@@ -15,6 +15,10 @@ Students should clone their individual file and update them with links to specif
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
 
+## Mod 4 Deliverables:
+
+* [Cold Outreach](https://gist.github.com/adamgunther1/777aa9717cb236a9e2481f5317f6124c)
+
 ## Mod 3 Deliverables:
 
 * [Resume](https://drive.google.com/file/d/0B-uFDCEZa7tSejRnWm1Ta0Y5eEk/view?usp=sharing)
