@@ -1,17 +1,15 @@
 # Documentation Guidelines for Cold Outreach I Deliverable:
 
 * Name of contact
-  * "The mentor (or alum) I contacted is ______"
+  * "The mentor and alum I contacted is Tan"
 
 * Date of contact
-  * "01/29/2017"
+  * "06/23/2017"
 
 * Outcome (i.e., did you get a response? If not, what is your follow-up plan? Did you meet? When? What was the result?)
 
-  *  "She didn't respond. I'm going to reach out to _________ instead."
-
-  *  "He and I have coffee scheduled on 02/14 to discuss advice he has for a new developer."
-
-  *  "She and I paired over ScreenHero for an hour on drills. We've scheduled another pairing for 02/26 to prep for my final assessment."
+  *  Tan and I connected through the TAAP Turing channel. We try to meet once every week. He comes on-campus and we pair on my homework/projects.
 
 * How do you feel like this relationship will benefit you in your longterm professional development? 
+
+  *  Tan is a great mentor because he pushes me to learn new things outside of what Turing is teaching. He is currently teaching me Javascript and Vim. I feel like my relationship with Tan will make me a better programmer.
