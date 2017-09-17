@@ -5,8 +5,9 @@
 
 * Link to reflection on agile practices/project management used in projects [Link to PD - Reflections on Agile and Waterfall](https://gist.github.com/JoelLindow/f8dc3687cce616fd6c6f5506a3294d40)
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://gist.github.com/JoelLindow/d005df2ea18d6251294eda88f0aaca7b)
+* Link to reflection on in-person feedback conversation using these [link](https://gist.github.com/JoelLindow/d005df2ea18d6251294eda88f0aaca7b)
 
+* Link to reflection on in-person feedback for Bike Share group 2 [link](https://gist.github.com/JoelLindow/bc99f7a7f2668bfac1215d9de63a0eee)
 
 * Link provided in instruction was not valid. Could not get access to formal instructions. I assumed it was refering to our feedback in the session where we did reflection on our Strengths Finder with groups in Clark Hall:[guidelines](https://gist.github.com/JoelLindow/d346ddca34fdc6b8e543427c47d070d6)
 
