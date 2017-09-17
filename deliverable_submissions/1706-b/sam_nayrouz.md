@@ -13,7 +13,7 @@ Link to reflection on agile practices/project management used in projects (What 
 
 Link to reflection on in-person feedback conversation using these guidelines [gist](https://gist.github.com/snayrouz/57baddb70b3ea2f4489575ffd3020aaf)
 
-Link to feedback implementation reflection & application of strengths to teams using these guidelines
+Link to feedback implementation reflection & application of strengths to teams using these guidelines[gist](https://gist.github.com/snayrouz/068c8f7cb05065d11583ef8078e21b7d)
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo [link](https://gist.github.com/snayrouz/548a116d628af689175bd4395b955d97)
