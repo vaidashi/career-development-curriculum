@@ -11,7 +11,7 @@ Link to gist documenting mentor outreach conducted using these guidelines [gist]
 
 Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?) [gist](https://gist.github.com/snayrouz/67cee38d951b0090fd6310d53188440e)
 
-Link to reflection on in-person feedback conversation using these guidelines [gist] (https://gist.github.com/snayrouz/57baddb70b3ea2f4489575ffd3020aaf)
+Link to reflection on in-person feedback conversation using these guidelines [gist](https://gist.github.com/snayrouz/57baddb70b3ea2f4489575ffd3020aaf)
 
 Link to feedback implementation reflection & application of strengths to teams using these guidelines
 
