@@ -7,7 +7,7 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 
 Mod 2 Deliverables:
 
-Link to gist documenting mentor outreach conducted using these guidelines
+Link to gist documenting mentor outreach conducted using these [guidelines](https://gist.github.com/snayrouz/be497fd51c060a4a6dc2165addbe58d5)
 
 Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
 
