@@ -1,7 +1,5 @@
 # Joel Lindow
 
-Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M2 BE Allison Singer"
-
 ## Mod 2 Deliverables:
 * Link to Joel's Cold Outreach [Link to PD - Cold Outreach](https://gist.github.com/JoelLindow/7d0fa038f9462875efa2b7af887756c5)
 
