@@ -1,10 +1,18 @@
 # Benjamin Ross
 
-Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
+Students should clone their individual file and update them with links to specific deliverables before making a Pull Request. Please format your pull request like this: *Module Program First Name Last Name*, i.e. "M4 BE Allison Singer" 
+
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+    * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
+Emails: https://gist.github.com/Benja-Ross/6cc72a2d9271060916abf2958d64a2a8
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):  https://gist.github.com/Benja-Ross/cd6bdca5cbe4712afe5223917be40e7f
 
 ## Mod 3 Deliverables:
 
-* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
+* Link to resume *(https://resume.creddle.io/resume/e744fx284no)*: 
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
 * Link to Trello Board with companies that are being tracked: 

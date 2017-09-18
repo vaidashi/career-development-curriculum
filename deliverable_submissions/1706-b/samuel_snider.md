@@ -8,8 +8,6 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 * Your First Name: Samuel 
 * Your Last Name: Snider
 
-Example: M2 BE Allison Singer
-
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 https://gist.github.com/samuelssnider/20132326db47462369d3148f6552cbda
