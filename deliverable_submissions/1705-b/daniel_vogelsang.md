@@ -1,7 +1,7 @@
 ### MOD 3 DELIVERABLE
 
 * RESUME: https://uptowork.com/mycv/daniel_vogelsang
-* TuringProfile:
+* TuringProfile: https://www.turing.io/alumni/daniel-vogelsang
 * FlowerExercise: https://gist.github.com/thedanielvogelsang/d4ffbd3f4c74dc170f5882e385bbed88
 * TRELLO: https://trello.com/b/eK77vQVL/my-to-do-board
 * JobSearchPlan: https://gist.github.com/thedanielvogelsang/95f9e51b555acab845c40b7237f17b0e
