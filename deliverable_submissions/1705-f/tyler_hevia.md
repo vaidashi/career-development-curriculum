@@ -4,11 +4,11 @@ Students should clone their individual file and update them with gist links for 
 
 ## Mod 3 Deliverables:
 
-* Link to resume: [Resume](https://drive.google.com/file/d/0B52-HhfYDqM5NEwxREd1V3g2aWM/view) 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* Link to resume: [Resume](https://drive.google.com/file/d/0B52-HhfYDqM5b1h5dGtLa3lpOVk/view?usp=sharing) 
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume: [Portfolio](https://www.turing.io/user)
+* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf): [Flower Exercise](https://gist.github.com/tylerjhevia/dad4f7bf17bb56fd718aa5cb27e7fa8d)
+* Link to Trello Board with companies that are being tracked: [My Trello](https://trello.com/b/kLSo3cIw/my-to-do-board?menu=filter&filter=label:green,label:yellow,label:none)
+* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md): [Job search plan](https://gist.github.com/tylerjhevia/de6919a580be00d6aa5daafae772fdb9)
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md): [Mentor Outreach](https://gist.github.com/tylerjhevia/3e98bac7cef825e71e320ce4f7736751)
