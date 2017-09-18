@@ -19,7 +19,7 @@ Link to reflection on agile practices/project management used in projects (What 
 https://gist.github.com/mikeyduece/df16a47b5e21d241201219f26867e816
 
 Link to reflection on in-person feedback conversation using these guidelines
-https://gist.github.com/mikeyduece/52670bb85a91c2cceff54d1a66333476
+https://gist.github.com/mikeyduece/7b14acec926066f23d0cc6dc534978b6
 
 Link to feedback implementation reflection & application of strengths to teams using these guidelines
 https://gist.github.com/mikeyduece/52670bb85a91c2cceff54d1a66333476
