@@ -1,4 +1,8 @@
 # Tim Tyrrell
+DTR LINK : https://gist.github.com/timomitchel/90a09f6d137f640c1d95e09b6853afa7
+
+Storytelling Reflection Link: https://gist.github.com/timomitchel/c75f1b031d62a1de1541ce495c1c88b0
+
 
 ## Directions to Submit PD deliverables:
 Fork this repo (the fork button is at the top righthand side of your screen), which creates a copy of this repository. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request, make sure to post:
