@@ -18,18 +18,13 @@ Students will leave Module Three with a clear blueprint for their job search by 
 ### Sessions
 
 * [Professional Storytelling: Resumes, Cover Letters, & Turing Portfolio](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling.md)
-* Gear Up 1: Citizenship
-* What Color is Your Parachute: Flower Exercise
-* Finding Opportunities
-* Gear Up 2: Parable of the Polygon/Automation
+* [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
+* [Finding Opportunities](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/finding_opportunities.md)
 * [Interview Prep](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/technical_interview_prep_resources.md)
 * [Job Search Strategies I](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)
-* Gear Up 3: Case Study
-
-* Optional Session (offered during Weeks 2 and 4 Spike): Stress Management Strategies
 
 ### Deliverables
-In order to fulfill the requirements of module three, students will submit these deliverables:
+In order to fulfill the requirements of module three, students will submit these deliverables
 * Resume
   * [Resume draft](https://resume.creddle.io/resume/bq9hc7cmlx8)
 * Flower Exercise
@@ -42,6 +37,13 @@ In order to fulfill the requirements of module three, students will submit these
   * https://gist.github.com/JF-Lalonde/8952255f35a11577f632cb10fcec6999
 * Job search action plan for Module 4
   * https://github.com/JF-Lalonde/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md
+
 * Gear Up-related reflections
   * https://gist.github.com/JF-Lalonde/37404e6769fabfb6ab0025d0f0bcb0a7
 You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
+
+### Gear Up Sessions
+
+* Gear Up 1: Microaggressions
+* Gear Up 2: Parable of the Polygon/Automation
+* Gear Up 3: Case Study with Module 4

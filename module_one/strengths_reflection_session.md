@@ -8,7 +8,7 @@
 * Reflect on StrengthsFinder results 
 * Create goals for your professional development at Turing
 
-### Deliverable
+### Optional Deliverable
 Complete this [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist and DM it to Allison. If you would like to schedule a coaching session with her, please indicate that in your DM to her. 
 
 ### What is a Strength?

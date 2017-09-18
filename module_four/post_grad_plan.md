@@ -30,96 +30,42 @@ The third part is optional although highly encouraged.
 	* Network   
 	* Any other areas where you'd like to grow
 How much time will you spend on each? When will you do each thing?
-
+Code: 2 Hours in Morning / 2 Hours after lunch each Day
+Outreach: 1 hour each day
+Research: 2 hours each day
+Networking: 2 event/activities per week + 1 blog post per week
 
 
 2. Backwards planning: What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
-
+October 30
 
 
 3. Based on what you outlined above, create monthly, weekly, and daily goals in order to reach your big goal.
-
-Keep in mind:
-
-* What skills would you like to improve or develop?
-* What is feasible in your schedule?
-* What actions will give you the most impact in your search?
-
-
+Weekly: See above
+Monthly: participate in Hackathon, training program, networking.
+Work through the frontend program curriculum
+Continue practicing Solidity development
 
 4. Block out time on your calendar *now* to adhere to these goals. At the end of each week, assess what worked with the schedule and what didn't so that you can make adjustments as needed and manage your time even more effectively for the following week. 
-
-
-
-
+Done.
 
 5. What "barriers" tend to hold you back in the job search? What steps will you take to overcome those "barriers"?
-
-
-
-
-
-
-**[Example](https://gist.github.com/kjs222/7ef5e79a71eedf9d8c8d401da1e687c7)** of clearly outlined goals and schedule to complete them. 
+Cold Outreach and Networking on oneside then having to throw my resumé into the anonymous pile on the other hand.
+Practicing and 'just doing' the first will help me with the second.
 
 
 ## #2: Longterm Career Plan: What are your career goals?
 Where do you want to go in your career? 
-
-Reflect on this [narrative rule described by Emma Coats, former Pixar story artist](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar):
-
-	Come up with your ending before you figure out your middle. Seriously. 
-	Endings are hard, get yours working up front.
 	
 1. Imagine that it's 5 years from now - what have you accomplished during that time? How is your life different? What steps did you take to achieve your goals?
+I want to be speaking at tech conferences and developing new tools/languages/systems that are used broadly by the community.  I would like to be working on an app/at a company that has a broad user base where we are having a positive influence on their lives.  I would like to be helping lead a team of dedicated people.
 
+Key to this goal is participating in Open Source, reaching for the stretch goals along the way and keeping focus on what those are so as not to get distracted by what is available and easy.
 
 2. Create a vision statement for these longterm goals.
 
-	Guidelines for writing your vision statement:
-
-	* Make your statements stretching, challenging, and interrupting of the status quo.
-	* Write in the future tense (I will...)
-	* Is the statement grounded -- have you been able to demonstrate something similar in the past?
-
+See above.
 
 3. Reference what you outlined in your Flower Exercise -- what preferred level of responsibility do you want to move to? Do you want to start your own company? What kind of work do you see yourself doing longterm? In your first year on the job, what skills do you want to develop to work towards your longterm goals?
+I will be achieving a high level of responsibility in whatever I am doing 5 years from now.  It could be owning my own company again or working for a company that I am an influencial part of. The work I will be doing will be technically challenging and meaningful to its target audience.
 
-
-
-## Optional: Furthering your Skills and Contributing to the Developer Community
-You're encouraged to pick one of the below options to work on in addition to the previous two. However, these are both completely optional.
-
-### Option #1: Side Hustle Plan
-What side project(s) do you want to work on? How could you decide on a side project?
-
-Take these steps:
-
-1. Generate and come up with an idea:
-	* Read and research -- what problems need solving?
-	* Brainstorm -- what's important to you?
-	* Have fun! What would be fun and exciting to try out?
-
-2. Document a plan for your side project:
-	* What will your MVP look like?
-	* When do you want working software by?
-	* Who are your users?
-	* Etc.
-
-
-
-### Option #2: Open Source Project
-How do you want to contribute to the developer community? 
-
-* Find an Open Source project couple projects you’d be interested in, why you’re interested, how you would like to contribute
-
-
-
-### Option #3: Community Involvement
-How do you want to be involved in the developer community?
-
-How you could approach this option:
-
-* Research at least 3 conferences you'd be interested in attending -- what would you get out of them? Do you want to speak at a conference at some point?
-* Find 3 new meetups to join -- how could you contribute to those meetups?
-* Write 3 new blog posts -- how can you share information with others?

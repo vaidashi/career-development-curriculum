@@ -1,17 +1,17 @@
-  # Carl Richmond
-  
-  Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
+# Carl Richmond
 
-## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+Students should clone their individual file and update them with links to specific deliverables before making a Pull Request. Please format your pull request like this: *Module Program First Name Last Name*, i.e. "M4 BE Allison Singer" 
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three): [Meetup Outline](https://gist.github.com/ACC25/89c68f85b85c66e25cd95861ec40769b)
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+### Mod 3 Deliverables:
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
-  
-  ## Mod 1 Deliverables:
-
-DTR memo: https://gist.github.com/ACC25/272fdb9b630938fd885ed55bcd6b28fe
-Strengths & storytelling reflection: https://gist.github.com/ACC25/477cea7d90802101f10d4f30ade05037
+* [Mod3 Resume](https://www.turing.io/sites/default/files/resumes/carl_richmond_mod3_resume.pdf)
+* [Turing Portfolio](https://www.turing.io/alumni/carl-richmond)
+* [Flower Exercise](https://gist.github.com/ACC25/da6f255f4c42380fe55c18bd63729237)
+* [Trello Board](https://trello.com/b/8dGYBXpv/job-board)
+* [Job Action Plan](https://gist.github.com/ACC25/e1426982dc2eeef4727bc5a0219d78e8)
