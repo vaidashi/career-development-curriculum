@@ -3,18 +3,13 @@
 Students should clone their individual file and update them with links to specific deliverables before making a Pull Request. Please format your pull request like this: *Module Program First Name Last Name*, i.e. "M4 FE Allison Singer" 
 
 ## Mod 4 Deliverables:
-* Cold Outreach/Networking Deliverable (pick one of these three):
-    * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
-    * Meetup: Link to gist listing: 
-      * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
-      * Your talk outline (1-2 paragraphs)
-      * 3-4 sentences on how you hope to utilize this talk to help you in your job search
+* Cold Outreach/Networking Deliverable:
     * Blog Post: Link to gist listing:
        * [Medium Post on Open Surce Contributions](https://medium.com/@JoeHeitkamp/open-source-success-5ae2593f9dd2)
        * Last week, I finished this blog post and published it live to Medium. By highlighting other medium contributors, I was able to immediately picj up feedback ond some helpful tips.  This post has also been shared on twitter and linked in with several shares and likes so far.
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* [Turing Portfolio](https://www.turing.io/alumni/joe-heitkamp) 
+* [Summary of participation in practice interview](https://gist.github.com/noetic97/b796a2041c9b6cb994f3db6d5719095a)
+* [Completed action plan for the post-grad job search](https://gist.github.com/noetic97/f8f29a2262923ce51cabc2e7e450d26e) 
 
 ## Mod 3 Deliverables:
 
