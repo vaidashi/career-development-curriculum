@@ -8,10 +8,17 @@ https://drive.google.com/open?id=0B1lQBDxWrGWJOXVNSDdlVEduZ0k
 
 https://drive.google.com/open?id=0B1lQBDxWrGWJRlJDbDZyY0JOdVE
 
-Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-Link to Flower Exercise using this template (you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):
-Link to Trello Board with companies that are being tracked:
-Job search action plan for M4, using this template:
+Link to Turing portfolio:
+https://www.turing.io/alumni/desislava-todorova
+
+Link to Flower Exercise:
+https://gist.github.com/DesTodo/1161a0a9e9499fc93057f6b77427364b
+
+Link to Trello Board:
+https://trello.com/b/JUNkUr0q/desislavas-techjob
+
+Job search action plan for M4:
+https://gist.github.com/DesTodo/63ff3e49c25eb093b260d7267386f443
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these
