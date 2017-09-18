@@ -5,15 +5,17 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 
 * Your Module: 1706
 * Your Program: Backend
-* Your First Name
-* Your Last Name
+* Your First Name: Samuel 
+* Your Last Name: Snider
 
 Example: M2 BE Allison Singer
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+https://gist.github.com/samuelssnider/20132326db47462369d3148f6552cbda
 
 * Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+https://gist.github.com/samuelssnider/1f84042a49469e1a6c26f84b516962da
 
 * Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 https://gist.github.com/samuelssnider/b22aa708642ecb9b24da793c50e19380
