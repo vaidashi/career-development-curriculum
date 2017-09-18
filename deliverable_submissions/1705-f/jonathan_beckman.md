@@ -4,11 +4,11 @@ Students should clone their individual file and update them with gist links for 
 
 ## Mod 3 Deliverables:
 
-* Link to resume: [Jonathan Beckman's Resume](https://slack-files.com/T029P2S9M-F6RH9NQ1K-ead2461c29) 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* Link to resume: [Jonathan Beckman's Resume](https://turingschool.slack.com/files/U4Z5P8UTU/F74Q0MQ2X/jonathan_beckman.pdf) 
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume: [Turing Profile](https://www.turing.io/alumni/jonathan-beckman)
+* Link to Flower Exercise [Flower](https://user-images.githubusercontent.com/23174736/30568560-10a60eea-9c93-11e7-94eb-b0c95ddc7dd6.JPG)
+* Link to Trello Board with companies that are being tracked: [Trello Board](https://trello.com/b/4ybcSpxH/job-tracker)
+* Job search action plan for M4 - [M4 Action Plan](https://gist.github.com/jbexx/b1bb00cdada4246d193c5c90a5b7bb87):
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
