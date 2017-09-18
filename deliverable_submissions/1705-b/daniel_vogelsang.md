@@ -1,4 +1,9 @@
-### MOD 3 DELIVERABLE
+
+# Daniel Vogelsang
+
+Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M3 BE Allison Singer"
+
+## Mod 3 Deliverables:
 
 * RESUME: https://uptowork.com/mycv/daniel_vogelsang
 * TuringProfile: https://www.turing.io/alumni/daniel-vogelsang
