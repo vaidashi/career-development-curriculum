@@ -10,7 +10,7 @@ Length: 60 minutes
 * Opening (3 mins)
 * Feedback Review (12 mins)
 * Right & Wrong Spotting (20 mins)
-* Johari Windows & Personal Reflections (30 mins; 20 mins. on Johari Windows, 10 mins. on personal reflection)
+* Johari Windows & Personal Reflections (20 mins. on Johari Windows, 10 mins. on personal reflection)
 * Closing (3 mins.)
 
 ### Why
@@ -25,7 +25,6 @@ What value is there in using feedback for personal growth? Why is this something
 * Analyze our reactions and feelings about feedback
 * Discuss and apply the Right & Wrong Spotting Technique to feedback reflections
 * Use the Johari Window technique to recognize your own blind spots
-* Apply Appreciative Inquiry coaching techniques to group coaching
 * Create goals for how to improve your collaboration practices
 
 ### Deliverable
