@@ -1,4 +1,6 @@
-# Documentation should include the following for all 6 emails:
+# Cold Outreach Deliverable Documentation
+
+## To fulfill this deliverable, submit documentation that includes the following for all 6 emails in a gist:
 
 * Company of Contact
   * "Allstate"

@@ -1,16 +1,15 @@
 # Aaron Olsen
 
-Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
+## Mod 4 Deliverables:
+* [Blog Post](https://gist.github.com/MrAaronOlsen/53361877b408175b1cbb8c724fdf44e6)
+* [Turing Portfolio](https://www.turing.io/alumni/aaron-olsen)
+* [Practice Interviews](https://gist.github.com/MrAaronOlsen/53361877b408175b1cbb8c724fdf44e6)
+* [Action plan](https://gist.github.com/MrAaronOlsen/53361877b408175b1cbb8c724fdf44e6)
 
-## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+## Mod 3 Deliverables:
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
-
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
-
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
-
-## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md): https://gist.github.com/MrAaronOlsen/3466bccc43825e23e60610cc5a283c75 and https://gist.github.com/MrAaronOlsen/d11e5556127f229c80f41251196ffc95
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md): https://gist.github.com/MrAaronOlsen/8af3a3644b70b9db519529768a263377
+* [Resume](https://www.turing.io/sites/default/files/resumes/AaronResumeV4.pdf)
+* [Turing Portfolio](https://www.turing.io/alumni/aaron-olsen)
+* [Flower Exercise](https://gist.github.com/MrAaronOlsen/2bec8276479c4f7a706a0468f528c614)
+* [Trello Board](https://trello.com/b/dOQKJ3YB/job-tracker)
+* [Job search action plan](https://gist.github.com/MrAaronOlsen/47be30fd0ed463d544fbfe04dbb11781)
