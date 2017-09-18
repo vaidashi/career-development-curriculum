@@ -11,51 +11,49 @@ In this section, break down your longterm goal into smaller goals that you want 
 * Every day I will do one of the following:
   - Apply for a job
   - Email a contact person
+* Every week I will do:
   - Have a face to face meeting
 
 #### Coding (both including your module 4 curriculum and anything outside of it):
 *How will you focus your learning to accomplish your longterm goal?*
 * I need to build a portfolio I can show off to people. Towards this end, I will:
-  - Build out POODR, Cloney Island
+  - Polish previous projects, move palpit8 to AWS
   
 #### Opportunities Research:
 *How will you continue researching companies and contacts? How will you utilize your Trello Board?* 
-* I will research consultancies in my target cities
-* I will look for apprenticeships at larger companies
+* I will research companies in Denver/Greater Denver Area
+* I will reach out to people who work at companies I am interested in.
 
 #### Cold Outreach/Network:
 *Who will you reach out to? Have you considered talking with alumni about their own networking practices when they started their job search?
 * I will reach out to appropriate people at the companies I identify as good matches
+* I will reach out to mentors using the Turing network
 
 #### Personal Branding *(A personal branding section is optional)*:
 *How might personal branding pieces help you towards your goal?*
-* I'm going to apply for jobs that I probably am underqualified for. To help my chances:
-  - Write technical blog posts
-  - Build out personal site
+* I want to build a reputation and name for myself by branding myself at networking events so others will recognize me when I am applying to jobs
 
 ### Timeline:
 *What will you do when?*
 * By intermission week:
-  - Have a list of at least a dozen companies worth contacting
-  - Met Michael
-  - Chatted with Noah
+  - Have started putting palpit8 project on AWS
 * During intermission week:
   - Start daily outreach tasks
-  - Prettify portfolio projects 
+  - Touch up documentation on previous projects
+  - Start teaching myself React
 * After intermission week:
   - Prioritize the job search
   
 #### Module Tasks:
 *What will you do throughout the module?*
-* Whatever's on the calendar
+* Keep pressing to learn more JS/React
 
 #### Weekly Tasks:
 *What will you do throughout each week?*
-* I will get at least one interview for every week in Mod 4
+* Try to line up as many coffee dates and interviews
 * Every day I will do one of the following:
   - Apply for a job
-  - Email a contact person
-  - Have a face to face meeting
+  - Cold outreach email
 
 ## What I Will Work on with Meg
 *What advice do you need? What would be helpful to talk through? Let Meg know here!*
