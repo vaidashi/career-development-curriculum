@@ -20,5 +20,8 @@ Example: M2 BE Allison Singer
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md): [link](https://gist.github.com/sidewinder2020/bf6bc5d74743a88d3f7e03e8d963e197)
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* AGILE WORKFLOW: https://gist.github.com/sidewinder2020/83cf6ecf4937ad4e8fd01cc69b73bcd7
+
+* FEEDBACK II: https://gist.github.com/sidewinder2020/26306da388b94f7d3320b933f3f2c8d5
+
+* FEEDBACK III: https://gist.github.com/sidewinder2020/5a174a091632bb3b4e9c7d0b372b9ea9
