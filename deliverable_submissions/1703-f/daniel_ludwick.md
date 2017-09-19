@@ -7,8 +7,9 @@ Students should clone their individual file and update them with links to specif
 
 * [Link to your completed Turing portfolio](https://www.turing.io/alumni/daniel-bucket-ludwick)
 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* [Summary of participation in practice interview](https://gist.github.com/danielbucket/7ebbc12da6b76f243d89f33a945c0243):
+
+* [Link to completed action plan for the post-grad job search](https://gist.github.com/danielbucket/5ca0bde2b80226abd49d518244e56d33) 
 
 ## Mod 3 Deliverables:
 
