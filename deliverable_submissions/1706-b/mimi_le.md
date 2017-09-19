@@ -10,7 +10,8 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 Example: M2 BE Allison Singer
 
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md) [https://github.com/mimilettd/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md]
+
+* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md) [https://gist.github.com/mimilettd/45b2d918e6a3130cc9a317ed2c6aff57]
 
 * Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?): [https://gist.github.com/mimilettd/a0ce1a731233071c6c08ad2fb2f79eac]
 

@@ -20,15 +20,9 @@ By mastering the objectives listed above, students will be able to put themselve
 * [Cold Outreach I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i.md) 
 * [BEE: Collaboration](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/collaborative_communication.md)
 * [FEE: Project Management/Collaboration](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_project_management_intro.md) 
-* Gear Up 1: Empathy
 * [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md) 
-* Mindful Communication
-* Gear Up 2: Parable of the Polygon/Automation
-* Feedback III 
-* StrengthsFinder: Teamwork
-* Gear Up 3: Case Study
-
-* Optional Session (offered during Weeks 2 and 4 Spike): Stress Management Strategies
+* [Feedback III](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
+* [StrengthsFinder: Teamwork](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/teamwork_and_strengths.md)
 
 ### Deliverables
 In order to fulfill the requirements of module two, students will submit these deliverables:
@@ -40,3 +34,9 @@ In order to fulfill the requirements of module two, students will submit these d
 * Gear Up-related reflections
 
 You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
+
+### Gear Up Sessions
+
+* Gear Up 1: Empathy & Privilege
+* Gear Up 2: Parable of the Polygon/Automation
+* Gear Up 3: Case Study with Mod 4
