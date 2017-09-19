@@ -5,9 +5,9 @@ Students should clone their individual file and update them with links to specif
 
 * My [Blog Post](https://medium.com/@jdiejim/lets-build-a-pokedex-with-react-part-1-e1ba0b9387a7) is a 5 part tutorial on how to build a Pokedex using React. The tutorial is meant for developers who want to start learning React. This way I can start building a relationship with other developers.
 
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* [portfolio](https://www.turing.io/alumni/juan-diego-jimenez)
+* [interview guidelines](https://gist.github.com/jdiejim/fbdfccf625c6479223e37c608e5ca6e5):
+* [actin plan](https://gist.github.com/jdiejim/4f1e198d2fc0ed841aeee05b95cf35eb): 
 
 ## Mod 3 Deliverables:
 
