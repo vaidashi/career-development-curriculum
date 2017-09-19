@@ -7,8 +7,8 @@
        
        
 * Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md): [Mock Interview Reflection](https://gist.github.com/glassjoseph/0df00222d48cd884dd87f2ed06c74e4d)
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): [Job Search Plan](https://gist.github.com/glassjoseph/03d46cc28377fb0ac36a2d901d215304)
 
 ## Mod 3 Deliverables:
 

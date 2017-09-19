@@ -11,9 +11,9 @@
        * Link to blog post on something you've learned
        [link to gist](https://gist.github.com/JohnBinning/0319cd3ef320da667cf6c4f3e5da55ed)
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to your completed Turing portfolio with 2 additional projects: https://www.turing.io/alumni/john-binning
+* Summary of participation in practice interview and/or actual interview [gist](https://gist.github.com/JohnBinning/67f665ac3541696fd3ab896b5bc0e622):
+* Link to completed action plan for the post-grad job search [gist](https://gist.github.com/JohnBinning/b0e793234f172cd911fa87b86d169849): 
 
 ## Mod 3 Deliverables:
 

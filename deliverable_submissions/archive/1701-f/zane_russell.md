@@ -5,8 +5,8 @@
     * Blog Post: [The making of Etude](https://medium.com/@zanedanielrussell/the-making-of-etude-1f42e3f1c9f3)
        This first post may skirt the line a touch since it doesn't directly talk about something we've learned, but this is the introduction of Etude, our final project.  This blog will be continually updated and document our process for design, production, and any issues we run into on the way. Technical posts will follow shortly, with another one either later today or tomorrow. I plan to promote this to potential employers to display my knowledge of design, TDD, and team collaboration.  It will be featured on my LinkdIn, personal site, and show regular updates on Twitter.
 * Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Summary of participation in practice interview [practiceinterview](https://gist.github.com/zanedr/3836890243c42bf19c692455bbeadd03):
+* Link to completed action plan for the post-grad job search: [Gist](https://gist.github.com/zanedr/752220725a93c6f923dc95399a75b205): 
 
 ## Mod 3 Deliverables:
 

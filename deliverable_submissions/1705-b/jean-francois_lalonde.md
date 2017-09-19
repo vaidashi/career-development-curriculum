@@ -37,3 +37,6 @@ https://gist.github.com/JF-Lalonde/5d03febbee6954c67e39801c1a43a369
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
 
 https://gist.github.com/JF-Lalonde/ff9ed873ec6bb27b361fe4198f201bca
+
+## Mod 3 Deliverables:
+* Link to first draft of resume: https://standardresume.co/jf-lalonde

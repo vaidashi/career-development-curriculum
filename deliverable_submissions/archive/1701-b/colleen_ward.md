@@ -13,8 +13,14 @@
        * Link to blog post on something you've learned
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
 * Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+
+[Colleen's Turing Portfolio](https://www.turing.io/alumni/colleen-ward)
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md): 
+
+[Colleen's Interview Practice](https://gist.github.com/caward12/52b54de8b57c83b79c4ef0166b7ada34)
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
+[Colleen's action plan](https://gist.github.com/caward12/6a6b0b33383f2491c8c66b97088bbb17)
 
 ## Mod 3 Deliverables:
 

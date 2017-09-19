@@ -1,13 +1,13 @@
 # Keji Amos
 
 ## Mod 4 Deliverables:
-* Cold Outreach/Networking Deliverable (pick one of these three):    
-    * Blog Post:
-       * [Blog](https://medium.com/@keji.amos/im-a-front-end-engineering-student-at-turing-school-and-we-were-given-the-task-of-contributing-to-4612f0a7327c)
-       * It's a good starting point for conversations and it can be a way to get into some talks at a meetup.
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Cold Outreach/Networking Deliverable:
+    * Blog Post: 
+       *  [Blog](https://medium.com/@keji.amos/im-a-front-end-engineering-student-at-turing-school-and-we-were-given-the-task-of-contributing-to-4612f0a7327c)
+       * It's a good starting point for conversations and it can be a way to get into some talks at a meetup. I also learned what it was like to work on an open source project.
+       * Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview [Practice Interview Reflection](https://gist.github.com/kamos1/c283faf55de5827070cd37469dd54dec)
+* Link to completed action plan for the post-grad job search [Keji Amos Action Plan](https://gist.github.com/kamos1/147d1766e3798db9ce54914edaee11b2)
 
 ## Mod 3 Deliverables:
 

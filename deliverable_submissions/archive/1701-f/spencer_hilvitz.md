@@ -14,8 +14,12 @@
        * I hope that the topic of my blog post, an introduction to open source, will help other Junior and beginning developers to not be as scared of contributing as they might be. I have published my blog post on Medium and have also tweeted out the blog post. I outline some new node packages and give an introduction to contributing to open source so hopefully a larger group of people can find helpful information. 
        
 * Link to your completed Turing portfolio with 2 additional projects: 
+[Turing Portfolio](https://www.turing.io/user/spencerhilvitz)
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+[Practice Interview Reflection](https://gist.github.com/hilvitzs/ba198fc37a0a3bf51d2af6931fc10498)
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+[#1 Job Search Plan: Create a Schedule and Goals](https://gist.github.com/hilvitzs/5dc4b24bca80e2dce7d341d4ab4e49db)
+[#2: Longterm Career Plan: What are your career goals?](https://gist.github.com/hilvitzs/67f29e840224bcdfa3a7d5459360bb7c)
 
 ## Mod 3 Deliverables:
 

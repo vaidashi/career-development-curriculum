@@ -5,10 +5,11 @@
     * Blog Post: 
        * [Getting ID Provider Access Tokens with Auth0](https://gist.github.com/samlandfried/10e63ea1633df6501c0eb7684554ca06)
        * This blog post explains how to use a confusing component of Auth0, a powerful developer's service. In addition to helping people who might encounter difficulties with this technology, I hope that my network will recognize my ability to navigate complex systems. I'm sharing it with my network through my personal site, LinkedIn and Twitter. 
-* Link to your completed Turing portfolio with 2 additional projects: 
+* Link to your completed Turing portfolio with 2 additional projects: https://www.turing.io/alumni/sam-landfried
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+https://gist.github.com/samlandfried/d24a781098a7ce7828fe4e5926b32cc4
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
-
+https://gist.github.com/samlandfried/e735c10ccecd0a805b7e07a4927316af
 ## Mod 3 Deliverables:
 
 * Link to resume: 

@@ -9,7 +9,7 @@ Students should clone their individual file and update them with links to specif
       * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
       * Your talk outline (1-2 paragraphs)
       * 3-4 sentences on how you hope to utilize this talk to help you in your job search
-    * Blog Post: Link to gist listing:
+    * Blog Post: Link to gist listing: [Gist with my blog draft and my plan to connect with it](https://gist.github.com/nmcolome/9c88feabca8a960ab3633994a5e27cf1#file-blog-md)
        * Link to blog post on something you've learned
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
 * Link to your completed Turing portfolio with 2 additional projects: 

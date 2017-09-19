@@ -2,8 +2,8 @@
 
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable: [Cold outreach gist](https://gist.github.com/jk1dd/010e2a1447cea47aea46b4c46e5c1b7e)
-* Link to your completed Turing portfolio with 2 additional projects: [Turing portfolio](https://www.turing.io/alumni/jonathan-kidd)
-* Summary of participation in practice interview and/or actual interview: [Summary](https://gist.github.com/jk1dd/581caf887c36430f512c41766096cc07)
+* Link to your completed Turing portfolio with 2 additional projects: [Turing portfolio with updates](https://www.turing.io/alumni/jonathan-kidd)
+* Summary of participation in practice interview and/or actual interview: [Summary of interview prep](https://gist.github.com/jk1dd/581caf887c36430f512c41766096cc07)
 * Link to completed action plan for the post-grad job search: [Action plan](https://gist.github.com/jk1dd/517791090818f7c003e7606c90365f9d)
 
 ## Mod 3 Deliverables:

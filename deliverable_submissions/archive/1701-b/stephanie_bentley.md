@@ -7,8 +7,17 @@
     
    
 * Link to your completed Turing portfolio with 2 additional projects: 
+https://www.turing.io/alumni/stephanie-bentley
+
+
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+
+https://gist.github.com/slague/2ec3b1277403f6f79906b8d8984b6dfd
+
+
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
+https://gist.github.com/slague/b4149e42b2c2237ad1439c8486c4eaeb
 
 
 

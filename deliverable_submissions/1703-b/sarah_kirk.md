@@ -5,6 +5,7 @@ Students should clone their individual file and update them with links to specif
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable (pick one of these three):
     * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
+    https://gist.github.com/sarahdactyl71/809a71ab7f758763c2c5e5bc02b1a974
     * Meetup: Link to gist listing: 
       * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
       * Your talk outline (1-2 paragraphs)
@@ -19,10 +20,19 @@ Students should clone their individual file and update them with links to specif
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
+https://resume.creddle.io/resume/c76gh47tm4p
+
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+https://www.turing.io/alumni/sarah-e-kirk
+
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+https://gist.github.com/sarahdactyl71/ac4ab840514da029c42ee05729e10e39
+
 * Link to Trello Board with companies that are being tracked: 
+https://trello.com/b/5rdUn74u/job-search-board
+
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+https://gist.github.com/sarahdactyl71/140314b2251cdcbfcc8d2e74e2c94fe5
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)

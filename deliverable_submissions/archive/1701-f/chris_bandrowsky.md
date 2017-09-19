@@ -3,9 +3,9 @@
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable (pick one of these three):
     * Blog Post: [Gist to Blog Post](https://gist.github.com/cbandrow/c0267fc2b3398c4bc9d8750d570decc1)
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to your completed Turing portfolio: [ChrisBandrowskyTuringPortfolio](https://www.turing.io/alumni/christopher-bandrowsky)
+* Summary of participation in practice interview and/or actual interview [Interview Summary](https://gist.github.com/cbandrow/39dc82de923073527d700035b453944d):
+* Link to completed action plan for the post-grad job [PostGrad Job Search: ](https://gist.github.com/cbandrow/da4d58c5c708e1420d4c9daa29ba7972): 
 
 ## Mod 3 Deliverables:
 * Resume: [Google Drive Resume Link](https://drive.google.com/open?id=0B0vr7MmemvPRalQ4M1ctWDBmcGs) 

@@ -1,18 +1,11 @@
 # Erin Bassity
 
 ## Mod 4 Deliverables:
-* Cold Outreach/Networking Deliverable (pick one of these three):
+* Cold Outreach/Networking Deliverable:
     * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):  [link]https://gist.github.com/somedayrainbows/611ddc8ea97d01b6442f2b1bc06e121e
-    * Meetup: Link to gist listing: 
-      * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
-      * Your talk outline (1-2 paragraphs)
-      * 3-4 sentences on how you hope to utilize this talk to help you in your job search
-    * Blog Post: Link to gist listing:
-       * Link to blog post on something you've learned
-       * 3-4 sentences on how you're using this blog post to connect with other people in your network 
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to your completed Turing portfolio with 2 additional projects: https://www.turing.io/alumni/erin-bassity
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md): [link]https://gist.github.com/somedayrainbows/fb669675a395911166b0e636f549a619
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): [link]https://gist.github.com/somedayrainbows/bb4f9e4d831bfa0482c8ab4d8b92d32f
 
 ## Mod 3 Deliverables:
 

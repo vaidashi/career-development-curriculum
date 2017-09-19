@@ -10,6 +10,9 @@ Students should clone their individual file and update them with gist links for 
 * Link to Trello Board with companies that are being tracked: 
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
 
+## Mod 3 Deliverables: 
+* https://resume.creddle.io/review/80ipuc9412d
+
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach:
 https://gist.github.com/anajauregui/d31495abc0dfed00b44427b951d99505

@@ -2,6 +2,16 @@
 
 Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M3 BE Allison Singer"
 
+## Mod 3 Round Two:
+Submit a PR with updates to these deliverables:
+
+* Link to updated resume from feedback provided on July 18th: 
+* LinkedIn: 
+     * Provide 2-3 small paragraphs detailing who you are, why you have transitioned to software development and where you'd like to go from here
+     * Include employers with descriptions
+     * Projects section
+* Add 10 companies added to Trello job tracker 
+
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 

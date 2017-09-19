@@ -4,7 +4,7 @@
 * [Cold Outreach/Networking Deliverable](https://gist.github.com/lao9/541d741fe869395d888cf48d696157a5)
 * [Completed Turing portfolio with 2 additional projects](https://www.turing.io/alumni/lauren-oliveri)
 * [Summary of participation in practice interview and/or actual interview](https://gist.github.com/lao9/d3f4a327d7defa1772245b125cd637e7)
-* [Completed action plan for the post-grad job search](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* [Completed action plan for the post-grad job search]https://gist.github.com/lao9/d0a0d491f7d32f9978ea1931b2cb421d) 
 
 ## Mod 3 Deliverables:
 
