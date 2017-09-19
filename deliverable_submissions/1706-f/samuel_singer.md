@@ -11,13 +11,13 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 Example: M2 FE Allison Singer
 
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+* Link to gist documenting mentor outreach conducted using these [guidelines](https://gist.github.com/Cache123/e334a699b32cc1058b30117f8f746460)
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):[guidelines](https://gist.github.com/Cache123/89ebbb73adb37e8321636308cc5e9335)
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+* Link to reflection on in-person feedback conversation using these [guidelines](https://gist.github.com/Cache123/2b327bce5e570f31a7c911fa7ff9414c)
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://gist.github.com/Cache123/332838557a58a4b2ec3fb2104c419798)
 
 ## Mod 1 Deliverables:
 
