@@ -1,14 +1,12 @@
 # Jim Szalewski
 
-Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M3 BE Allison Singer"
-
 ## Mod 3 Deliverables:
 
-* [Resume](https://www.turing.io/sites/default/files/resumes/My%20CV.pdf)
+* [Resume](https://www.turing.io/sites/default/files/resumes/Resume_6.pdf)
 * [Turing Portfolio](https://www.turing.io/alumni/jim-szalewski)
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* [Flower Exercise](https://gist.github.com/jimszalew/24189b0fdab43df5bd24fd96d06c40b3)
+* [Trello Board company tracker](https://trello.com/b/30ImjLrD/jim-szalewski-job-search-tracker)
+* [M4 Job search action plan](https://gist.github.com/jimszalew/6f397dfed21a85de9157231543b53508)
 
 ## Mod 2 Deliverables:
 * [Mentor outreach conducted](https://gist.github.com/jimszalew/4ba3ceb99a41b805a9e1d49b8a700f77)
