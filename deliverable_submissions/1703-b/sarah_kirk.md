@@ -5,6 +5,7 @@ Students should clone their individual file and update them with links to specif
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable (pick one of these three):
     * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
+    https://gist.github.com/sarahdactyl71/809a71ab7f758763c2c5e5bc02b1a974
     * Meetup: Link to gist listing: 
       * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
       * Your talk outline (1-2 paragraphs)
