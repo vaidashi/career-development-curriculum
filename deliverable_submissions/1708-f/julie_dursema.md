@@ -1,15 +1,8 @@
-# Julie Dursema
 
-## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen), which creates a copy of this repository. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request, make sure to post:
-
-* Your Module
-* Your Program
-* Your First Name
-* Your Last Name
-
-Example: M1 FE Jessica Rodriguez
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
+[ToDoBoxDTR](https://gist.github.com/jdursema/88ae528e9de06223e2862e9e17b942d8)
+
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+[strengths & storytelling](https://gist.github.com/jdursema/479d368d203d350e55474eb06d28bfb7)
