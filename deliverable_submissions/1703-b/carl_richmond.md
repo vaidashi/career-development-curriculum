@@ -4,9 +4,9 @@ Students should clone their individual file and update them with links to specif
 
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable (pick one of these three): [Meetup Outline](https://gist.github.com/ACC25/89c68f85b85c66e25cd95861ec40769b)
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to your completed Turing portfolio with 2 additional projects: [link](https://www.turing.io/alumni/carl-richmond)
+* Summary of participation in practice interview and/or actual interview: [link](https://gist.github.com/ACC25/7e1ab06138e5eac684a5efee6e07bc8b)
+* Link to completed action plan for the post-grad job search: [link](https://gist.github.com/ACC25/21964214ccc9f9f421838855853e42d4)
 
 ### Mod 3 Deliverables:
 
