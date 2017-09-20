@@ -15,6 +15,7 @@ Example: M2 BE Allison Singer
     * https://gist.github.com/djtrujillo/681c70376374c53072460f73fcae713f
 
 * Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+    * Throughout this mod, agile practices and project management became much more important. This was the first mod where we worked on teams that were more than just 2 people. In order to successfully complete projects and keep on task we all had to have a clear understanding of each others work styles and be able to push through problems together. This required good project management and an understanding that we all had to contribute to all aspects of the projects. I think what went well was my ability to adapt to new groups and to understand that every group that I work with is going to be different. What I'll hopefully do differently is to communicate better up front. Having clear expectations of everyone needs to be established before starting the project even though the tendency is to jump right in.
 
 * Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 
