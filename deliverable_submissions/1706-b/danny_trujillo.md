@@ -21,6 +21,7 @@ Example: M2 BE Allison Singer
     * https://gist.github.com/djtrujillo/eac5e98dee192fa7c7e4e69e6e422401
 
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+    * https://gist.github.com/djtrujillo/bc81425aa590d9bbf39e8b3b64391583
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):[link](https://gist.github.com/djtrujillo/ec90e8d8aceed7efdfa0428dabc8cd6d)
