@@ -19,6 +19,23 @@ Example: M2 FE Allison Singer
 
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
 
+## Mod 2 Deliverables:
+* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+
+https://gist.github.com/nicktu12/134feb17a062c69a8e6faceb1f7b9543
+
+* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+
+https://gist.github.com/nicktu12/7f193c3354bc5593ea160f7b233401ef
+
+* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+
+https://gist.github.com/nicktu12/49390cc8434d61c2d1593fe4538492a6
+
+* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+
+https://gist.github.com/nicktu12/ab6f38f46a3d7fc9abf9b9f0101ddac3
+
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
 
