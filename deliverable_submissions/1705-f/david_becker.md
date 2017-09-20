@@ -5,10 +5,10 @@ Students should clone their individual file and update them with gist links for 
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: ('https://docs.google.com/document/d/e/2PACX-1vQSNbuQjYG2HMF7_f7fL5gX-ICYeFJVZGD3ISoGhbIMgEBrzcOsW00ZxyDENI8pz7yWxb8Z2jTcGzaB/pub')
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume: [Turing portfolio](https://www.turing.io/alumni/david-becker)
+* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):* [Flower Exercise](https://gist.github.com/davidbecker6081/0f7b0f4f961f4461e991a60bdd2b877a)
+* Link to Trello Board with companies that are being tracked: [Trello](https://trello.com/b/0pqgJmel/job-search)
+* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md): [Strategies](https://gist.github.com/davidbecker6081/82c0353f25666e1c2ff0729c5b22c383)
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
