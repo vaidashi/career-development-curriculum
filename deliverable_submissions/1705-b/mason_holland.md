@@ -5,7 +5,7 @@ Students should clone their individual file and update them with gist links for 
 ## Mod 3 Round Two:
 Submit a PR with updates to these deliverables:
 
-* Link to updated resume from feedback provided on July 18th: 
+* [Resume](https://www.dropbox.com/s/l1ckqytpfa8slmy/Mason-Holland-CV.pdf?dl=0)
 * LinkedIn: 
      * Provide 2-3 small paragraphs detailing who you are, why you have transitioned to software development and where you'd like to go from here
      * Include employers with descriptions
