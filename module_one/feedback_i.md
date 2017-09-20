@@ -14,7 +14,8 @@ This is the first of 3 different feedback sessions you'll receive at Turing alon
 
 * Understand and recognize the three triggers of feedback
 * Define and understand the 3 different kinds of feedback
-* Write out and deliver thoughtful feedback for your project partner
+* Analyze intent vs. impact, blind spots, and biases
+* Use specific, actionable, and kind principles to deliver meaningful feedback
 
 ### Deliverable
 
@@ -109,14 +110,6 @@ For example:
 * How does this relate to a trigger? 
 * How could this language be reframed to be more aligned with the intent? 
 
-#### Turn & Talk:
-Discuss these examples with your partner:
-
-| Feedback | Giver's Intent | Giver's Impact |
-| ------ | ---------------- | ---------------- |
-| Don't be so quick to make a decision without talking to me | Consider other people's points of view when making a decision | I already asked you about everything we did. Do you want me to be passive and not think for myself? |
-| You're making a lot of strides with TDD. You got a 4 on testing again this project | Few people ever get a 5, and you got a 4 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. This instructor is too hard on me. |
-
 **Discussion Questions:**
 For each piece of feedback, answer these questions:
 
@@ -134,6 +127,20 @@ Blind spots are always present as a gap between the self we think we present and
 How could blind spots potentially affect the intent of a feedback giver's words?
 
 What blind spots should we be aware of when we're providing written feedback? 
+
+Blind Spots lead to Biases:
+
+* A bias is a feeling either favorable or negative towards others based on a narrowed viewpoint. We often feel positive bias towards others who are most like us and negative bias against others who are different from us
+* We may be more likely to not give constructive feedback to people who are similar to us
+* Or we may be over critical of people for whom we already have a bias.
+
+#### Turn & Talk:
+Discuss these examples with your partner:
+
+| Feedback | Giver's Intent | Giver's Impact |
+| ------ | ---------------- | ---------------- |
+| I think the project went fine overall. But I think you should work on your organization skills. You were late to most meetings. | The project got finished, no real complaints, but my partner should know that tardiness is affecting their pairing abilities | This is so harsh. Didn’t I do anything right? |
+| You're making a lot of strides with TDD. You got a 3 on testing again this project | Few people ever get a 4, and you got a 3 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. This instructor is too hard on me. |
 
 ### Being Intentional in Giving Feedback
 Clarify your intent by following these 3 guidelines:
