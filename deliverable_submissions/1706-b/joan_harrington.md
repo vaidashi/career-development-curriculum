@@ -7,11 +7,11 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 * Your First Name
 * Your Last Name
 
-Example: M1 Jessica Rodriguez
-
 ## Mod 1 Deliverables:
 * AGILE WORKFLOW: https://gist.github.com/sidewinder2020/83cf6ecf4937ad4e8fd01cc69b73bcd7
 
 * FEEDBACK II: https://gist.github.com/sidewinder2020/26306da388b94f7d3320b933f3f2c8d5
 
 * FEEDBACK III: https://gist.github.com/sidewinder2020/5a174a091632bb3b4e9c7d0b372b9ea9
+
+* Mentor: https://gist.github.com/sidewinder2020/0fbbd202c55c113a75fe316c81928d1a
