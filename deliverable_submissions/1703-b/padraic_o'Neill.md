@@ -10,8 +10,9 @@ Students should clone their individual file and update them with links to specif
       * Your talk outline (1-2 paragraphs)
       * 3-4 sentences on how you hope to utilize this talk to help you in your job search
     * Blog Post: Link to gist listing:
-       * Link to blog post on something you've learned
-       * 3-4 sentences on how you're using this blog post to connect with other people in your network 
+       * https://gist.github.com/podoglyph/d0fd7b01fa3d54a486d6838046d07d07
+       * When completed, the blog post will serve mainly as a tool to display my interest in Machine Learning. As an intro-style post, it will be followed by more detailed ones and I plan to create a series where it's apparent how much I'm learning. At this point, since I've chosen to go off the Turing-track, by focusing on Python and Machine Learning for my capstone, it's difficult to promote myself in the field I desire to contribute to. So far, my efforts are paying off as I have built an amazingly strong foundation in only 2 weeks.
+       
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 

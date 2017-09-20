@@ -15,13 +15,19 @@ Students should clone their individual file and update them with links to specif
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
 
+## Mod 4 Deliverables:
+
+* [Cold Outreach](https://gist.github.com/adamgunther1/777aa9717cb236a9e2481f5317f6124c)
+* [Interview Participation](https://gist.github.com/adamgunther1/107b9957daf49d0decbbed8094046d8c)
+* [Job Search Action Plan Post-Grad](https://gist.github.com/adamgunther1/11877fe8ffaab5c90f6bf54700e6897f)
+
 ## Mod 3 Deliverables:
 
 * [Resume](https://drive.google.com/file/d/0B-uFDCEZa7tSejRnWm1Ta0Y5eEk/view?usp=sharing)
 * [Turing Portfolio](https://www.turing.io/alumni/adam-gunther)
 * [Flower Exercise](https://drive.google.com/file/d/0B-uFDCEZa7tSVHJLdXYxWTI0Ym8/view?usp=sharing)
 * [Trello Board](https://trello.com/b/Mhzy4sRi/job-search) 
-* [Job search action plan for M4](https://gist.github.com/adamgunther1/68a446c407c2da4d0d6a0310623d8286)
+* [Job Search Action Plan for M4](https://gist.github.com/adamgunther1/68a446c407c2da4d0d6a0310623d8286)
 
 ## Mod 2 Deliverables:
 * [Gist documenting mentor outreach](https://gist.github.com/adamgunther1/abc5369517a90133aa921c4900bc6334#file-could_outreach_i-md)

@@ -11,13 +11,17 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 Example: M2 FE Allison Singer
 
 ## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+* Link to DTR Memo using these [guidelines]
+(https://gist.github.com/JorgeEdPerezGa/c3c69f985716feda41dd52adee14ee2a):
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+* Link to gist documenting mentor outreach conducted using these [guidelines](https://gist.github.com/JorgeEdPerezGa/bb1a7d9f97fcd6ac715946958a067cf4)
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
+* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?): https://gist.github.com/JorgeEdPerezGa/31cedcdd19d00356f1e2705006fa8a96
+
+* Link to reflection on in-person feedback conversation using these [guidelines](https://gist.github.com/JorgeEdPerezGa/730a2b34dfed64ff48f1c07f23bd5065)
+
+* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://gist.github.com/JorgeEdPerezGa/54e9f169ad4d403c19fb7fb7f7aa4995)
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines]
