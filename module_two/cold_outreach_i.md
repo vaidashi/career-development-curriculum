@@ -52,6 +52,11 @@ Other things to keep in mind:
 
 Have an idea of how you would set up a meeting with a mentor before you contact them. 
 
+### Posse Mentors
+Don't forget about the mentors in your posse. If you're not sure who they are, hover over the channel topic in your posse channel to see them listed. 
+
+* Don't forget to do research on these mentors and see what their specialities are
+
 ### Actual Email Formatting
 When you're ready to write your email (or Slack message), here are some things to keep in mind:
 
@@ -92,7 +97,7 @@ Example #1 (warm outreach):
     to move back there after I graduate. I'd love to discuss the tech scene there and any 
     advice you have for my job search. 
     I saw on the mentor schedule that you are available Wednesdays at 5pm -- are you free next 
-    Wednesday the 28th? If that date/time doesn't work for you, please let me know a time that's better 
+    Wednesday the 28th? If that date/time doesn't work, please let me know a time that's better 
     for you. 
 
     Thanks,
@@ -105,8 +110,7 @@ Example #2 (warm outreach):
     Hi Jenna,
     
     I'm starting to learn React in Mod Two of the Front End program and figured it's about time 
-    I find a mentor. I saw that you work in React! We're just starting to use that in our projects, 
-    and I'd love to pick your brain about it. Are you available to meet at Turing this Thursday (6/2) 
+    I find a mentor. I saw that you also work in React! I'd love to pick your brain about it. Are you available to meet at Turing this Thursday (6/2) 
     at 4pm to pair? If not, please let me know a better date/time we could meet!
 
     Thanks,
@@ -144,6 +148,13 @@ It's definitely exciting (or excruciating, depending on your initial viewpoint) 
 * Bull shit. Contacts can tell when you haven't done enough research about what it is you want to connect about
 * Give up if you don't get an immediate response. Mentors are busy. If you reached out using Slack, try their email next
 * Pretend you're an expert when you're not. They're called "mentors" for a reason -- ask questions!
+
+### Build on the Relationship
+* Twitter follows/retweets/messages
+* Connect on LinkedIn
+* Schedule regular meetings
+* Go to a Meetup with your mentor/utilize their network
+* If you work with a posse mentor, in what ways could you build the relationship within the posse? 
 
 ### Research & Execution Time
 

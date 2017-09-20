@@ -1,6 +1,19 @@
 # George Goering
 
-Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
+Students should clone their individual file and update them with links to specific deliverables before making a Pull Request. Please format your pull request like this: *Module Program First Name Last Name*, i.e. "M4 FE Allison Singer" 
+
+## Mod 4 Deliverables:
+* Cold Outreach/Networking Deliverable (pick one of these three):
+    * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
+    * Meetup: Link to gist listing: 
+      * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
+      * Your talk outline (1-2 paragraphs)
+      * 3-4 sentences on how you hope to utilize this talk to help you in your job search
+    * [Blog Post](https://medium.com/@ggoering/want-to-get-your-first-open-source-contribution-do-something-simple-like-really-simple-113830e7d323)
+    - My network is pretty much all Turing people.  So if any of them want to get my take on what allowed my PR to get merged on my first try, they might find it helpful.  I would also use the writing practice as a way to get better and hopefully write a more technical blogpost in the future.
+* Link to your completed Turing portfolio with 2 additional projects: [Profile](https://www.turing.io/alumni/george-goering)
+* Summary of participation in practice interview and/or actual interview using these [InterviewPrep](https://gist.github.com/Ggoering/3bed8818549d5ab1a315c6c4a06d8314):
+* Link to completed action plan for the post-grad job search using this [Action Plan](https://gist.github.com/Ggoering/6a21e484e323252e8f44d27f4d219dfd): 
 
 ## Mod 3 Deliverables:
 

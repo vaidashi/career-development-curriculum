@@ -1,14 +1,21 @@
 # Juan Diego Jimenez
+Students should clone their individual file and update them with links to specific deliverables before making a Pull Request. Please format your pull request like this: *Module Program First Name Last Name*, i.e. "M4 FE Allison Singer" 
 
-Students should clone their individual file and update them with links to specific deliverables before making a Pull Request.
+## Mod 4 Deliverables:
+
+* My [Blog Post](https://medium.com/@jdiejim/lets-build-a-pokedex-with-react-part-1-e1ba0b9387a7) is a 5 part tutorial on how to build a Pokedex using React. The tutorial is meant for developers who want to start learning React. This way I can start building a relationship with other developers.
+
+* Link to your completed Turing portfolio with 2 additional projects: 
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
 
 ## Mod 3 Deliverables:
 
-* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* [Flower Exercise Link](https://gist.github.com/jdiejim/54105804d206542ba999af6c9c927ba4)
+* [Trello Board Link](https://trello.com/b/SKFo4JjE/job-tracker)
+* [M4 Action Plan](https://gist.github.com/jdiejim/77b1ddef405d5567c78f61a5354cff86)
+* [Turing portfolio](https://www.turing.io/alumni/juan-diego-jimenez)
+* Resume: **uploaded as a pdf in the comments**
 
 ## Mod 2 Deliverables:
 * Link to gist of [warm outreach](https://gist.github.com/jdiejim/4cf0d02c61521e4d610091f39e718194)
