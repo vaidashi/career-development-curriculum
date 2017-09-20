@@ -10,7 +10,12 @@ Students should clone their individual file and update them with links to specif
     
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+
+   https://gist.github.com/rwilhel/a0ee85b48729f50dc7279717688b7909
+   
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+
+   https://gist.github.com/rwilhel/f273fa47ec92eef20483721f754cc7e7
 
 ## Mod 3 Deliverables:
 
