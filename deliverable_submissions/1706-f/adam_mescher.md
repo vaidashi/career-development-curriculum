@@ -1,4 +1,4 @@
-# M2 Adam Mescher
+# M2 Adam Mescher 
 
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 
@@ -16,7 +16,7 @@ __In-person Feedback Conversation Reflection__[]()
 
 __Feedback Implementation Reflection & Application of Strengths to Teams__[]()
 
-# M1 Adam Mescher
+# M1
 
 __DTR Memo__: [IdeaBox DTR Memo](https://gist.github.com/AdamMescher/0ba08cc4ed2c2144d3fcd32f8fb5a7aa)
 
