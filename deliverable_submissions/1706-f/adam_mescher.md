@@ -6,7 +6,7 @@ __Agile Practices Reflection__: [GitHub Gist URL](https://gist.github.com/AdamMe
 
 __In-person Feedback Conversation Reflection__: [GitHub Gist URL](https://gist.github.com/AdamMescher/22ec977882db99ecd25d0f1491cecd67)
 
-__Feedback Implementation Reflection & Application of Strengths to Teams__: [GitHub Gist URL](https://gist.github.com/AdamMescher/889444ec08f6f78789ab9c5013e43a6e)https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md
+__Feedback Implementation Reflection & Application of Strengths to Teams__: [GitHub Gist URL](https://gist.github.com/AdamMescher/889444ec08f6f78789ab9c5013e43a6e)
 
 # M1
 
