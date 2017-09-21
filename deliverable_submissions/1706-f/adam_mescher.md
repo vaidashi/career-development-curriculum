@@ -8,9 +8,9 @@
 
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
 
-__Mentor Outreach__: [GitHub URL](https://gist.github.com/AdamMescher/eaea006ceb61e85eedba9b74e65af07b)
+__Mentor Outreach__: [GitHub Gist URL](https://gist.github.com/AdamMescher/eaea006ceb61e85eedba9b74e65af07b)
 
-__Agile Practices Reflection__:[]()
+__Agile Practices Reflection__:[GitHub Gist URL](https://gist.github.com/AdamMescher/22ec977882db99ecd25d0f1491cecd67)
 
 __In-person Feedback Conversation Reflection__[]()
 
