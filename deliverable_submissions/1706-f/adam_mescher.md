@@ -10,9 +10,9 @@
 
 __Mentor Outreach__: [GitHub Gist URL](https://gist.github.com/AdamMescher/eaea006ceb61e85eedba9b74e65af07b)
 
-__Agile Practices Reflection__:[GitHub Gist URL](https://gist.github.com/AdamMescher/22ec977882db99ecd25d0f1491cecd67)
+__Agile Practices Reflection__: []()
 
-__In-person Feedback Conversation Reflection__[]()
+__In-person Feedback Conversation Reflection__: [GitHub Gist URL](https://gist.github.com/AdamMescher/22ec977882db99ecd25d0f1491cecd67)
 
 __Feedback Implementation Reflection & Application of Strengths to Teams__[]()
 
