@@ -23,10 +23,10 @@ Example: M2 BE Allison Singer
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):[link](https://gist.github.com/jayphodges/d9ef1d7ca33eb1a622285f5359e887ea)
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
 
-
 Storytelling and Strengths (I guess I did this twice): https://gist.github.com/JunePaloma/ec05a54af562e4767fba38e0bcc3f055
 https://gist.github.com/JunePaloma/5247d6ab71f143be516aa969a98bff6f
 
 
 DTR for Black_Thursday: https://gist.github.com/JunePaloma/af6f6f1154bae73e41e1a652c33eaacc
 DTR for Complete_Me
+
