@@ -9,13 +9,14 @@ Length: 90 mins
 
 * Opening (3 mins)
 * Turn & Talk (5 mins)
-* Individual Reflection (10 mins)
-* Small Group Sharing (20 mins)
-* Whole Group Sharing (4 mins)
-* StrengthsFinder Intro (2 mins)
-* Individual Reflection (10 mins)
-* Interviewing (20 mins)
-* Whole Group Share Out (5 mins)
+* Discussion of our lenses
+    * Individual Reflection (10 mins)
+    * Small Group Sharing (20 mins)
+    * Whole Group Sharing (5 mins)
+* Storytelling using Strengths:
+    * Individual Reflection (10 mins)
+    * Pair & Share: Storytelling (20 mins)
+    * Whole Group Share Out (5 mins)
 * Lightning Talk Prep (10 mins)
 * Closing (1 min)
 
@@ -70,39 +71,39 @@ Students will get into groups of 4 to discuss key takeaways from their individua
 * How can we operate as a community to build on our similarities and learn from our differences?
 
 ### Whole Group Share 
+1-3 groups' presenters share their groups discussion of *"How do you think these differences/similarites will impact your community?"* 
 
-Each groups's presenter shares their groups discussion of "How do you think these differences/similarites will impact your cohort?" 
+### Storytelling: Strengths Through Adversity
+Another rule from Emma Coats is:
 
-### Using Your Strengths in Your Story
-Now think about how you've changed and developed since starting at Turing. How has your story changed? How does your development play a part in your story? How can you use your StrengthsFinder themes to tell your story?
+    You admire a character for trying more than for their successes.
 
-Now we'll frame our stories around how we're developing at Turing.
+This is because we want to root for a character to overcome struggles and adversity. Now think about how you've changed and struggled since starting at Turing. How have you worked through those struggles? How have you used your StrengthsFinder themes to do that? How have you succeeded? How did your strengths help you?
 
-#### Individual Reflection
+#### You Do: Add to your Story
+Continue to exercise your storytelling skills by adding to what you've expressed about yourself today. You've defined who you are, now think about how your character has developed thus far at Turing by writing about these 3 areas in a gist for your reflection [using this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
 
-Create a gist for [your reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md) to expand on your story in terms of how you're progressing and where you see yourself going. Focus on these questions:
+* Write 1-2 paragraphs about your StrengthsFinder themes:
+      How have you seen yourself using these strengths at Turing? Has your understanding of these strengths changed since you first reflected on them? If so, how? 
+* Write a story about your Turing experience so far:
+    When have you struggled? How have you dealt with struggle? When have you succeeded at Turing? How did you accomplish those successes?
+* Answer the question: how does your Turing story end? Create a vision for your future and your career transition into being a junior developer.
 
-* Look at your initial StrengthsFinder reflection that you completed in week 1 -- how have your perceptions of the top 5 themes stayed the same? How have they changed?
-* How are you different today than when you first started at Turing? How are you stronger now than on day 1? How have you struggled? 
-* Considering how you describe these themes, how do you want others to see you as you continue to progress through Turing?
-* Even though your Turing story isn't finished yet, what do you envision for your development in future mods? How will this story end?
-* Finally, write a draft of your story here. This is a short paragraph, 4-6 sentences, describing who you are, why you came to Turing, and what you hope to accomplish while you're here.
+It's important to remember that each of these pieces of your story is a draft. You're continuing to grow and learn, and thus your story will change. But this is about starting with our first draft and getting better at refining it as we go through the program. 
 
-It's important to remember that this story is a draft. You're continuing to grow and learn, and thus your story will change. But this is about starting with our first draft and getting better at refining it as we go through the program. 
+### Pair Up: Telling Our Stories
+Find a partner with which to share your Turing experience. The objective here is to work on telling your story by building in specifics of how you're developing your strengths at Turing. Make sure to include:
 
-### Pair Up: Networking
-Find a partner to network with. The objective here is to work on telling your story by building in specifics of how you're developing your strengths at Turing. Make sure to include:
+* How you're using strengths at Turing
+* How you've struggled and/or succeeded at Turing
+* What's next for you -- what's your vision?
 
-* Who you are -- however you'd like to describe yourself, your strengths, your values, etc.
-* Why you're at Turing; what brought you here?
-* What's next? Where do you see yourself going as you keep progressing through Turing?
+You'll have 3 minutes to tell your story, and then your partner will give you 1 minute of feedback on what they heard and ask clarifying questions. Do they have a clear understanding of your story based on how you told it?
 
-You'll have 4 minutes to tell your story, and then your partner will give you 1 minute of feedback on what they heard and ask clarifying questions. Do they have a clear understanding of your story based on how you told it?
-
-Then you'll switch. We'll do 2 rounds of interviews to practice our storytelling skills. 
+Then you'll switch. We'll do 2 rounds of sharing to practice our storytelling skills. 
 
 ### Whole Group Share Out
-Share takeaways from your interviewing experience:
+Share takeaways from your sharing experience:
 
 * What was easy about this?
 * What was difficult?

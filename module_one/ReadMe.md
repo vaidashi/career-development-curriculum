@@ -17,27 +17,28 @@ Whether students are at Turing to pursue their first job or their twentieth, the
 By achieving the objectives listed above, students will be able to direct their own learning by knowing when to struggle, when to ask for help, and how to do both effectively. Students will be able to articulate what they need from a working relationship and reflect on how they can improve. Students will be able to understand their own strengths and weaknesses and use setbacks as opportunities for growth. All in all, students will be aware of their abilities and have a framework for how to continue to grow and tackle learning challenges as they go to Module Two. 
 
 ### Sessions
-
-* Gear Up: Growth Mindset
-* StrengthsFinder reflection
-* Learning to Pair
-* Gear Up 2: Getting Better at Difficult Things 
-* Feedback I 
-* Gear Up 3: Dealing with Difference: Introvert vs. Extrovert
-* Gear Up 4: Storytelling & Strengths (StrengthsFinder I)
-* Developer Identity
-* Gear Up 5: Code: Debugging the Gender Gap
-
-* Optional Session (offered during Weeks 2 and 4 Spike): Stress Management Strategies
+* [StrengthsFinder Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_session.md)
+* [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) 
+* [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md) 
+* [Storytelling & Strengths](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_and_storytelling.md)
+* [Developer Identity](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/developer_identity.md)
 
 ### Deliverables
 In order to fulfill the requirements of module one, students will submit these deliverables:
 
-* DTR Memo
+* DTR Memo using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md)
 * Feedback for each project partner
-* StrengthsFinder reflection
-* Create/Update LinkedIn, GitHub, Twitter, and Stack Overflow profiles 
-* Gear Up-related reflections
+* StrengthsFinder/storytelling reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* Create/Update LinkedIn, GitHub, Twitter, and Stack Overflow profiles and input them into Census
 
 You'll submit all deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) except for your partner feedback, which you will submit to Allison directly via DM. Gear Up reflections should be included in your module portfolio.
 
+### Gear Up Sessions
+
+* Growth Mindset
+* Getting Better at Difficult Things
+* Dealing with Difference: Introverts & Extroverts
+* Code: Debugging the Gender Gap
+* Case Study with Mod 4
+
+You'll submit your Gear Up reflections in your end-of-module portfolio
