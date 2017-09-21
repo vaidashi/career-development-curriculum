@@ -14,9 +14,9 @@ Students should clone their individual file and update them with links to specif
          * [Beautiful Markup Article](https://medium.com/@benjaminpjacobs/beautiful-markup-ff8d4875ea20)
          * These two artciles mark the beginning of my technical blogging presence. In addition to these I have a third in the works about GraphQL. Thus far I have not only spread this post on medium, twitter, linked in and facebook but have used it as jumping off point in emails with recruiters and development professionals. Overall this has been of great assistance in giving me some credibility among new connections.
          
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to your completed Turing portfolio with 2 additional projects: [BPJ-Turing Profile](https://www.turing.io/alumni/ben-jacobs)
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md): [BPJ-Reflections](https://gist.github.com/Benjaminpjacobs/b603d45d7e3e04520ab69201bf8284e9)
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): [BPJ-ActionPlan](https://gist.github.com/Benjaminpjacobs/5480e32e34a535eb3f1c3e75c9eed43a)
 
 ## Mod 3 Deliverables:
 
