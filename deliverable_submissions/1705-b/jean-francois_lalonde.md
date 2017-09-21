@@ -40,3 +40,4 @@ https://gist.github.com/JF-Lalonde/ff9ed873ec6bb27b361fe4198f201bca
 
 ## Mod 3 Deliverables:
 * Link to first draft of resume: https://standardresume.co/jf-lalonde
+* Second draft of resume: https://drive.google.com/file/d/0B9JcGL7wkQJ9UTAzOUVzbmJZbjA/view?usp=sharing
