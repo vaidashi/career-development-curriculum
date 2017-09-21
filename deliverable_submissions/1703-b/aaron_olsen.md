@@ -1,10 +1,15 @@
 # Aaron Olsen
 
-## Mod 2 Deliverables:
-* [Mentor Outreach](https://gist.github.com/MrAaronOlsen/7a633f63a9965abbc0dd754d6f56bba1)
+## Mod 4 Deliverables:
+* [Blog Post](https://gist.github.com/MrAaronOlsen/53361877b408175b1cbb8c724fdf44e6)
+* [Turing Portfolio](https://www.turing.io/alumni/aaron-olsen)
+* [Practice Interviews](https://gist.github.com/MrAaronOlsen/53361877b408175b1cbb8c724fdf44e6)
+* [Action plan](https://gist.github.com/MrAaronOlsen/53361877b408175b1cbb8c724fdf44e6)
 
-* [Agile Practices/Project Management](https://gist.github.com/MrAaronOlsen/a3c3acb8a61b44d9d8c6524f2039f099)
+## Mod 3 Deliverables:
 
-* [In-person Feedback](https://gist.github.com/MrAaronOlsen/1a9e6abac2dbc0de0a7f47bf2278eb52)
-
-* [Feedback III Reflection](https://gist.github.com/MrAaronOlsen/7a49e9f358bfbf690507f930c38fc94d)
+* [Resume](https://www.turing.io/sites/default/files/resumes/AaronResumeV4.pdf)
+* [Turing Portfolio](https://www.turing.io/alumni/aaron-olsen)
+* [Flower Exercise](https://gist.github.com/MrAaronOlsen/2bec8276479c4f7a706a0468f528c614)
+* [Trello Board](https://trello.com/b/dOQKJ3YB/job-tracker)
+* [Job search action plan](https://gist.github.com/MrAaronOlsen/47be30fd0ed463d544fbfe04dbb11781)

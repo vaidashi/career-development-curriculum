@@ -1,5 +1,22 @@
-Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. 
+# Jack Mallahan
 
+Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M3 FE Allison Singer"
+
+## Mod 3 Deliverables:
+
+* [Link to Turing portfolio](https://www.turing.io/alumni/jack-mallahan)
+* [Link to Flower Exercise](https://gist.github.com/jackmallahan/72e8395f3716614b4e1a81dc5debbda3)
+* [Link to Trello Board](https://trello.com/b/Jxkn7REf/jack-mallahan-job-tracker)
+* [Job search action plan for M4](https://gist.github.com/jackmallahan/57cd9382768798376a5a2e71ce619f2f)
+
+## Mod 2 Deliverables:
+* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md): https://github.com/jackmallahan/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md
+  
+* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?): https://github.com/jackmallahan/career-development-curriculum/blob/master/module_two/agile_deliverable.md
+ 
+* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md): https://github.com/jackmallahan/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md
+
+* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md): https://github.com/jackmallahan/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md): <script src="https://gist.github.com/jasonlucas907/48288dd1150fdf75c33902fcd6a06aed.js"></script>
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md): <script src="https://gist.github.com/jackmallahan/38b4d10347642da54b5e82710745e7cf.js"></script>

@@ -20,6 +20,7 @@ This is the first of your PD sessions this module. Module Three is the module in
 * Understand the purpose of a professional story -- and what this shouldn't include
 * Explore examples and opportunities for telling a professional story
 * Revise and refine your professional story and how you tell it 
+* Incorporate these ideas into your resume draft and Turing portfolio
 
 ### Deliverables
 Submit these links via a Pull Request to your individual repo folder, which you can find [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) (clone it first):
@@ -97,6 +98,9 @@ Take a look at a few examples before getting started. What do you notice about t
 
  - [Example 1](https://www.turing.io/sites/default/files/resumes/josh_cass.pdf)
  - [Example 2](https://www.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
+ - [Example 3](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%201.pdf)
+ - [Example 4](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%202.pdf) 
+ - [Example 5](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%203.pdf)
  - Don't be afraid to think outside of the box...Check out this [epic resume.](http://www.rleonardi.com/interactive-resume/)
 
 #### Layouts
