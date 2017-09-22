@@ -9,9 +9,9 @@ Students should clone their individual file and update them with links to specif
    
    I wrote a blog post about my first time working with open source. I definitely learned a lot through this process, mostly that the coding community is quite warm to newcomers. The owner of the repo we were working with was very receptive and helpful throughout the process. I hope that newcomers can read this blog post and not be so scared to contribute to open source!
 
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to your completed Turing portfolio with 2 additional projects: [Turing Portfolio](https://www.turing.io/alumni/cole-worsley)
+* Summary of participation in practice interview and/or actual interview using these [Interview Summary](https://gist.github.com/coleworsley/d67803bddff8feafcb5f4117e3aa16ac):
+* Link to completed action plan for the post-grad job search using this [Action Plan](https://gist.github.com/coleworsley/18c5d62106fa3a937e0a370bce6f7e6b): 
 
 ## Mod 3 Deliverables:
 
