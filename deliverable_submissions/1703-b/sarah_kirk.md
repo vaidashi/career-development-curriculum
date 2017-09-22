@@ -7,6 +7,7 @@ Students should clone their individual file and update them with links to specif
     * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
     https://gist.github.com/sarahdactyl71/809a71ab7f758763c2c5e5bc02b1a974
 * Link to your completed Turing portfolio with 2 additional projects: 
+https://www.turing.io/alumni/sarah-e-kirk
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 https://gist.github.com/sarahdactyl71/8efd069bec935ab34856af75131df140
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
