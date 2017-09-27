@@ -1,37 +1,40 @@
-## Cold Outreach II & Networking
+## Module 4 Professional Development Kickoff
+
+### Your Crash Course in Job Search Strategies & Resources
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing)
 
 ### Session Structure:
-Time: 90 mins
+Time: 60 mins, then breakout groups
 
-* Opening: objectives, deliverables, recap on cold outreach/networking and the why (8 mins)
-* Cold Outreach Overview (20 mins)
-* Cold Outreach Practice (20 mins)
-* Meetup Speaker Overview (10 mins)
-* Meetup Speaker Practice (10 mins)
-* Technical Blog Post Overview (10 mins)
-* Technical Blog Post Practice (10 mins)
-* Closing (2 mins)
+* Opening: objectives & introduction of scope & sequence of M4 PD; introduction to how groups will work & discuss end of module plan (8 mins)
+* Outreach (15 mins)
+* Networking & Branding (15 mins)
+* Technical Interview Prep Ideas (10 mins)
+* Intro to barriers (10 mins)
+* Closing & prepare to get into breakout groups (2 mins)
+
+Topics:
+-Outreach (formatting messages, finding people's emails, coming up with ideas for questions for the coffee meetings; spend time discussing as a whole group? Individual reflections to bring to your group? Read Jesse's Blog Post and then discuss in small groups?)
+-Networking (Meetup, Built In events, networking groups, telling your story, speaking at a Meetup, blogging and social networking; )
+-Technical Interview Prep (details from Ian and Brittany; make list of strengths and weaknesses?)
+-Intro to barriers (revisit in week 5)
+-Resources (#job-hunt, #salaries, your group, your coaches, your mentors, etc.)
+
+**Find ways to incorporate more alumni stories** 
 
 ### Objectives
 * Understand the purpose of cold outreach and networking in regards to your job search
 * Discuss how to leverage the network you have to find new relationships
 * Implement strategies to write effective outreach emails, researching Meetups to speak at, and brainstorming ideas for a technical blog post
 
-### Deliverable
-For this deliverable, you have 3 options to choose from. To fulfill the deliverable requirement, you only need to submit documentation of 1 option although you're absolutely encouraged to do more than one. Whichever option you choose, you'll need to submit your deliverable via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). All three of these options are meant to push you out of your comfort zone when it comes to the role of networking in your job search -- *blindly submitting resumes is not the way to go in the tech industry.* These options are meant to help you start forming meaningful connections that will lead to increased exposure in the industry and more job leads. Check each option for specific due dates:
+### Looking Ahead
+At the end of the module, you'll be expected to submit a job search action plan in your portfolio review
 
 #### Option 1: Cold Outreach
 Start to meet others in the industry through informal research conversations. How do you meet them? Send them a cold outreach email and then set up a coffee meeting. To fulfill this deliverable, provide a synopsis of 6 cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md) by **Monday of Week 5**
 
-A suggested way to break down completing this deliverable:
 
-* Week 1: Complete 1 email today! Conduct more research for who you will contact
-* Week 2: Complete 1 email
-* Week 3: Complete 2 emails 
-* Week 4: Complete 2 emails
-* Week 5: Submit your summary of interactions using the guidelines above to the submissions folder
 
 #### Option 2: Speak at a Meetup
 Many Meetups are interested in having new people come speak to their communities, and beginner's tracks are the norm at many major Meetups. Contact the Meetup organizers, propose a talk idea (this can be about anything!), and get on their list. If you start to make this habit, organizers will begin to contact *you* when they need someone to fill in. This is a great opportunity to meet people and help out local meetups. To complete this deliverable, submit a gist by **Monday of Week 5** listing:  
