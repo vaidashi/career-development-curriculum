@@ -1,26 +1,22 @@
 # Post-Grad Job Search Action Plan Template
 
-*This deliverable needs to be submitted to Meg in order to have post-grad job search support from her.*
+New parts:
+* Outline goal for finding a job: by what date, what concrete steps will you take to achieve that goal?
+	* Create schedule: treat as a 9-5 job, what are you doing and when?
+	* Coding: what is your focus?
+	* Networking & Outreach: 
+	* Job search tracking: How are you keeping track of everything that you're doing?
+	* Check-ins: who are you talking to and when?
+* Professional Development Final Components:
+	* Summarize story...will present this during portfolio review
+	* 
 
-The objectives of this plan are to not only help you strategize for your job search after graduation but also to help you plan for your longterm career. After all, your first developer job should align with those goals as well so that you're on track for a longterm successful career. 
 
-Some things to consider:
+You are so close! You've spent the last 7 months working towards this -- graduation and finding your new dream job! This plan is meant to help you streamline your goals and get on the path to employment as a software developer as quickly as possible. Please fill out the plan by copying this template into a gist to submit in your portfolio. 
 
-* What do you envision for your career?
-* What do you want your 2nd and 3rd jobs to look like?
-* How do you want to be involved with the Turing community? The greater developer community?
-* Where do your passions lie?
+Consider how your first job search will set the tone for your career trajectory in the software industry. After all, your first developer job should align with those goals as well so that you're on track for a longterm successful career. 
 
-### How to complete this plan:
-
-Create a gist from this template and fill out the first two parts of this plan:
-
-1. Job Search Plan
-2. Longterm Career Plan
-
-The third part is optional although highly encouraged. 
-
-**Note:** If you have already secured a job prior to graduation, skip the first part of this plan and please fill out the second part of this plan. 
+**Note:** If you have already secured a job prior to graduation, skip to the second part of the plan below.  
 
 ## #1: Job Search Plan: Create a schedule & goals
 1. Design a 40-hour "work week" that provides time for: 
@@ -56,39 +52,30 @@ Keep in mind:
 5. What "barriers" tend to hold you back in the job search? What steps will you take to overcome those "barriers"?
 
 
-
+Establish a “master” resume that you’ll customize per employer
+Establish “master” cover letter with your key talking points
+Establish a sharable calendar (like Google Calendar) where you block out how you will spend your time and have a record of what you’ve done
+Establish a “daily-practice” repository where you’re putting small daily exercises to keep your skills sharp and your GitHub activity chart active
+Utilize a tracking system to keep track of all your company/job outreach, who you talked to, what you learned, and what you’d do differently next time. 
+Ensure your Turing Portfolio (http://turing.io/alumni) has your latest work and an accurate list of your desired locations
+Ensure your LinkedIn is up to date and indicates that you’re job hunting
+Apply to at least 10 companies/jobs and reach out to at least 10 individuals
+We expect you to establish a “daily-practice” repository where you’re putting small daily exercises to keep your skills sharp and your GitHub activity chart active
 
 
 
 **[Example](https://gist.github.com/kjs222/7ef5e79a71eedf9d8c8d401da1e687c7)** of clearly outlined goals and schedule to complete them. 
 
 
-## #2: Longterm Career Plan: What are your career goals?
-Where do you want to go in your career? 
-
-Reflect on this [narrative rule described by Emma Coats, former Pixar story artist](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar):
-
-	Come up with your ending before you figure out your middle. Seriously. 
-	Endings are hard, get yours working up front.
-	
-1. Imagine that it's 5 years from now - what have you accomplished during that time? How is your life different? What steps did you take to achieve your goals?
-
-
-2. Create a vision statement for these longterm goals.
-
-	Guidelines for writing your vision statement:
-
-	* Make your statements stretching, challenging, and interrupting of the status quo.
-	* Write in the future tense (I will...)
-	* Is the statement grounded -- have you been able to demonstrate something similar in the past?
-
-
-3. Reference what you outlined in your Flower Exercise -- what preferred level of responsibility do you want to move to? Do you want to start your own company? What kind of work do you see yourself doing longterm? In your first year on the job, what skills do you want to develop to work towards your longterm goals?
+## #2: Supporting Others in Your Cohort in Their Job Search
+*Fill out this part if you have already secured a job prior to graduation.*
 
 
 
-## Optional: Furthering your Skills and Contributing to the Developer Community
-You're encouraged to pick one of the below options to work on in addition to the previous two. However, these are both completely optional.
+
+
+## Optional Extensions: Furthering your Skills and Contributing to the Developer Community
+You're encouraged to pick one of the below options to work on in addition to your plan above. However, this is completely optional.
 
 ### Option #1: Side Hustle Plan
 What side project(s) do you want to work on? How could you decide on a side project?
@@ -106,14 +93,10 @@ Take these steps:
 	* Who are your users?
 	* Etc.
 
-
-
 ### Option #2: Open Source Project
 How do you want to contribute to the developer community? 
 
 * Find an Open Source project couple projects you’d be interested in, why you’re interested, how you would like to contribute
-
-
 
 ### Option #3: Community Involvement
 How do you want to be involved in the developer community?
