@@ -23,29 +23,49 @@ Topics:
 
 **Find ways to incorporate more alumni stories** 
 
+## Opening: The Big Picture
 ### Objectives
-* Understand the purpose of cold outreach and networking in regards to your job search
-* Discuss how to leverage the network you have to find new relationships
-* Implement strategies to write effective outreach emails, researching Meetups to speak at, and brainstorming ideas for a technical blog post
+* 
 
 ### Looking Ahead
-At the end of the module, you'll be expected to submit a job search action plan in your portfolio review
+In your Module 4 portfolio review, you'll be expected to:
 
-#### Option 1: Cold Outreach
+* Submit your [job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to discuss at the review
+* Give your condensed elevator pitch version of your professional story at the review
+
+You'll also be expected to present your Turing Story, which will be a lightning talk of sorts to describe your Turing journey. Slides are encouraged but optional
+
+### Professional Development Support Groups & Coaches
+
+[Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_support_groups.md) to get your group going on the right track. 
+
+
+## Strategies & Tools
+### Outreach
+
+### Networking & Branding
+
+### Technical Interview Prep
+
+### (Perceived) Barriers to your Job Search
+
+### Closing: Break into Groups
+
+
+
 Start to meet others in the industry through informal research conversations. How do you meet them? Send them a cold outreach email and then set up a coffee meeting. To fulfill this deliverable, provide a synopsis of 6 cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md) by **Monday of Week 5**
 
 
 
-#### Option 2: Speak at a Meetup
+#### Speak at a Meetup
 Many Meetups are interested in having new people come speak to their communities, and beginner's tracks are the norm at many major Meetups. Contact the Meetup organizers, propose a talk idea (this can be about anything!), and get on their list. If you start to make this habit, organizers will begin to contact *you* when they need someone to fill in. This is a great opportunity to meet people and help out local meetups. To complete this deliverable, submit a gist by **Monday of Week 5** listing:  
 
 * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
 * Your talk outline (1-2 paragraphs)
 * 3-4 sentences on how you hope to utilize this talk to help you in your job search
- 
-It's okay if the Meetup hasn't happened by the deliverable deadline, but we'd like to see documentation that you've prepared to give this talk. 
 
-#### Option 3: Write a Technical Blog Post and Promote it Through Your Network
+
+#### Write a Technical Blog Post and Promote it Through Your Network
 If writing is more your style, you can choose to write a blog post about something you've learned during your time at Turing. In the blog post, we'll be looking to see:
 
 * How you communicate technical details
@@ -59,8 +79,6 @@ One of the best places to post a technical post is [Medium](https://medium.com/)
 
 * Link to your blog post 
 * 3-4 sentences on how you're using this blog post to connect with other people in your network (example: posting the blog post on Twitter and engaging in follow-up conversations there) in your PD submissions
-
-Please submit a link to your blog post by **Monday of Week 5**
 
 ### Opening
 In the last cold outreach session in Module Two, our focus was mostly on "warm outreach" as you used the mentorship network at Turing to start building relationships. But now we'll take the same principles from that session and apply them to creating relationships with people outside of the Turing community. 
