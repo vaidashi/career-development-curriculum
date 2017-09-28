@@ -1,16 +1,4 @@
 # Post-Grad Job Search Action Plan Template
-
-New parts:
-* Outline goal for finding a job: by what date, what concrete steps will you take to achieve that goal?
-	* Coding: what is your focus?
-	* Networking & Outreach: 
-	* Job search tracking: How are you keeping track of everything that you're doing?
-	* Check-ins: who are you talking to and when?
-* Professional Development Final Components:
-	* Summarize story...will present this during portfolio review
-	* 
-
-
 You are so close! You've spent the last 7 months working towards this -- graduation and finding your new dream job! This plan is meant to help you streamline your goals and get on the path to employment as a software developer as quickly as possible. Please fill out the plan by copying this template into a gist to submit in your portfolio. 
 
 As you fill out this plan, consider how your first job search will set the tone for your career trajectory in the software industry. After all, your first developer job should align with those goals as well so that you're on track for a longterm successful career. 
@@ -22,16 +10,17 @@ As you fill out this plan, consider how your first job search will set the tone 
 Design a 40-hour "work week" that provides time for: 
 	* Code (ideally, 2-4 hours a day will be dedicated to coding)
 	* Outreach & Networking
-	* Job & company research 
+	* Job & company research and tracking
 	* Interview Prep
-	* Housekeeping (updating your resume, writing cover letters, updating your Turing profile)
+	* Housekeeping (refining your professional story, updating your resume, writing cover letters, updating your Turing portfolio, updating your LinkedIn profile)
 	* Other (social networking, blogging, planning talks, etc.)
+	* Check-ins: who are you talking to and when?
 
 How much time will you spend on each? When will you do each thing?
 
 1. **Action Step:** Establish a shareable calendar (like Google Calendar) and block out time on your calendar *now* to adhere to these goals. At the end of each week, assess what worked with the schedule and what didn't so that you can make adjustments as needed and manage your time even more effectively for the following week. This will also help you keep a record of what you've done in your job search. 
 
-2. **Action Step:** Backwards plan for your big goal. What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
+2. **Action Step:** Backwards plan for your big goal. What is your cut-off for ending the job search? When do you want to receive and sign an offer by? 
 
 
 3. **Action Step:** Based on what you outlined above, create monthly, weekly, and daily goals to reach in order to reach your big goal.
@@ -44,29 +33,41 @@ Keep in mind:
 ### Coding
 For time spent coding, consider what skills would you like to improve or develop? Are there areas from Turing's program that you feel weaker in? How will you level up? Are there new languages or technologies you'd like to learn? How and when will you do that?
 
-**Action Step:** Establish a “daily-practice” repository where you’re putting small daily exercises to keep your skills sharp and your GitHub activity chart active
+**Action Step:** Establish a “daily_practice” repository where you’ll put small daily exercises to keep your skills sharp and your GitHub activity chart active. 
 
+### Outreach & Networking
 
+### Job/Company Research & Tracking
 
+**Action Step:** List the tracking system you'll use (Trello, jobtrack.io, etc.) to keep track of all your company/job outreach, who you talked to, what you learned, what next steps you'll take to follow-up, and anything you might do differently next time. 
 
+**Action Step:** Apply to at least 10 companies/jobs and reach out to at least 10 individuals
 
-5. What "barriers" tend to hold you back in the job search? What steps will you take to overcome those "barriers"?
+### Interview Prep
 
+**Action Step:** Identify 
 
-Establish a “master” resume that you’ll customize per employer
-Establish “master” cover letter with your key talking points
+### Housekeeping
 
+**Action Step:** Ensure your [Turing Portfolio](http://turing.io/alumni) has **at least 3 projects displayed,** including your latest work, and an accurate list of your desired locations
 
-Utilize a tracking system to keep track of all your company/job outreach, who you talked to, what you learned, and what you’d do differently next time. 
-Ensure your Turing Portfolio (http://turing.io/alumni) has your latest work and an accurate list of your desired locations
-Ensure your LinkedIn is up to date and indicates that you’re job hunting
-Apply to at least 10 companies/jobs and reach out to at least 10 individuals
-We expect you to establish a “daily-practice” repository where you’re putting small daily exercises to keep your skills sharp and your GitHub activity chart active
+**Action Step:** Ensure your LinkedIn is up to date and indicates that you’re job hunting. Indicate here in your plan a summary of any adjustments you made and how you'll continue to update it and/or use the site to build your network and online presence. 
 
+**Post-Grad Action Step:** During this timeframe, you should establish a “master” resume that you’ll customize per employer. You should already have a working version that you submitted in Module 3. *This does not need to be included in the draft that you submit in your portfolio; however, you should have a plan for completing this during the first few weeks post-grad.*
 
+**Post-Grad Action Step:** Establish a “master” cover letter with your key talking points that you'll customize per employer. *This does not need to be included in the draft that you submit in your portfolio; however, you should have a plan for completing this during the first few weeks post-grad.*
 
-**[Example](https://gist.github.com/kjs222/7ef5e79a71eedf9d8c8d401da1e687c7)** of clearly outlined goals and schedule to complete them. 
+## Other
+What other areas would you like to focus on during 
 
+**Action Step:** Identify one of the areas above that you'd like to develop during your post-grad schedule...
+
+### Check-ins: Who are you talking to and when?
+
+### Identifying & Overcoming Barriers
+While you've made concrete plans for how to achieve your goal, it's also important to take stock of what could hold you back in the job search. 
+
+What "barriers" tend to hold you back in the job search? What steps will you take to overcome those "barriers"?
 
 ## #2: Supporting Others in Your Cohort in Their Job Search
 *Fill out this part if you have already secured a job prior to graduation.*
