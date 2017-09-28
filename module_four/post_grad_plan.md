@@ -44,11 +44,11 @@ For time spent coding during your first 30 days post-grad, consider:
 ### Outreach & Networking
 As we've discussed, meeting people, forming relationships, and having conversations are the key pieces to getting your foot in the door at any company. It's important to be proactive in your approach to outreach and networking to stay on track during your first 30 days.
 
-**Action Step #1:** Identify 3 companies from your tracking system that you want to    and reach out to at least 10 individuals
+**Action Step #1:** Identify at least 3 individuals from companies you're tracking who could connect with during your first 30 days. Describe why you want to connect with these people and what you hope to talk about, when you will email them by, and what your follow-up will look like once you've met with them. 
 
-**Action Step #2:** Plan to write 5-10 emails and set up at least
+**Action Step #2:** Find 3 new meetups or other career networking events to join during your first 30 days post-grad and describe why you'll attend those particular events. How will attending these meetups benefit you in your job search? How can you contribute to the community of these meetups? If you're interested in speaking at any of these meetups, describe how you'll connect with the organizers to arrange that and give a brief (2-3 sentences) pitch on what you might talk about and why. 
 
-**Action Step #3:** Find 3 new meetups or other career networking events to join during your first 30 days post-grad and describe why you'll attend those particular events. How will attending these meetups benefit you in your job search? How can you contribute to the community of these meetups? If you're interested in speaking at any of these meetups, describe how you'll connect with the organizers to arrange that and give a brief (2-3 sentences) pitch on what you might talk about and why. 
+**Post-Grad Action Step:** During the first 30 days, you should aim to reach out to at least 10 individuals. Even if you don't have a list of all 10 for the draft of this plan for portfolio review, be prepared to meet this target during your first 30 days of the job search. 
 
 ### Job/Company Research & Tracking
 Success in the job search means staying organized. The best way to do that is to have a clear system to keep track of your contacts, research, and updates on what you're doing. 
@@ -101,4 +101,4 @@ As a member of the Turing community, your support in the job search makes a big 
 
 **Action Step #2:** With the person(s) you identified above, describe one area of the job search that you feel particularly skilled in and will commit to helping them with on a regular basis during the first 30 days. Examples include: review outreach emails, review blog posts, practice storytelling, attend meetups or other events with them, etc. Why do you feel that you can help in this area? What will your help look like?
 
-**Action Step #3:** 
+**Action Step #3:** Utilize your networking experience in the job search to recommend 1-2 people whom you've met that others in your cohort would benefit from meeting as well. Describe how you will make the introductions for at least 1 person in your cohort and when you will execute this by. 
