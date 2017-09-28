@@ -18,12 +18,17 @@ Design a 40-hour "work week" that provides time for:
 
 How much time will you spend on each? When will you do each thing?
 
-1. **Action Step:** Establish a shareable calendar (like Google Calendar) and block out time on your calendar *now* to adhere to these goals. At the end of each week, assess what worked with the schedule and what didn't so that you can make adjustments as needed and manage your time even more effectively for the following week. This will also help you keep a record of what you've done in your job search. 
+1. **Action Step:** Establish a shareable calendar (like Google Calendar) and block out time on your calendar *now* to adhere to these goals.
+
+**M4 Portfolio Review Prep:** Prepare to show this calendar to your instructors. 
+
+**Post-Grad Action Step:** At the end of each week, assess what worked with the schedule and what didn't so that you can make adjustments as needed and manage your time even more effectively for the following week. This will also help you keep a record of what you've done in your job search. *This does not need to be included in this drafted plan for your portfolio; however, you should have a plan for completing this during the first few weeks post-grad.*
 
 2. **Action Step:** Backwards plan for your big goal. What is your cut-off for ending the job search? When do you want to receive and sign an offer by? 
 
 
-3. **Action Step:** Based on what you outlined above, create monthly, weekly, and daily goals to reach in order to reach your big goal.
+3. **Action Step:** Based on what you outlined above, create monthly, weekly, and daily goals to reach in order to reach your big goal:
+
 
 Keep in mind:
 
@@ -34,6 +39,8 @@ Keep in mind:
 For time spent coding, consider what skills would you like to improve or develop? Are there areas from Turing's program that you feel weaker in? How will you level up? Are there new languages or technologies you'd like to learn? How and when will you do that?
 
 **Action Step:** Establish a “daily_practice” repository where you’ll put small daily exercises to keep your skills sharp and your GitHub activity chart active. 
+
+**M4 Portfolio Review Prep:** Prepare to describe to your instructors what you plan to work on to sharpen and advance your coding skills for the duration of your job search. 
 
 ### Outreach & Networking
 
@@ -49,16 +56,17 @@ For time spent coding, consider what skills would you like to improve or develop
 
 ### Housekeeping
 
-**Action Step:** Ensure your [Turing Portfolio](http://turing.io/alumni) has **at least 3 projects displayed,** including your latest work, and an accurate list of your desired locations
+**Action Step:** Ensure your [Turing Portfolio](http://turing.io/alumni) has **at least 3 projects displayed,** including your latest work, and an accurate list of your desired locations. Be prepared to show this to your instructors during your M4 portfolio review. 
 
-**Action Step:** Ensure your LinkedIn is up to date and indicates that you’re job hunting. Indicate here in your plan a summary of any adjustments you made and how you'll continue to update it and/or use the site to build your network and online presence. 
+**Action Step:** Ensure your LinkedIn is up to date and indicates that you’re job hunting. Indicate here a summary of any adjustments you made and how you'll continue to update it and/or use the site to build your network and online presence. 
 
-**Post-Grad Action Step:** During this timeframe, you should establish a “master” resume that you’ll customize per employer. You should already have a working version that you submitted in Module 3. *This does not need to be included in the draft that you submit in your portfolio; however, you should have a plan for completing this during the first few weeks post-grad.*
+**Post-Grad Action Step:** During this timeframe, you should establish a “master” resume that you’ll customize per employer. You should already have a working version that you submitted in Module 3. *This does not need to be included in the draft for your portfolio; however, you should have a plan for completing this during the first few weeks post-grad.*
 
-**Post-Grad Action Step:** Establish a “master” cover letter with your key talking points that you'll customize per employer. *This does not need to be included in the draft that you submit in your portfolio; however, you should have a plan for completing this during the first few weeks post-grad.*
+**Post-Grad Action Step:** Establish a “master” cover letter with your key talking points that you'll customize per employer. *This does not need to be included in the draft for your portfolio; however, you should have a plan for completing this during the first few weeks post-grad.*
 
 ## Other
-What other areas would you like to focus on during 
+What other areas would you like to focus on during your job search? Some possible ideas include:
+* 
 
 **Action Step:** Identify one of the areas above that you'd like to develop during your post-grad schedule...
 
@@ -67,7 +75,7 @@ What other areas would you like to focus on during
 ### Identifying & Overcoming Barriers
 While you've made concrete plans for how to achieve your goal, it's also important to take stock of what could hold you back in the job search. 
 
-What "barriers" tend to hold you back in the job search? What steps will you take to overcome those "barriers"?
+**Action Step:** Identify 1-2 "barriers" you might put on yourself in this job search as well as the steps you will take to overcome them. Be prepared to describe these in your M4 portfolio review. 
 
 ## #2: Supporting Others in Your Cohort in Their Job Search
 *Fill out this part if you have already secured a job prior to graduation.*
