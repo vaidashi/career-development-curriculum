@@ -1,4 +1,4 @@
-# Module Four Professional Development Support Group Guidelines
+# Module Four Professional Development Peer Group Guidelines
 
 ## Overview
 Welcome to Module Four! This is when you’ll kick your job search into high gear, and to assist with that, you will meet with your peer support group each Tuesday to discuss strategies and find ways to hold each other accountable. A Turing staff member will also be available as a coach to help your group stay on track and offer advice when needed. 
