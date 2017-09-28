@@ -46,71 +46,9 @@ You'll also be expected to present your Turing Story, which will be a lightning 
 
 ## Strategies & Tools
 ### Outreach
+When it comes to your job search, meeting people to have discussions about companies and experiences is much more effective than sending your resume out into the abyss. Creating opportunities to meet those people is where cold outreach and networking come in. The technology industry is a relatively small community, and networking is key to becoming a part of that community.
 
-### Networking & Branding
-
-### Technical Interview Prep
-
-### (Perceived) Barriers to your Job Search
-We can sometimes talk ourselves out of opportunities before we even give them a chance, and we create our own barriers to success.
-
-* Examples of barriers:
-	* "I talk myself out of applying to certain jobs because I don’t meet enough of the listed qualifications."
-*This is common among women.*
-	* "I don’t feel comfortable networking. It feels forced, and I don’t want to do something that doesn’t feel genuine, so I stay home from meet-ups."
-	* "Interviews make me really nervous, so I end up performing badly. It’s hard for me to code or communicate on the spot."
-	* "I just want a job." When you don't clarify what you want, it can cause your job search to meander, and this could be a barrier for what you really want. 
-
-What are some barriers you might carry with you? Think about these areas:
-
-* Entering the Software Industry
-* Cold Outreach
-* Networking
-* Interviewing (either technical or culture fit)
-* Personal Branding for yourself
-* Other -- what other anxieties do you have that aren't covered in the other categories? 
-
-### Closing: Break into Groups
-
-
-
-Start to meet others in the industry through informal research conversations. How do you meet them? Send them a cold outreach email and then set up a coffee meeting. To fulfill this deliverable, provide a synopsis of 6 cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md) by **Monday of Week 5**
-
-
-
-#### Speak at a Meetup
-Many Meetups are interested in having new people come speak to their communities, and beginner's tracks are the norm at many major Meetups. Contact the Meetup organizers, propose a talk idea (this can be about anything!), and get on their list. If you start to make this habit, organizers will begin to contact *you* when they need someone to fill in. This is a great opportunity to meet people and help out local meetups. To complete this deliverable, submit a gist by **Monday of Week 5** listing:  
-
-* Which Meetup you spoke at/will be speaking at and why you chose that Meetup
-* Your talk outline (1-2 paragraphs)
-* 3-4 sentences on how you hope to utilize this talk to help you in your job search
-
-
-#### Write a Technical Blog Post and Promote it Through Your Network
-If writing is more your style, you can choose to write a blog post about something you've learned during your time at Turing. In the blog post, we'll be looking to see:
-
-* How you communicate technical details
-* How you break down complicated processes into simple steps
-* A desire to give back to the tech community
-* A passion for learning and exploring new things
-
-(Potential employers will be looking for those things as well)
-
-One of the best places to post a technical post is [Medium](https://medium.com/). The audience reach is built in, and you're able to post to social media sites with ease. To complete the deliverable, include:
-
-* Link to your blog post 
-* 3-4 sentences on how you're using this blog post to connect with other people in your network (example: posting the blog post on Twitter and engaging in follow-up conversations there) in your PD submissions
-
-### Opening
-In the last cold outreach session in Module Two, our focus was mostly on "warm outreach" as you used the mentorship network at Turing to start building relationships. But now we'll take the same principles from that session and apply them to creating relationships with people outside of the Turing community. 
-
-**Whole Group Discussion:** What are the best practices? 
-
-### Why Cold Outreach & Networking
-When it comes to your job search, meeting people to have discussions about companies and experiences is much more effective than sending your resume out into the abyss. Creating opportunities to meet those people is where cold outreach and networking come in. The technology industry is a relatively small community, and networking is key to becoming a part of that community. 
-
-### Option 1: Cold Outreach
-**Whole Group Discussion:** When you're reaching out to people, what is your purpose? Hint: it's not to ask for a job. 
+**Whole Group Discussion:** When you reach out to someone in the industry, what is your purpose? Hint: it's not to ask for a job. 
 
 Suggested purposes:
 
@@ -263,6 +201,33 @@ Don't:
 
 * Ask for a job
 * Talk about yourself too much
+
+### Networking & Branding
+
+### Technical Interview Prep
+
+### (Perceived) Barriers to your Job Search
+We can sometimes talk ourselves out of opportunities before we even give them a chance, and we create our own barriers to success.
+
+* Examples of barriers:
+	* "I talk myself out of applying to certain jobs because I don’t meet enough of the listed qualifications."
+*This is common among women.*
+	* "I don’t feel comfortable networking. It feels forced, and I don’t want to do something that doesn’t feel genuine, so I stay home from meet-ups."
+	* "Interviews make me really nervous, so I end up performing badly. It’s hard for me to code or communicate on the spot."
+	* "I just want a job." When you don't clarify what you want, it can cause your job search to meander, and this could be a barrier for what you really want. 
+
+What are some barriers you might carry with you? Think about these areas:
+
+* Entering the Software Industry
+* Cold Outreach
+* Networking
+* Interviewing (either technical or culture fit)
+* Personal Branding for yourself
+* Other -- what other anxieties do you have that aren't covered in the other categories? 
+
+### Closing: Break into Groups
+
+ 
 
 ### Option 2: Speaking at a Meetup
 
