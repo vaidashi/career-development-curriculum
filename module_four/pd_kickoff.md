@@ -25,7 +25,11 @@ Topics:
 
 ## Opening: The Big Picture
 ### Objectives
+* Understand the scope and sequence of Module 4 Professional Development
 * 
+
+### Module 4 Professional Development Scope & Sequence
+
 
 ### Looking Ahead
 In your Module 4 portfolio review, you'll be expected to:
@@ -48,6 +52,23 @@ You'll also be expected to present your Turing Story, which will be a lightning 
 ### Technical Interview Prep
 
 ### (Perceived) Barriers to your Job Search
+We can sometimes talk ourselves out of opportunities before we even give them a chance, and we create our own barriers to success.
+
+* Examples of barriers:
+	* "I talk myself out of applying to certain jobs because I don’t meet enough of the listed qualifications."
+*This is common among women.*
+	* "I don’t feel comfortable networking. It feels forced, and I don’t want to do something that doesn’t feel genuine, so I stay home from meet-ups."
+	* "Interviews make me really nervous, so I end up performing badly. It’s hard for me to code or communicate on the spot."
+	* "I just want a job." When you don't clarify what you want, it can cause your job search to meander, and this could be a barrier for what you really want. 
+
+What are some barriers you might carry with you? Think about these areas:
+
+* Entering the Software Industry
+* Cold Outreach
+* Networking
+* Interviewing (either technical or culture fit)
+* Personal Branding for yourself
+* Other -- what other anxieties do you have that aren't covered in the other categories? 
 
 ### Closing: Break into Groups
 
