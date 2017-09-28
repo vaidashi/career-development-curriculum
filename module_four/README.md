@@ -3,10 +3,10 @@
 Module Four career development is a culmination of the development that students have been working on during their previous three modules. This module is focused on tightening skills and applying them to future goals. The following are key components of success in this module:
 
 * Build on current and create new relationships with others in the tech industry
+* Demonstrate abilities and knowledge in technical interview practice
 * Prepare to negotiate job offers effectively
 * Describe a vision for the future
-* Create plan aligned to achieving job search goals
-* Demonstrate abilities and knowledge in technical interview practice
+* Create 30-day post-graduation plan aligned to achieving job search goals
 * Engage in complex issues of the tech industry
 * Lead other students in discussions and learning 
 
@@ -26,10 +26,12 @@ By achieving the objectives listed above, students will be prepared for a succes
     * Case Study Planning
     * Case Study Facilitation
 
-### Professional Development Support Groups
+### Professional Development Peer Groups & Coaching
+Each Module Four student will be assigned a peer group to check in with every Tuesday of the module. These groups will serve as an  accountability and motivational system to help students identify job search goals and how to achieve them with each other's support. They also serve as a safe environment to identify potential blockers in the job search and find solutions to them. Each group will also have weekly check-ins with a member of Turing staff who will serve as a job search coach. 
 
+Reference [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_support_groups.md) for how the groups can work together.
 
 ### Deliverables
-In order to fulfill the requirements of Module Four, students will complete a [job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to be submitted in their Module 4 portfolio. They will also be expected to share a summarized version of their professional story in their review and prepare a lightning talk of their Turing story to present during the final week of the module. 
+In order to fulfill the requirements of Module Four, students will complete a [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to be submitted in their Module 4 portfolio. They will also be expected to share a summarized version of their professional story in their review and prepare a lightning talk of their Turing story to present during the final week of the module. 
 
 
