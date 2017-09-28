@@ -1,5 +1,5 @@
 # Post-Grad Job Search Action Plan Template: Your first 30 Days
-You are so close! You've spent the last 7 months working towards this -- graduation and finding your new dream job! This plan is meant to help you streamline your goals and get on the path to employment as a software developer during the first 30 days after graduation. Please fill out the plan by copying this template into a gist to submit in your portfolio. 
+You are so close! You've spent the last 7 months working towards this -- graduation and finding your new dream job! This plan is meant to help you streamline your goals and get on the path to employment as a software developer during the first 30 days after graduation. **Please fill out the plan by copying this template into a gist to submit in your portfolio.** 
 
 As you fill out this plan, consider how your first job search will set the tone for your career trajectory in the software industry. After all, your first developer job should align with those goals as well so that you're on track for a longterm successful career. 
 
