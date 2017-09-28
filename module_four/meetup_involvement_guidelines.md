@@ -2,8 +2,6 @@
 
 What Meetups have you gone to? How have they impacted your learning? How have you learned from other developers thus far in your tech career? 
 
-Whole Group share-out
-
 Chances are, you've learned from other developers' talks and own discoveries in their learning. With this option, you can join the community through giving back. Speaking at a meetup is a very effective way to impart knowledge, gain experience speaking, and provide your career with some exposure. 
 
 #### How to Approach This
@@ -13,14 +11,12 @@ OR
 
 Pick a Meetup that sounds interesting
 
-
 OR 
 
 Look for kinds of topics have been covered at this Meetup recently -- how could you contribute?
 
 #### Utilize Your Network
-* Mentor Ian Douglas frequently includes Turing students and alumni as speakers at the Boulder Python meetup
-* See what other meetups that Turing community members are involved in
+Who do you know who is involved in See what other meetups that Turing community members are involved in
 
 #### Prepare Your Talk
 A great way to approach your talk is to utilize the format of “here’s what I learned when I tried to _______." This is how you've learned from other developers and how they will learn from you. 
