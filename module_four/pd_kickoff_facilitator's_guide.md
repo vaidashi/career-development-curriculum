@@ -1,13 +1,9 @@
-# Cold Outreach II & Networking
+# Module 4 PD Kickoff
 ## Facilitator Guide
 
 ### Session Outcomes
 
-* Students are able to understand why cold outreach and networking are effective strategies for the job search 
-* Students are able to think about their network critically
-* Students are able to write effective cold outreach emails
-* Students are able to utilize strategies for contacting meetup organizers, formulate a talk plan, and pitch it to speak at a meetup
-* Students are able to utilize strategies for writing and editing technical blog posts
+* Students are able to...
 
 ### Logistics
 
@@ -17,18 +13,11 @@
 
 ### Session Structure
 
-[Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_ii_networking.md)
+[Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/pd_kickoff.md)
 
-Length: 90 minutes
+Length: 60 minutes
  
-* Opening: objectives, deliverables, recap on cold outreach/networking and the why (8 mins)
-* Cold Outreach Overview (20 mins)
-* Cold Outreach Practice (20 mins)
-* Meetup Speaker Overview (10 mins)
-* Meetup Speaker Practice (10 mins)
-* Technical Blog Post Overview (10 mins)
-* Technical Blog Post Practice (10 mins)
-* Closing (2 mins)
+* ...
 
 
 | Timing        | Facilitator Talking Points        | Participant Actions  |
