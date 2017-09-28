@@ -12,6 +12,7 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
    * Share updates on how coffee meetings go as group members attend them
 * Networking events: 
    * What meetups are coming up? Who can you connect with at them? Make a plan to attend a meetup together
+   * Discuss ideas for pitching a talk at a meetup; help anyone interested write out their pitch
 * Storytelling: 
    * Practice refining your story into a short elevator pitch and provide feedback to each other 
 * Interview prep: 
@@ -29,7 +30,8 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
     * Spend time writing blog posts together
     * Complete peer review
     * Discuss ideas for how you can use a blog post to increase visibility
-* Pooling your resources: what leads or tips can you share with each other?
+* Pooling your resources: 
+    * What leads or tips can you share with each other? Have you talked with someone who may not have an opening/company that's the right fit for you but could be a great fit for one of your groupmates?
 
 ## Suggested weekly check-in ideas:
 * Week 1: 
@@ -63,14 +65,19 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
   * End the meeting with action steps for how you’ll hold each other accountable over the next week
 
 ## Accountability -- what does this look like for your group? 
-Here are some suggestions:
+To make this a safe and easy place to share with each other, make sure to set some norms for how the group will operate. Remember to utilize principles of Nonviolent Communication, active listening, feedback, how different strengths in your group are working together, where you all are on the introversion/extroversion scale, and how you appreciate communication and motivation. **In other words, DTR with each other on how you will hold each other accountable to ensure that everyone is an equal part in this discussion.**
+
+Here are some suggestions on how to create accountability systems:
 * Start each Tuesday meeting with a Stand Up to give updates on your job search action steps
 * Create a Slack channel to post updates in throughout the week when you’re not meeting with each other
 * Identify what motivates you and share with your group how they can support that motivation
 * Share your barriers with your group as you come across them so that they can help you move past them
-* 
 
 ## How to utilize your coaches:
 * Keep them updated. Let them know your needs at any given time -- what questions do you have? Where is your group getting stuck? What advice do you need?
-* 
-
+* Create an agenda for your meetings with them so that you can maximize time. Send this agenda to them ahead of time.
+* Share your action steps and accountability metrics with them so that they can help support these with follow-up
+* Ask for help:
+    * Reviewing resumes, Turing portfolios, cover letters, LinkedIn, etc.
+    * Finding interview prep resources
+    * Practice storytelling
