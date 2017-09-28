@@ -4,12 +4,31 @@
 Welcome to Module Four! This is when you’ll kick your job search into high gear, and to assist with that, you will meet with your peer support group each Tuesday to discuss strategies and find ways to hold each other accountable. A Turing staff member will also be available as a coach to help your group stay on track and offer advice when needed. 
 
 ## Potential topics for your group to discuss:
-* Outreach emails: write emails together, give feedback on each other’s emails before sending them out
-* Coffee meetings: what questions do you want to make sure to ask? Create a list in your group
-* Networking events: what meetups are coming up? Who can you connect with at them? Make a plan to attend a meetup together
-* Storytelling: practice your elevator pitch with each other and provide feedback 
-* Interview prep: review common questions with each other, discuss approaches that you've taken in mock interviews and real interviews alike, share resources to help each other level up
-* Blogging: discuss ideas for posts, peer review, and how you can use a blog post to increase visibility
+* Outreach emails: 
+   * Write emails together
+   * Give feedback on each other’s emails before sending them out
+* Coffee meetings: 
+   * What questions do you want to make sure to ask? Create a list with your group
+   * Share updates on how coffee meetings go as group members attend them
+* Networking events: 
+   * What meetups are coming up? Who can you connect with at them? Make a plan to attend a meetup together
+* Storytelling: 
+   * Practice refining your story into a short elevator pitch and provide feedback to each other 
+* Interview prep: 
+    * Review common questions with each other
+    * Discuss approaches that you've taken in mock interviews and real interviews alike
+    * Share resources to help each other level up
+* Job Search Housekeeping: Resumes, Social Media, Turing Portfolios, GitHub:
+    * Share your resumes with each other for feedback and tips
+    * Review each other's LinkedIn profiles and provide feedback, write recommendations for each other, endorse each other's skills
+    * Twitter: follow each other, retweet each other's posts, engage in discussions about software topics
+    * Turing Portfolios: Review each other's Turing portfolios and provide feedback
+    * GitHub: Review each other's code, look over and help each other write ReadMes for featured projects
+* Blogging: 
+    * Discuss ideas for posts
+    * Spend time writing blog posts together
+    * Complete peer review
+    * Discuss ideas for how you can use a blog post to increase visibility
 * Pooling your resources: what leads or tips can you share with each other?
 
 ## Suggested weekly check-in ideas:
@@ -19,10 +38,14 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
     * End the meeting with action steps for how you’ll hold each other accountable over the next week
 
 * Week 2:
-  * End the meeting with action steps for how you’ll hold each other accountable over the next week
+    * Start with a Stand Up for each group member to provide updates
+    * Choose an idea from the list above to focus on in your conversation
+    * End the meeting with action steps for how you’ll hold each other accountable over the next week
 
 * Week 3:
-  * End the meeting with action steps for how you’ll hold each other accountable over the next week
+    * Start with a Stand Up for each group member to provide updates
+    * Choose an idea from the list above to focus on in your conversation
+    * End the meeting with action steps for how you’ll hold each other accountable over the next week
 
 * Week 4: 
   * End the meeting with action steps for how you’ll hold each other accountable over the next week
@@ -39,7 +62,11 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
 Here are some suggestions:
 * Start each Tuesday meeting with a Stand Up to give updates on your job search action steps
 * Create a Slack channel to post updates in throughout the week when you’re not meeting with each other
+* Identify what motivates you and share with your group how they can support that motivation
+* Share your barriers with your group as you come across them so that they can help you move past them
+* 
 
 ## How to utilize your coaches:
-* Keep them updated. Let them know your needs at any given time
+* Keep them updated. Let them know your needs at any given time -- what questions do you have? Where is your group getting stuck? What advice do you need?
+* 
 
