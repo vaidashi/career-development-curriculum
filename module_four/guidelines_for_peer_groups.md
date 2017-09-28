@@ -31,6 +31,7 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
     * Spend time writing blog posts together
     * Complete peer review
     * Discuss ideas for how you can use a blog post to increase visibility
+    * Use these [tips for writing blogs using templates, writing tools, and peer review resources.](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/blogging_tips.md) 
 * Pooling your resources: 
     * What leads or tips can you share with each other? Have you talked with someone who may not have an opening/company that's the right fit for you but could be a great fit for one of your groupmates?
 
