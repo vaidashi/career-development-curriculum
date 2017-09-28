@@ -38,24 +38,28 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
     * End the meeting with action steps for how you’ll hold each other accountable over the next week
 
 * Week 2:
-    * Start with a Stand Up for each group member to provide updates
+    * Start with a Stand Up for each group member to provide updates, celebrate what's going well, discuss strategies for how to move forward if things haven't gone well
     * Choose an idea from the list above to focus on in your conversation
     * End the meeting with action steps for how you’ll hold each other accountable over the next week
 
 * Week 3:
-    * Start with a Stand Up for each group member to provide updates
+    * Start with a Stand Up for each group member to provide updates, celebrate what's going well, discuss strategies for how to move forward if things haven't gone well
     * Choose an idea from the list above to focus on in your conversation
     * End the meeting with action steps for how you’ll hold each other accountable over the next week
 
 * Week 4: 
-  * End the meeting with action steps for how you’ll hold each other accountable over the next week
+    * Start with a Stand Up for each group member to provide updates, celebrate what's going well, discuss strategies for how to move forward if things haven't gone well
+    * Choose an idea from the list above to focus on in your conversation
+    * End the meeting with action steps for how you’ll hold each other accountable over the next week
 
 * Week 5:
+  * Start with a Stand Up for each group member to provide updates, celebrate what's going well, discuss strategies for how to move forward if things haven't gone well
   * Begin working on the post-grad job search plans together
   * End the meeting with action steps for how you’ll hold each other accountable over the next week
 
 * Week 6:
-  * Finalize your job search plans, Turing stories, and story practice for the portfolio review and practice with each other
+   * Start with a Stand Up for each group member to provide updates, celebrate what's going well, discuss strategies for how to move forward if things haven't gone well
+  * Finalize your job search plans, Turing stories, and practice your professional storytelling for the portfolio review with each other
   * End the meeting with action steps for how you’ll hold each other accountable over the next week
 
 ## Accountability -- what does this look like for your group? 
