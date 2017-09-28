@@ -93,12 +93,12 @@ While you've made concrete plans for how to achieve your goal, it's also importa
 **Action Step:** Identify 1-2 "barriers" you might put on yourself in this job search as well as the steps you will take to overcome them. Be prepared to describe these in your M4 portfolio review. 
 
 ## #2: Supporting Others in Your Cohort in Their Job Search
-*Fill out this part if you have already secured a job prior to graduation.*
+*Fill out this part only if you have already secured a job prior to graduation.*
 
-**Action Step #1:**
+As a member of the Turing community, your support in the job search makes a big difference for your peers as they pursue their first position. Complete the following action steps to 
 
-**Action Step #2:**
+**Action Step #1:** Identify 1-2 people from your PD Peer Group who will continue to check in with during the first 30 days post-graduation. Describe what you will do in these check-ins, how you will help keep them motivated, and how you will follow up with these cohortmates afterwards.
 
-**Action Step #3:**
+**Action Step #2:** With the person(s) you identified above, describe one area of the job search that you feel particularly skilled in and will commit to helping them with on a regular basis during the first 30 days. Examples include: review outreach emails, review blog posts, practice storytelling, attend meetups or other events with them, etc. Why do you feel that you can help in this area? What will your help look like?
 
-**Post-Grad Action Step:**
+**Action Step #3:** 
