@@ -39,28 +39,28 @@ For time spent coding during your first 30 days post-grad, consider:
 * Are there areas from Turing's program that you feel weaker in? How will you level up? 
 * Are there new languages or technologies you'd like to learn? How and when will you do that?
 
-**Action Step:** Establish a “daily-practice” repository where you’ll put small daily exercises to keep your skills sharp and your GitHub activity chart active. For your Mod 4 portfolio review, be prepared to describe to your instructors what you plan to work on to sharpen and advance your coding skills for the duration of your job search. 
+**Action Step:** Establish a “daily-practice” repository where you’ll put small daily exercises to keep your skills sharp and your GitHub activity chart active. For your Mod 4 portfolio review, be prepared to describe to your instructors what you plan to work on to sharpen and advance your coding skills for the first 30 days of your job search. 
 
 ### Outreach & Networking
-As we've discussed, meeting people, forming relationships, and having conversations are the key pieces to getting your foot in the door. ...
+As we've discussed, meeting people, forming relationships, and having conversations are the key pieces to getting your foot in the door at any company. It's important to be proactive in your approach to outreach and networking to stay on track during your first 30 days.
 
-**Action Step #1:**
+**Action Step #1:** Identify 3 companies from your tracking system that you want to    and reach out to at least 10 individuals
 
-**Action Step #2:**
+**Action Step #2:** Plan to write 5-10 emails and set up at least
 
-**Action Step #3:** Find 3 new meetups to join and describe why you'll attend those particular meetups. How will attending these meetups benefit you in your job search? How can you contribute to the community of these meetups? If you're interested in speaking at any of these meetups, describe how you'll connect with the organizers to arrange that and give a brief (2-3 sentences) pitch on what you might talk about and why. 
+**Action Step #3:** Find 3 new meetups or other career networking events to join during your first 30 days post-grad and describe why you'll attend those particular events. How will attending these meetups benefit you in your job search? How can you contribute to the community of these meetups? If you're interested in speaking at any of these meetups, describe how you'll connect with the organizers to arrange that and give a brief (2-3 sentences) pitch on what you might talk about and why. 
 
 ### Job/Company Research & Tracking
 Success in the job search means staying organized. The best way to do that is to have a clear system to keep track of your contacts, research, and updates on what you're doing. 
 
 **Action Step:** List the tracking system you'll use (Trello, jobtrack.io, etc.) to keep track of all your company/job outreach, who you talked to, what you learned, what next steps you'll take to follow-up, and anything you might do differently next time. Be prepared to describe this system to your instructors during your portfolio review. 
 
-**Post-Grad Action Step:** Apply to at least 10 companies/jobs and reach out to at least 10 individuals. *This does not need to be included in this drafted plan for your portfolio; however, you should have a plan for completing this during the first 30 days post-grad.*
+**Post-Grad Action Step:** Reach out to and apply to at least 10 companies/jobs. *This does not need to be included in this drafted plan for your portfolio; however, you should have a plan for completing this during the first 30 days post-grad.*
 
 ### Interview Prep
-During this module, you've had multiple opportunities to practice your technical and cultural interviewing skills. Think about how those experiences have 
+During this module, you've had multiple opportunities to practice your technical and cultural interviewing skills. Think about how those experiences have helped you identify strengths and weaknesses in your interviewing skills.
 
-**Action Step:** Identify 2-3 areas you'd like to continue to improve
+**Action Step:** Identify 2-3 areas you'd like to continue to improve on for interviewing and outline concrete action steps on how you will improve those skills. If you plan on setting up more mock interviews, identify who you will set those up with and by what date. 
 
 ### Housekeeping
 Make sure you have all your job search components up-to-date and looking their best!
@@ -75,9 +75,12 @@ Make sure you have all your job search components up-to-date and looking their b
 
 ## Other
 What other areas would you like to focus on during your job search? Some possible ideas include:
-* 
+* Social Networking
+* Blogging
+* Planning and submitting meetup and/or conference talks
+* Participating in hackathons or open source projects
 
-**Action Step:** Identify one of the areas above that you'd like to develop during your post-grad schedule and be prepared to discuss this with your instructors at your portfolio review. 
+**Action Step:** Identify one of the areas above or an additional area that you'd like to develop further during your first 30 days post-grad and be prepared to discuss this with your instructors at your portfolio review. 
 
 ### Check-ins: Who are you talking to and when?
 Accountability is key during a job search and being able to check in with a person whom you trust (or, ideally, more than one person) on your progress will increase your ability to reach your goals in the timeline you've created. 
