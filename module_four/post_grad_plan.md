@@ -8,13 +8,14 @@ As you fill out this plan, consider how your first job search will set the tone 
 ## #1: Job Search Action Plan
 ### Create a schedule & goals
 Design a 40-hour "work week" that provides time for: 
-	* Code (ideally, 2-4 hours a day will be dedicated to coding)
-	* Outreach & Networking
-	* Job & company research and tracking
-	* Interview Prep
-	* Housekeeping (refining your professional story, updating your resume, writing cover letters, updating your Turing portfolio, updating your LinkedIn profile)
-	* Other (social networking, blogging, planning talks, etc.)
-	* Check-ins: who are you talking to and when?
+
+* Code (ideally, 2-4 hours a day will be dedicated to coding)
+* Outreach & Networking
+* Job & company research and tracking
+* Interview Prep
+* Housekeeping (refining your professional story, updating your resume, writing cover letters, updating your Turing portfolio, updating your LinkedIn profile)
+* Other (social networking, blogging, planning talks, etc.)
+* Check-ins: who are you talking to and when?
 
 How much time will you spend on each? When will you do each thing?
 
