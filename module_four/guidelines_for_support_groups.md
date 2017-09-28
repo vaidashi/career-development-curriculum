@@ -5,10 +5,11 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
 
 ## Potential topics for your group to discuss:
 * Outreach emails: 
-   * Write emails together
+   * Write emails together 
    * Give feedback on each other’s emails before sending them out
+   * Use [these guidelines and tips](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_guidelines.md) for the email-writing and reviewing process. 
 * Coffee meetings: 
-   * What questions do you want to make sure to ask? Create a list with your group
+   * What questions do you want to make sure to ask? Create a list with your group. Use [this list](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/research_conversation_questions.md) to get started
    * Share updates on how coffee meetings go as group members attend them
 * Networking events: 
    * What meetups are coming up? Who can you connect with at them? Make a plan to attend a meetup together
