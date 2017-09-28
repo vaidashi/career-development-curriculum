@@ -8,6 +8,7 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
 * Coffee meetings: what questions do you want to make sure to ask? Create a list in your group
 * Networking events: what meetups are coming up? Who can you connect with at them? Make a plan to attend a meetup together
 * Storytelling: practice your elevator pitch with each other and provide feedback 
+* Interview prep: review common questions with each other, discuss approaches that you've taken in mock interviews and real interviews alike, share resources to help each other level up
 * Blogging: discuss ideas for posts, peer review, and how you can use a blog post to increase visibility
 * Pooling your resources: what leads or tips can you share with each other?
 
