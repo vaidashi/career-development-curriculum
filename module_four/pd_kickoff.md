@@ -1,6 +1,6 @@
-## Module 4 Professional Development Kickoff
+# Module 4 Professional Development Kickoff
 
-### Your Crash Course in Job Search Strategies & Resources
+## Your Crash Course in Job Search Strategies & Resources
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing)
 
