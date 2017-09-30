@@ -5,7 +5,7 @@ As you fill out this plan, consider how your first job search will set the tone 
 
 **Note:** If you have already secured a job prior to graduation, skip to the second part of the plan below.  
 
-## #1: Job Search Action Plan
+## #1: 30-Day Job Search Action Plan
 ### Create a schedule & goals for the first 30 days Post-Graduation
 Design a 40-hour "work week" that provides time for: 
 * Code (ideally, 2-4 hours a day will be dedicated to coding)
@@ -109,7 +109,7 @@ In this section, you'll find action steps that you should aim to complete during
 ## Checklist for Portfolio Review
 Use this checklist here to make sure you have everything needed in your plan for your portfolio review. Your instructors will also use this checklist during the portfolio review. 
 
-### #1 30-Day Action Plan Checklist
+### #1: 30-Day Action Plan Checklist
 - [ ] Establish shareable calendar and show to your instructor(s)
 - [ ] List your cut-off date for having a full-time position
 - [ ] List monthly, weekly, and daily goals
@@ -124,7 +124,7 @@ Use this checklist here to make sure you have everything needed in your plan for
 - [ ] List 1-2 people you'll check in with during job search 
 - [ ] List 1-2 "barriers" and describe how you will overcome them to your instructor(s)
 
-### #2 Supporting Cohortmates in Job Search
+### #2: Supporting Cohortmates in Job Search
 - [ ] List 1-2 people from PD Peer Group who you will continue to check in with during the first 30 days post-graduation. Describe your plans for these check-ins to your instructor(s)
 - [ ] Describe one area of the job search that you feel particularly skilled in to help your cohortmates with and how you will do that with your instructor(s)
 - [ ] List 1-2 people whom you will recommend your cohortmates to, how you will make that introduction, and when you'll do that by to share with instructor(s)
