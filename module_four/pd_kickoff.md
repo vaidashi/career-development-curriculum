@@ -21,33 +21,44 @@ Topics:
 -Intro to barriers (revisit in week 5)
 -Resources (#job-hunt, #salaries, your group, your coaches, your mentors, etc.)
 
-**Find ways to incorporate more alumni stories** 
-
 ## Opening: The Big Picture
 ### Objectives
 * Understand the scope and sequence of Module 4 Professional Development
-* 
+* Identify particular strategies for outreach, networking....
+* Identify barriers that may come up for you in the job search
 
 ### Module 4 Professional Development Scope & Sequence
-
+You're starting your final module at Turing, and we aim to set you up with as much 
 
 ### Looking Ahead
 In your Module 4 portfolio review, you'll be expected to:
 
-* Submit your [job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to discuss at the review
+* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to discuss at the review
 * Give your condensed elevator pitch version of your professional story at the review
 
-You'll also be expected to present your Turing Story, which will be a lightning talk of sorts to describe your Turing journey. Slides are encouraged but optional
+You'll also be expected to present your Turing Story, which will be a lightning talk of sorts to describe your Turing journey. Slides are encouraged but optional.
+
+**You Do:** Students skim over the plan and ask any questions that come up (3-5 mins) 
 
 ### Professional Development Support Groups & Coaches
 
-[Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_support_groups.md) to get your group going on the right track. 
-
+[Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to get your group going on the right track. 
 
 ## Strategies & Tools
 ### Outreach
+The number #1 strategy we're going to encourage you to take on in your job search is to pursue relationships over applications. You do this through outreach. Whether it's "warm" outreach in which you utilize your existing network or "cold" outreach in which you initiate contact with someone you haven't met yet, building relationships with others who are already in the technology industry will help you get your foot in the door faster than if you merely submit your resume to online application portals.
 
-........
+To give you a sense of how effective this approach can be, check out [this blog post from 1606-BE alum Jesse Spevack](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer) on his job search, specifically on how he utilized outreach in his job search.
+
+**You Do:** Spend 7 minutes reading this blog post (stop at the section that ends immediately before "Technical Challenges") and jot down any points that stick out to you. What parts of Jesse's approach seem doable to you and why? What parts seem daunting to you and why? How can you adapt any of Jesse's advice to your own approach?
+
+**Pair & Share:** Pair up with someone else to share your takeaways from Jesse's blog post.
+
+**Whole Group Discussion:** 
+* What value is there in using outreach as a job search strategy?
+* What are some ways that you will adapt Jesse's approach in your job search? 2-3 people share out.
+
+Later, you'll use notes that you took here to discuss in your PD peer groups. 
 
 ### Networking & Branding
 
