@@ -26,20 +26,12 @@ Students will leave Module Three with a clear blueprint for their job search by 
 ### Deliverables
 In order to fulfill the requirements of module three, students will submit these deliverables
 * Resume
-  * [Resume draft](https://resume.creddle.io/resume/bq9hc7cmlx8)
 * Flower Exercise
- * https://gist.github.com/JF-Lalonde/377e96cd8691b075b7b6ff5839482852
 * Turing portfolio
-  * https://www.turing.io/alumni/jf-lalonde
 * Trello Board with companies that are being tracked
-  * https://trello.com/b/X9XMyrEZ/job-hunting
-* Reflection on how to prepare for technical and/or behavioral interviews
-  * https://gist.github.com/JF-Lalonde/8952255f35a11577f632cb10fcec6999
 * Job search action plan for Module 4
-  * https://github.com/JF-Lalonde/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md
-
 * Gear Up-related reflections
-  * https://gist.github.com/JF-Lalonde/37404e6769fabfb6ab0025d0f0bcb0a7
+
 You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
 
 ### Gear Up Sessions
