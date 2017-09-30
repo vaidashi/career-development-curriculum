@@ -13,7 +13,7 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
    * Share updates on how coffee meetings go as group members attend them
 * Networking events: 
    * What meetups are coming up? Who can you connect with at them? Make a plan to attend a meetup together
-   * Discuss ideas for pitching a talk at a meetup; help anyone interested write out their pitch
+   * Discuss ideas for pitching a talk at a meetup; help anyone interested write out their pitch. Here are some [tips to help you get started](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/meetup_involvement_guidelines.md)
 * Storytelling: 
    * Practice refining your story into a short elevator pitch and provide feedback to each other 
 * Interview prep: 
