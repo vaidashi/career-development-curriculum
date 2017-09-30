@@ -46,5 +46,5 @@ More helpful prompts (from this [article](http://www.noelrappin.com/railsrx/2014
 #### Contact the Organizers
 Reach out to the organizers to find out their upcoming schedule and pitch your talk. Utilize the same cold outreach principles discussed above. 
 
-#### Practice Time
-Spend 10 minutes researching meetups and topics that you're interested in speaking on. Begin crafting an outline of a possible talk.
+#### How to Practice This
+Spend 10 minutes researching meetups and topics that you're interested in speaking on and then begin crafting an outline of a possible talk to share with your PD peer group
