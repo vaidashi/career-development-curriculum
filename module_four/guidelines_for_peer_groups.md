@@ -20,6 +20,7 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
     * Review common questions with each other
     * Discuss approaches that you've taken in mock interviews and real interviews alike
     * Share resources to help each other level up
+    * For resources and mentors who you can schedule mock interviews with, make sure to [reference this document](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/technical_interview_prep_resources.md)
 * Job Search Housekeeping: Resumes, Social Media, Turing Portfolios, GitHub:
     * Share your resumes with each other for feedback and tips
     * Review each other's LinkedIn profiles and provide feedback, write recommendations for each other, endorse each other's skills
