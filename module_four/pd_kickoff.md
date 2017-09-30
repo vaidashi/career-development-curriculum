@@ -77,14 +77,18 @@ We can sometimes talk ourselves out of opportunities before we even give them a 
 What are some barriers you might carry with you? Think about these areas:
 
 * Entering the Software Industry
-* Cold Outreach
+* Outreach
 * Networking
 * Interviewing (either technical or culture-based questions)
 * Personal Branding for yourself
 * Other -- what other anxieties do you have that aren't covered in the other categories? 
 
 **You Do:**
-Individually, reflect in your journal on barriers that have come up for you in previous job searches and/or that you anticipate could hold you back in your current job search. Why do you think these barriers occur for you? Have you tried to overcome them in the past? If so, what was effective for you? What kind of support could you use from your peer group to help you move past these barriers? Be prepared to share some of this information in your group DTR. 
+Individually, reflect in your journal on barriers that have come up for you in previous job searches and/or that you anticipate could hold you back in your current job search. 
+* Why do you think these barriers occur for you? 
+* Have you tried to overcome them in the past? If so, what was effective for you? 
+* What kind of support could you use from your peer group to help you move past these barriers? 
+Be prepared to share some of this information in your group DTR. 
 
 ### Closing: Break into Groups
 As you get started with your PD peer groups, start with a DTR to get on the same page about your job search goals, barriers you might place on yourself in this job search, how you want to communicate with each other, and ideas for how you can motivate and hold each other accountable. 
