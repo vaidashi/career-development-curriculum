@@ -15,8 +15,7 @@ Time: 60 mins, then breakout groups
 * Closing & prepare to get into breakout groups (2 mins)
 
 Topics:
--Outreach (formatting messages, finding people's emails, coming up with ideas for questions for the coffee meetings; spend time discussing as a whole group? Individual reflections to bring to your group? Read Jesse's Blog Post and then discuss in small groups?)
--Networking (Meetup, Built In events, networking groups, telling your story, speaking at a Meetup, blogging and social networking; )
+
 -Technical Interview Prep (details from Ian and Brittany; make list of strengths and weaknesses?)
 -Intro to barriers (revisit in week 5)
 -Resources (#job-hunt, #salaries, your group, your coaches, your mentors, etc.)
@@ -61,6 +60,9 @@ To give you a sense of how effective this approach can be, check out [this blog 
 Later, you'll use notes that you took here to discuss in your PD peer groups. 
 
 ### Networking & Branding
+Meetup, Built In events, networking groups, telling your story, speaking at a Meetup, blogging and social networking...
+
+Alumni Connection: Clip of Sonia 
 
 ### Technical Interview Prep
 
