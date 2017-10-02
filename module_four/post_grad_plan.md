@@ -63,7 +63,7 @@ Make sure you have all your job search components up-to-date and looking their b
 
 **Action Step #2:** Ensure your LinkedIn is up to date and indicates that you’re job hunting. Indicate here a summary of any adjustments you made and how you'll continue to update it and/or use the site to build your network and online presence. 
 
-## Other
+### Other
 What other areas would you like to focus on during your job search? Some possible ideas include:
 * Social Networking
 * Blogging
