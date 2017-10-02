@@ -25,7 +25,7 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
     * Share your resumes with each other for feedback and tips
     * Review each other's LinkedIn profiles and provide feedback, write recommendations for each other, endorse each other's skills
     * Twitter: follow each other, retweet each other's posts, engage in discussions about software topics
-    * Turing Portfolios: Review each other's Turing portfolios and provide feedback
+    * Turing Portfolios: Review each other's Turing portfolios and provide feedback; check especially to make sure that all code is working and that there are updated ReadMes
     * GitHub: Review each other's code, look over and help each other write ReadMes for featured projects
 * Blogging: 
     * Discuss ideas for posts
