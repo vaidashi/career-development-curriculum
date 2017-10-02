@@ -43,6 +43,9 @@ You'll also be expected to present your Turing Story, which will be a lightning 
 
 [Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to get your group going on the right track. 
 
+### Individual Reflections
+Based on what you put in your survey, what made you respond to the "confidence in the job search" question with the number you gave? What do you feel confident in? What do you not feel confident in?
+
 ## Strategies & Tools
 ### Outreach
 The number #1 strategy we're going to encourage you to take on in your job search is to pursue relationships over applications. You do this through outreach. Whether it's "warm" outreach in which you utilize your existing network or "cold" outreach in which you initiate contact with someone you haven't met yet, building relationships with others who are already in the technology industry will help you get your foot in the door faster than if you merely submit your resume to online application portals.
@@ -68,6 +71,7 @@ Alumni Connection: Clip of Sonia OR use part of her podcast and Matt Kaufman on 
 
 ### Technical Interview Prep
 
+**You Do:** 
 
 Podcast on technical interview prep from Ian?
 
