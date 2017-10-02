@@ -60,11 +60,17 @@ To give you a sense of how effective this approach can be, check out [this blog 
 Later, you'll use notes that you took here to discuss in your PD peer groups. 
 
 ### Networking & Branding
+Outreach helps you establish
+
 Meetup, Built In events, networking groups, telling your story, speaking at a Meetup, blogging and social networking...
 
-Alumni Connection: Clip of Sonia 
+Alumni Connection: Clip of Sonia OR use part of her podcast and Matt Kaufman on podcast (about Turing portfolio)
 
 ### Technical Interview Prep
+
+
+Podcast on technical interview prep from Ian?
+
 
 ### (Perceived) Barriers to your Job Search
 We can sometimes talk ourselves out of opportunities before we even give them a chance, and we create our own barriers to success.
