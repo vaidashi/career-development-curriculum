@@ -36,6 +36,8 @@ In order to fulfill the requirements of Module Four, students will:
 
 * A [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to be submitted in their Module Four portfolio
 * Students will also be expected to share a summarized version of their professional story with their instructors during the portfolio review. This is a 1-2 minute sharing highlighting who they are, why they are in software, and what's next in their career
+* Complete a mock interview with your instructor and/or mentor during module 4
 * Prepare a lightning talk of their Turing story to present during the final week of the module
+
 
 
