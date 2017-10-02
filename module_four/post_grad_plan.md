@@ -37,7 +37,7 @@ For time spent coding during your first 30 days post-grad, consider:
 * Are there areas from Turing's program that you feel weaker in? How will you level up? 
 * Are there new languages or technologies you'd like to learn? How and when will you do that?
 
-**Action Step:** Establish a “daily-practice” repository where you’ll put small daily exercises to keep your skills sharp and your GitHub activity chart active. For your Mod 4 portfolio review, be prepared to describe to your instructors what you plan to work on to sharpen and advance your coding skills for the first 30 days of your job search. 
+**Action Step:** Establish a “daily-practice” repository where you’ll put small daily exercises or work on issues from your own projects that you want to update to keep your skills sharp and your GitHub activity chart active. For your Mod 4 portfolio review, be prepared to describe to your instructors what you plan to work on to sharpen and advance your coding skills for the first 30 days of your job search. 
 
 ### Outreach & Networking
 As we've discussed, meeting people, forming relationships, and having conversations are the key pieces to getting your foot in the door at any company. It's important to be proactive in your approach to outreach and networking to stay on track during your first 30 days.
