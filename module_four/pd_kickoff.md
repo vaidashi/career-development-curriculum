@@ -21,7 +21,7 @@ Time: 60 mins, then breakout groups
 * Identify particular strategies for outreach, networking, branding, and interview prep
 
 ### Module 4 Professional Development Scope & Sequence
-You're starting your final module at Turing, and we aim to set you up with as much 
+You're starting your final module at Turing, and we aim to set you up with structured support to help you navigate this successfully. However, you are the driver of your own job search -- take advantage of all of the tools and resources listed here!
 
 ### Looking Ahead
 In your Module 4 portfolio review, you'll be expected to:
