@@ -108,7 +108,9 @@ Overview of what technical interview prep will look like this module:
 **You Do:** List out what you feel are your current strengths and weaknesses when it comes to technical interviews. How can you focus your time during technical interview prep sessions and mock interviews to help you capitalize on your strengths and improve your weaknesses?
 
 ### Closing: Break into Groups
-As you get started with your PD peer groups, start with a DTR to get on the same page about your job search goals, barriers you might place on yourself in this job search, how you want to communicate with each other, and ideas for how you can motivate and hold each other accountable. 
+You'll meet with your peer groups to get started strategizing on your job search. **You've been grouped according to the timeline that you said you'd need a job by.** Keep this in mind as you plan together. You'll see who your coach is but won't meet with them until Week 2. 
+
+Start with a DTR to get on the same page about your job search goals, barriers you might place on yourself in this job search, how you want to communicate with each other, and ideas for how you can motivate and hold each other accountable. [Use these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to help structure your time. 
 
 **Remember Your Resources:**
 
