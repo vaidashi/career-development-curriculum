@@ -105,7 +105,7 @@ Overview of what technical interview prep will look like this module:
 * Front End: Mock interviews with Brittany Storoz
 * Several opportunities to practice challenges in class
 
-**You Do:** List out what you feel are your current strengths and weaknesses when it comes to technical interview prep. How can you focus your time during technical interview prep sessions and mock interviews to help you capitalize on your strengths and improve your weaknesses?
+**You Do:** List out what you feel are your current strengths and weaknesses when it comes to technical interviews. How can you focus your time during technical interview prep sessions and mock interviews to help you capitalize on your strengths and improve your weaknesses?
 
 ### Closing: Break into Groups
 As you get started with your PD peer groups, start with a DTR to get on the same page about your job search goals, barriers you might place on yourself in this job search, how you want to communicate with each other, and ideas for how you can motivate and hold each other accountable. 
