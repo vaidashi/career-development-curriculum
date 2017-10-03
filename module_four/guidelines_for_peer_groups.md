@@ -77,6 +77,8 @@ Here are some suggestions on how to create accountability systems:
 * Share your barriers with your group as you come across them so that they can help you move past them
 
 ## How to utilize your coaches:
+You'll meet with your coach each Tuesday from 1-2pm. Your coach can also be available for questions outside of that time on Slack or during another agreed-upon time. 
+* DTR with your coach to set clear expectations on what your group and the coach will work on together and how you appreciate feedback
 * Keep them updated. Let them know your needs at any given time -- what questions do you have? Where is your group getting stuck? What advice do you need?
 * Create an agenda for your meetings with them so that you can maximize time. Send this agenda to them ahead of time.
 * Share your action steps and accountability metrics with them so that they can help support these with follow-up
