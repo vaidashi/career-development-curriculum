@@ -37,7 +37,7 @@ In your Module 4, you'll be expected to:
 
 [Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to get your group going on the right track. Students look over the guidelines and ask any questions that come up (3-5 mins)
 
-### (Perceived) Barriers to your Job Search
+## (Perceived) Barriers to your Job Search
 We can sometimes talk ourselves out of opportunities before we even give them a chance, and we create our own barriers to success.
 
 * Examples of barriers:
