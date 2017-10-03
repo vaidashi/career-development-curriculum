@@ -27,7 +27,7 @@ You're starting your final module at Turing, and we aim to set you up with struc
 In your Module 4, you'll be expected to:
 
 * Complete 1 mock interview and technical challenge
-* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to discuss at the portfolio review
+* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) in your portfolio to discuss at the review
 * Give your condensed elevator pitch version of your professional story at the portfolio review
 * Present your Turing Story, which will be a lightning talk of sorts to describe your Turing journey. Slides are encouraged but optional.
 
