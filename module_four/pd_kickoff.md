@@ -24,12 +24,12 @@ Time: 60 mins, then breakout groups
 You're starting your final module at Turing, and we aim to set you up with structured support to help you navigate this successfully. However, you are the driver of your own job search -- take advantage of all of the tools and resources listed here!
 
 ### Looking Ahead
-In your Module 4 portfolio review, you'll be expected to:
+In your Module 4, you'll be expected to:
 
-* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to discuss at the review
-* Give your condensed elevator pitch version of your professional story at the review
-
-You'll also be expected to present your Turing Story, which will be a lightning talk of sorts to describe your Turing journey. Slides are encouraged but optional.
+* Complete 1 mock interview
+* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to discuss at the portfolio review
+* Give your condensed elevator pitch version of your professional story at the portfolio review
+* Present your Turing Story, which will be a lightning talk of sorts to describe your Turing journey. Slides are encouraged but optional.
 
 **You Do:** Students skim over the plan and ask any questions that come up (3-5 mins) 
 
