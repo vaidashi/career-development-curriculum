@@ -1,5 +1,7 @@
 # Job Search Strategies II
 
+UPDATE
+
 [Slides for this session](https://docs.google.com/presentation/d/15x2PaHDMICCjxBnKsMMlykp3xWsInDfwlyW3y9yKkwA/edit?usp=sharing)
 
 ### Session Structure
@@ -7,10 +9,45 @@
 Length: 60 minutes
 
 * Opening (10 mins)
-* Intro to Barriers (2 mins)
+* Recap of Barriers (
+* Long Term Career Visioning
 * Group Discussion (18 mins)
+
+
+
 * Whole Group Share Out & Synthesis (10 mins)
 * Plan Work Time (20 mins)
+
+Some things to consider:
+
+* What do you envision for your career?
+* What do you want your 2nd and 3rd jobs to look like?
+* How do you want to be involved with the Turing community? The greater developer community?
+* Where do your passions lie?
+
+## Longterm Career Plan: What are your career goals?
+Where do you want to go in your career? 
+
+Reflect on this [narrative rule described by Emma Coats, former Pixar story artist](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar):
+
+	Come up with your ending before you figure out your middle. Seriously. 
+	Endings are hard, get yours working up front.
+	
+1. Imagine that it's 5 years from now - what have you accomplished during that time? How is your life different? What steps did you take to achieve your goals?
+
+
+2. Create a vision statement for these longterm goals.
+
+	Guidelines for writing your vision statement:
+
+	* Make your statements stretching, challenging, and interrupting of the status quo.
+	* Write in the future tense (I will...)
+	* Is the statement grounded -- have you been able to demonstrate something similar in the past?
+
+
+3. Reference what you outlined in your Flower Exercise -- what preferred level of responsibility do you want to move to? Do you want to start your own company? What kind of work do you see yourself doing longterm? In your first year on the job, what skills do you want to develop to work towards your longterm goals?
+
+
 
 ### Objectives
 * Identify areas where you might place barriers on yourself in terms of the job search

@@ -1,25 +1,20 @@
-# Jennifer Woodson
+# M2 Jennifer Woodson
 
-## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen), which creates a copy of this repository. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request, make sure to post:
+## Cold Outreach
+https://gist.github.com/jenPlusPlus/8731d6f210d96164354d5195e53fba8c
 
-* Your Module
-* Your Program
-* Your First Name
-* Your Last Name
+## Agile
+https://gist.github.com/jenPlusPlus/938384bb389d102a350caa9110003a77
 
-Example: M2 FE Allison Singer
+## Verbal Feedback
+https://gist.github.com/jenPlusPlus/c83aac41262a745fc412fc184e10e1a7
 
-## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+## Strengthsfinder
+https://gist.github.com/jenPlusPlus/9d07b0f156027ce4604b6118934c445d
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+# M1 Jennifer Woodson
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
-
-## Mod 1 Deliverables:
 DTR: https://gist.github.com/nicktu12/01c7db82bb47290eafe17d038c8cdc26
 
 Strengths and Storytelling: https://gist.github.com/jenPlusPlus/5354ae555ca7b43823520376831357ea

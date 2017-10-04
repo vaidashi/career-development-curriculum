@@ -16,7 +16,7 @@ The touchstones of this curriculum include these mindsets:
 
 Through this development, upon graduation, students will be able to communicate who they are and what they know, collaborate with teams, adapt to changing situations, execute their ideas, and solve problems as junior software developers. 
 
-In this repo, you'll find all of the curriculum for career development, including that for Gear Up sessions and information on how each session fits into the end goals for students. Click on the links below to see more information as well as links to sessions within each module folder:
+In this repo, you'll find all of the curriculum for career development, including information on how each session fits into the end goals for students. Click on the links below to see more information as well as links to sessions within each module folder:
 
 * [Module One](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
 * [Module Two](https://github.com/turingschool/career-development-curriculum/tree/master/module_two)
@@ -24,18 +24,16 @@ In this repo, you'll find all of the curriculum for career development, includin
 * [Module Four](https://github.com/turingschool/career-development-curriculum/tree/master/module_four)
 
 ### Deliverables
-Career development deliverables will be reviewed by either Allison, Meg, or both of us. Students should submit their delvierables via Pull Request to the [submissions file here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
+In Modules 1 and 2, career development deliverables will be reviewed by Allison through pull requests to this repo. Students should submit their deliverables via Pull Request to the [submissions file here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). You'll need to update your version of this as you move from Module 1 to Module 2. 
+
+In Modules 3 and 4, there are different accountability systems put into place to help ensure that you're on track for your job search, including student accountability groups and staff members who will serve as coaches.
 
 ### Who Does What
 Your career development team consists of:
 
 **Allison Reu Singer, Community Affairs Manager, PD Curriculum Lead**
 
-Allison is the lead on all career development sessions outside of Gear Up. If you have any questions on sessions or on deliverables, reach out to her. She checks on and provides any necessary feedback on PD deliverables for Modules 1 and 2, including feedback submissions. She is also available for 1-on-1 professional coaching or support throughout your time at Turing but especially in Modules 1 and 2.
-
-**Meg Stewart, Employment Coordinator**
-
-Meg conducts 1-on-1 meetings with students in Modules 3, 4, and after graduation to provide support on the job search. She checks on and provides any necessary feedback on PD deliverables for Modules 3 and 4. 
+Allison is the lead on all career development sessions outside of Gear Up. If you have any questions on sessions or on deliverables, reach out to her. She checks on and provides any necessary feedback on PD deliverables for Modules 1 and 2, including feedback submissions. She provides resume and Turing portfolio reviews in Module 3, and in Module 4, she provides coaching for accountability groups. She is also available for 1-on-1 professional coaching or support throughout your time at Turing regardless of the need. 
 
 **Ellen Mary Hickmann, Director of Professional Learning**
 
