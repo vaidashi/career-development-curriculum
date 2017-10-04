@@ -94,11 +94,15 @@ Now that you've fleshed out your story into an easily told format, let's focus o
 #### Research
 Take a look at a few examples before getting started. What do you notice about these resumes?
 
- - [Example 1](https://www.turing.io/sites/default/files/resumes/josh_cass.pdf)
- - [Example 2](https://www.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
- - [Example 3](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%201.pdf)
- - [Example 4](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%202.pdf) 
- - [Example 5](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%203.pdf)
+ - [Josh Cass Resume](https://www.turing.io/sites/default/files/resumes/josh_cass.pdf)
+ - [Rose Kohn Resume](https://www.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
+ - [Kinan Whyte Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%201.pdf)
+ - [Ryan Flach Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%202.pdf) 
+ - [Erin Pintozzi Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%203.pdf)
+ - [Kirsten Swanson Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Kirsten%20Swanson%20Resume.pdf)
+ - [Molly Brown](https://github.com/turingschool/career-development-curriculum/blob/master/files/Molly%20Brown%20Resume.pdf)
+ - [Sam Landfried](https://github.com/turingschool/career-development-curriculum/blob/master/files/Sam%20Landfried%20Resume.pdf)
+ - [Justyna Winiarska-Field Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Justyna%20Winiarska-Field%20Resume.pdf)
  - Don't be afraid to think outside of the box...Check out this [epic resume.](http://www.rleonardi.com/interactive-resume/)
 
 #### Layouts
