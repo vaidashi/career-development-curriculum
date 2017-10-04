@@ -100,8 +100,8 @@ Take a look at a few examples before getting started. What do you notice about t
  - [Ryan Flach Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%202.pdf) 
  - [Erin Pintozzi Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Resume%20ex%203.pdf)
  - [Kirsten Swanson Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Kirsten%20Swanson%20Resume.pdf)
- - [Molly Brown](https://github.com/turingschool/career-development-curriculum/blob/master/files/Molly%20Brown%20Resume.pdf)
- - [Sam Landfried](https://github.com/turingschool/career-development-curriculum/blob/master/files/Sam%20Landfried%20Resume.pdf)
+ - [Molly Brown Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Molly%20Brown%20Resume.pdf)
+ - [Sam Landfried Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Sam%20Landfried%20Resume.pdf)
  - [Justyna Winiarska-Field Resume](https://github.com/turingschool/career-development-curriculum/blob/master/files/Justyna%20Winiarska-Field%20Resume.pdf)
  - Don't be afraid to think outside of the box...Check out this [epic resume.](http://www.rleonardi.com/interactive-resume/)
 
