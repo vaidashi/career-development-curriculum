@@ -23,10 +23,8 @@ This is the first of your PD sessions this module. Module Three is the module in
 * Incorporate these ideas into your resume draft and Turing portfolio
 
 ### Deliverables
-Submit these links via a Pull Request to your individual repo folder, which you can find [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) (clone it first):
-
-* Link to your resume. **This needs to be submitted by Monday of Week 2 for review.**
-* Link to Turing portfolio with your name, photo, description, 1 project, and resume. Check your email for the invitation to create this profile.
+* You'll need a draft of your resume ready by Week 3 for review from staff coaches.
+* You'll need to have your Turing portfolio finished and published on the Turing website by Monday of Week 6 with your final draft of your resume uploaded 
 
 ### Opening
 We've talked about your professional story before, and this will continue to be the cornerstone of your professional development. From your professional story, we'll craft your resume, your Turing portfolio, update your LinkedIn, inspire others through blog posts, personal websites, projects, and more.   
