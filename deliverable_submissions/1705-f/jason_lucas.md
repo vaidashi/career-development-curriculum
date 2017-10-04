@@ -5,10 +5,15 @@ Students should clone their individual file and update them with gist links for 
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
+    [Jason Lucas Resume Site](http://jasonlucasdeveloper.com/)
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
+[Jason Lucas Turing Portfolio](https://www.turing.io/alumni/jason-lucas)
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+[Jason Lucas Flowers](https://www.canva.com/design/DAChSxudo6E/view)
 * Link to Trello Board with companies that are being tracked: 
+[Trello](https://trello.com/b/1fMQfiSH/job-tracker)
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+[Action](https://gist.github.com/jasonlucas907/1931cd30c161ad40c176108efbfdb2c3)
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)

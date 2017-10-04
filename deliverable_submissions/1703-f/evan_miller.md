@@ -10,11 +10,11 @@ Students should clone their individual file and update them with links to specif
       * Your talk outline (1-2 paragraphs)
       * 3-4 sentences on how you hope to utilize this talk to help you in your job search
     * Blog Post: Link to gist listing:
-       * Link to blog post on something you've learned
-       * 3-4 sentences on how you're using this blog post to connect with other people in your network 
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+       * [Blog Post](https://medium.com/@evanmillerny/first-open-source-adventure-w-hospital-run-226cc3d5cf5b)
+       * I plan to use the blog on my personal site as well as linkedin. That way people in the industry can easily find my work.
+* Link to your completed Turing portfolio with 2 additional projects: [link](https://www.turing.io/alumni/evan-miller)
+* Summary of participation in practice interview and/or actual interview using these [link](https://gist.github.com/EvanSays/55a97f95b4dd6dec8b6ce4de8d1c3034):
+* Link to completed action plan for the post-grad job search using this [gist](https://gist.github.com/EvanSays/0ed5db681313e26e05af069f82fc2de5): 
 
 ## Mod 3 Deliverables:
 

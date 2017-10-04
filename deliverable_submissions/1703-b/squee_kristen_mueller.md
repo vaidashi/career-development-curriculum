@@ -3,17 +3,10 @@ Students should clone their individual file and update them with links to specif
 
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable (pick one of these three):
-    * Cold Outreach Emails: Link to gist listing overview of 6 Cold Outreach emails following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md):
-    * Meetup: Link to gist listing: 
-      * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
-      * Your talk outline (1-2 paragraphs)
-      * 3-4 sentences on how you hope to utilize this talk to help you in your job search
-    * Blog Post: Link to gist listing:
-       * Link to blog post on something you've learned
-       * 3-4 sentences on how you're using this blog post to connect with other people in your network 
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+    * Cold Outreach Emails: https://gist.github.com/squeemishly/ebb3d885c3119f8d575f10dc689eaa84
+* Link to your completed Turing portfolio with 2 additional projects: https://www.turing.io/alumni/kristen-squee-mueller
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md): https://gist.github.com/squeemishly/acb4ae560ca44eda3240a0cb6c4ef61c
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): https://gist.github.com/squeemishly/1fbbb1b0e7e29efbda6b18052558ca18
 
 ## Mod 3 Deliverables:
 

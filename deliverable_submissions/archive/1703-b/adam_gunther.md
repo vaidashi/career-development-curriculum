@@ -1,5 +1,4 @@
-# Aaron Olsen
-
+# Adam Gunther
 Students should clone their individual file and update them with links to specific deliverables before making a Pull Request. Please format your pull request like this: *Module Program First Name Last Name*, i.e. "M4 BE Allison Singer" 
 
 ## Mod 4 Deliverables:
@@ -16,10 +15,27 @@ Students should clone their individual file and update them with links to specif
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
 
+## Mod 4 Deliverables:
+
+* [Cold Outreach](https://gist.github.com/adamgunther1/777aa9717cb236a9e2481f5317f6124c)
+* [Interview Participation](https://gist.github.com/adamgunther1/107b9957daf49d0decbbed8094046d8c)
+* [Job Search Action Plan Post-Grad](https://gist.github.com/adamgunther1/11877fe8ffaab5c90f6bf54700e6897f)
+
 ## Mod 3 Deliverables:
 
-* [Resume](https://www.turing.io/sites/default/files/resumes/AaronResumeV4.pdf)
-* [Turing Portfolio](https://www.turing.io/alumni/aaron-olsen)
-* [Flower Exercise](https://gist.github.com/MrAaronOlsen/2bec8276479c4f7a706a0468f528c614)
-* [Trello Board](https://trello.com/b/dOQKJ3YB/job-tracker)
-* [Job search action plan](https://gist.github.com/MrAaronOlsen/47be30fd0ed463d544fbfe04dbb11781)
+* [Resume](https://drive.google.com/file/d/0B-uFDCEZa7tSejRnWm1Ta0Y5eEk/view?usp=sharing)
+* [Turing Portfolio](https://www.turing.io/alumni/adam-gunther)
+* [Flower Exercise](https://drive.google.com/file/d/0B-uFDCEZa7tSVHJLdXYxWTI0Ym8/view?usp=sharing)
+* [Trello Board](https://trello.com/b/Mhzy4sRi/job-search) 
+* [Job Search Action Plan for M4](https://gist.github.com/adamgunther1/68a446c407c2da4d0d6a0310623d8286)
+
+## Mod 2 Deliverables:
+* [Gist documenting mentor outreach](https://gist.github.com/adamgunther1/abc5369517a90133aa921c4900bc6334#file-could_outreach_i-md)
+* [Reflection on agile practices/project management](https://gist.github.com/adamgunther1/163a17437bea520a373414b6e746f2ec)
+* [Reflection on in-person feedback conversation](https://gist.github.com/adamgunther1/aa18bbfc555b4b375dca1ff2860fc5f5)
+* [Feedback implementation reflection & application of strengths to teams](https://gist.github.com/adamgunther1/f9c132663cddc7e7e71cc9938e01e7e9)
+
+
+## Mod 1 Deliverables:
+* [DTR Memo](https://gist.github.com/adamgunther1/644fd24800ab49c48e0e6daccc8c1f8c)
+* [Strengths & storytelling reflection](https://gist.github.com/adamgunther1/9778da5fd990dbf9d3ee9f91e4e18653)

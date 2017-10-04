@@ -11,5 +11,5 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 Example: M1 BE Jessica Rodriguez
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* [Personal Story](https://gist.github.com/aschreck/7def34c211dcc70d5aad48532dae98e1)
+* [Black Thursday DTR](https://gist.github.com/aschreck/ee3d61ae9631cb5e9a395b291ff6d475)

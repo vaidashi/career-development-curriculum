@@ -1,25 +1,16 @@
-# Robbie Greiner
+# Robbie Greiner M2 FE
 
-## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen), which creates a copy of this repository. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request, make sure to post:
+## Cold Out Reach 
+https://gist.github.com/robbiegreiner/5c67fc0daf32dd48a05f7385f16afa17
 
-* Your Module
-* Your Program
-* Your First Name
-* Your Last Name
+## Agile Practice Reflection
 
-Example: M2 FE Allison Singer
+https://gist.github.com/robbiegreiner/6c10b5f23a66be4e502684c88b32e043
 
-## Mod 2 Deliverables:
-* Link to gist documenting mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+## Feedback II Reflection
 
-* Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
+https://gist.github.com/robbiegreiner/981b638942606d2f62f60fe2baa540c5
 
-* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+## Feedback III Reflection
 
-* Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md)
-
-## Mod 1 Deliverables:
-* Link to DTR Memo https://gist.github.com/robbiegreiner/a28a23dc5e25adc19c4aaab654a771fe 
-* Link to gist documenting your strengths & storytelling reflection 
-    https://gist.github.com/robbiegreiner/b5e347db9544ee8913648af87f74b641
+https://gist.github.com/robbiegreiner/0d354de920abe70799e729f5a27bdd92

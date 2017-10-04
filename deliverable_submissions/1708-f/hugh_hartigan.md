@@ -8,8 +8,8 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 * Your First Name
 * Your Last Name
 
-Example: M1 FE Jessica Rodriguez
+M1 FE Hugh Hartigan
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* [IdeaBox DTR with Brandon Farestad-Rittel](https://gist.github.com/HartiganHM/ab0b418d881c4a261febb9d52272b902)
+* [Hugh Hartigan: Strengths & Storytelling](https://gist.github.com/HartiganHM/d2653716d02d4c4161cbfdbcd9359fe6)

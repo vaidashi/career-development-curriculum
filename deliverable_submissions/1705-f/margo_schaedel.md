@@ -4,11 +4,11 @@ Students should clone their individual file and update them with gist links for 
 
 ## Mod 3 Deliverables:
 
-* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* Link to resume: [Resume for Turing](https://slack-files.com/T029P2S9M-F74HRQ0QL-e9cc8ef462)
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume: [Turing Portfolio](https://www.turing.io/alumni/margo-schaedel)
+* Link to Flower Exercise: [Flower Exercise gist](https://gist.github.com/mschae16/07907626ee47ae31f478d49d4d1780b3)
+* Link to Trello Board with companies that are being tracked: [Trello Board](https://trello.com/b/UWP5oUyI/job-tracker)
+* Link to Job search action plan for M4: [Action Plan](https://gist.github.com/mschae16/04449981f5839335b0a703a6aa47cb94)
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach: [Mentor Outreach](https://gist.github.com/mschae16/a1b169960865bffd2e3bff4721c0a063)

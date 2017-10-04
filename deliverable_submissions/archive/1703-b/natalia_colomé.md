@@ -9,12 +9,12 @@ Students should clone their individual file and update them with links to specif
       * Which Meetup you spoke at/will be speaking at and why you chose that Meetup
       * Your talk outline (1-2 paragraphs)
       * 3-4 sentences on how you hope to utilize this talk to help you in your job search
-    * Blog Post: Link to gist listing:
+    * Blog Post: Link to gist listing: [Gist with my blog draft and my plan to connect with it](https://gist.github.com/nmcolome/9c88feabca8a960ab3633994a5e27cf1#file-blog-md)
        * Link to blog post on something you've learned
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to your completed Turing portfolio with 2 additional projects: [portfolio](https://www.turing.io/alumni/natalia-colome)
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md): [reflection](https://gist.github.com/nmcolome/e58182a10ade17d51e64b29156c5d780)
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): [action plan](https://gist.github.com/nmcolome/de18f1f21e41920c62b0a567c3ea70ec)
 
 ## Mod 3 Deliverables:
 
