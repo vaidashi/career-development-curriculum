@@ -17,9 +17,14 @@ Length: 90 minutes
    * Turn & Talk (5 mins)
 * Project Management Tools & Resources (10 mins)
 * How Teams Work Together (40 mins)
-   * Reflection (5 mins)
+   * Whole Group Introduction (3 mins)
    * Tuckman's Video (6 mins)
-   * Discussion #1
+   * Discussion #1 (5 mins)
+   * StrengthsFinder Leadership Domains (5 mins)
+   * Discussion #2 (6 mins)
+   * Redefining the Agile Manifesto (6 mins)
+   * Discussion #3 (8 mins)
+* Closing: how to continue this at Turing (1 min)
 
 ### Objectives (Jeff & Allison)
 * Describe the general concept of the "waterfall" model
@@ -180,7 +185,7 @@ Check out these resources:
 ### How Teams Work Together (Allison)
 Now let's talk now about how teams work together.
 
-#### Reflection
+#### Whole Group Introduction
 * What has made your previous teams successful? What has made them difficult?
 * When working together for the first time, what can you do/have you done to make sure your team is productive?
 
@@ -193,17 +198,8 @@ Now let's talk now about how teams work together.
    * We'll pause discuss at different parts of the stage
 * [Reference this handout](https://salvos.org.au/scribe/sites/2020/files/Resources/Transitions/HANDOUT_-_Tuckmans_Team_Development_Model.pdf)
 
-#### Discussion
-Move into your current project groups to discuss these stages. Think of those successful teams from your warmup questions. What did you do to get you through the early stages to become successful?
-
-How does your group utilize these concepts?
-* Honesty
-* Treating team members as more than just the work they do
-* Goal Setting
-* Accountability
-* Retrospective and review
-
-2 groups share out from their discussions.
+#### Discussion #1
+Move into your current project groups to discuss these stages. Think of those successful teams from your reflection questions. What did you do to get you through the early stages to become successful? How have you worked through the stages together?
 
 #### StrengthsFinder: Leadership Domains
 Four Domains of Leadership in Strengths:
@@ -212,22 +208,26 @@ Four Domains of Leadership in Strengths:
   * **Relationship Building:** Relationship Builders are the glue that holds a team together. Strengths associated with bringing people together -- whether it is by keeping distractions at bay or keeping the collective energy high -- transform a group of individuals into a team capable of carrying out complex projects and goals.
   * **Strategic Thinking:** Those who are able to keep people focused on “what they could” be are constantly pulling a team and its members into the future. They continually absorb and analyze information and help the team make better decisions. 
 
-See where your strengths fall:
 ![SF Leadership Domains](https://github.com/turingschool/career-development-curriculum/blob/master/files/SF%20Leadership%20Domains.png)
 
 What does this tell you about your own leadership style?
 
+#### Discussion #2:
+
+* Share your strengths with each other -- what do they mean? How do you interpret these strengths in your day-to-day work? 
+* Describe a “high point” moment as a team so far -- when has your team worked at its absolute best?
+* What are our domains of strengths? How have we seen these in action working together so far? What are the impacts of these domains on the team? 
+* What domains are not covered as much in our current team? How does that affect our team’s performance? 
+
 #### Building Our Own Manifesto
 As we mentioned at the beginning of this session, the [Agile Manifesto](http://agilemanifesto.org/) was one of the first pieces of agile philosophy to be introduced to the industry. However, as we can see in its site, it is outdated in different ways. 
 
-**Discuss:** What might be missing from this manifesto that could describe a better approach to team projects? How might other perspectives help us understand teamwork better?
+#### Discussion #3: 
+What might be missing from this manifesto that could describe a better approach to team projects? How might other perspectives help us understand teamwork better?
 
-Using everything we've talked about in this session today, let's build our own manifesto of how to build effective teams. You're part of this industry now and part of establishing your place in the industry is to take ownership over your practices. 
+Using everything we've talked about in this session today, build your own manifesto of how to build effective teams. You're part of this industry now and part of establishing your place in the industry is to take ownership over your practices. 
 
-**You Do:** With your project group, create your own set of principles of how your group
+**You Do:** With your project group, create your own set of principles of how teams should work, thinking specifically about your own team. 
 
-* Discussions:
-  * Build own "manifesto" or principles on how teams should work
-* Project group break-outs:
-  * Discuss strengths leadership domains and what systems you'll put into place
-* Final takeaway: how will you continue to apply these days during the rest of your time at Turing? 
+### Closing
+How will you continue to apply these principles during the rest of your time at Turing? 
