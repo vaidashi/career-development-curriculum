@@ -175,7 +175,14 @@ Start on your own and draft one story for *each* of the following:
 
 Then, **Turn & Talk** to share your results.
 
-### Project Management Tools (Jeff)
+### Where to Go From Here: Project Management Tools (Jeff)
+* Start using a project management tool, like Waffle
+* Turn your requirements into stories following the above template
+* Prioritize stories and schedule sprints (even just 2-3 days)
+* Deploy to production, maybe solicit feedback from "users"
+* Cutting scope is ok, cutting quality isn't
+
+Check out these resources:
 * [Git Workflow for Teams](https://github.com/turingschool/professional_skills/blob/master/module_two/git_workflow_for_teams.md)
 * [Waffle.io](https://waffle.io/)
 
