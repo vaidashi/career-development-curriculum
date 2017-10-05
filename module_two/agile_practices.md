@@ -47,7 +47,7 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 
 ### Waterfall vs. Agile (Jeff)
 
-![Agile vs. Waterfall](images/pd_new_scope.jpeg)
+![Agile vs. Waterfall](https://github.com/turingschool/career-development-curriculum/blob/master/files/Agile%20vs.%20Waterfall.png)
 
 #### Waterfall
 1. Requirements - the big book of features
