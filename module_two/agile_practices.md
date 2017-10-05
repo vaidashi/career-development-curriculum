@@ -1,14 +1,6 @@
 # Agile Practices & Software Collaboration
 
-## Connections: The Why
-....
-
-All the things:
-* Why...
-* Waterfall vs. Agile
-  * Intro the manifesto but mention that we'll come back to it later to discuss its merits and flaws -- this will be about students being able to take ownership of their learning in the software industry
-  * Turn & Talk: how do you already see agile being used in your processes at Turing? 
-* What Agile looks like as a process
+ 
 * Project Management tools & resources (waffle, XP, Git Workflow, etc.)
 * How teams work together (Tuckman's, SCRUM, Honesty, Treating team members as more than just the work they do, Goal Setting, Accountability, Retrospective and review)
   * Bring in readings??
@@ -26,29 +18,37 @@ All the things:
 
 Length: 90 minutes
 
-* Opening: objectives, deliverable, why (5-6 mins)
-* Waterfall vs. Agile (6 mins)
+* Opening: objectives, deliverable, why (5 mins)
+* Waterfall vs. Agile (20 mins)
+   * Lecture (12 mins)
    * Turn & Talk (5 mins)
    * Whole Group share-out (3 mins)
-* 
+* Agile in Practice (15 mins)
+   * Lecture (5 mins)
+   * Story Practice (5 mins)
+   * Turn & Talk (5 mins)
+* Project Management Tools & Resources (10 mins)
+   * 
 
 ### Objectives (Jeff & Allison)
 * Describe the general concept of the "waterfall" model
 * Explain how "agile" differs from waterfall
 * Explain the idea of a sprint
 * Write a story following a template
-*
-
+* Describe how you use your strengths and leadership skills in teams
+* Describe how you might adapt your strengths according to team dynamics
+* Discuss how to leverage each others' strengths to work even more effectively in your project
 
 ### Deliverable (Allison)
 By Monday of Week 6, submit a written reflection on:
-* Describe plan to utilize agile as a process at Turing -- what were you already doing, what did you put into place in M2...
-* Reflections on how you're a leader and a teammate, reflecting on your strengths
+* How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
+   * What were you already doing? 
+   * What did you put into place in Module Two?
+   * What was effective?
+   * What do you want to improve on in future projects?
+* Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
 
-* Description of the role you played in pair/group projects this module & how you utilized your leadership skills
-* What agile practices you used in your projects this module; what was effective? What do you want to improve on in future proejcts?
-
-### Opening (Jeff & Allison)
+### Connections: The Why (Jeff & Allison)
 Discuss the why / provide a hook -- relating to teamwork...
 
 To build great software we need to be intentional about the **process**. Whether working solo or in groups, your process is a more significant determiner of your project's success than your technical skill.
@@ -72,21 +72,112 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 * Easy to stagger teams, have one hand off to the next each phase
 * Spend a long time in 1 & 2 billing clients and you don't have to build anything
 * When the project fails you blame the requirements and those people are long gone
+
+#### Problems of Waterfall
+
+* Writing requirements is impossible
+* Each phase takes months/years -- quickly outdated
+* No chance to "listen to the code"
+* No user feedback until complete
+* No potential for revenue until complete
+* It just doesn't work
+
+#### Agile
+
+1. Requirements
+2. Design
+3. Implementation
+4. Verification
+5. Feedback & Approval
+6. Go to 1
+
+#### Problems with Agile
+
+* No real estimate of the total cost
+* People won't shut up about it
+* Need to have cross-functional teams
+* A whole lot of conversation ("I've never seen a project fail...")
+
+#### Strengths of Agile
+
+* Responsive to the user / product owner
+* "Discover" the better solutions along the way
+* Can grow organically
+* Easier to stop early
+* Possible to generate revenue along the way
+
+#### Agile in the Real World
+
+* GitHub's story
+* Eric Ries' "The Lean Startup"
+* [Agile Manifesto](http://agilemanifesto.org/), written in 2001 and has its merits and its flaws. We'll continue to discuss later in this lesson  
  
 #### Turn & Talk:
-* What are benefits/downsides to both Waterfall and Agile?
+* When does it make sense to use the Waterfall method? When does it make sense to use Agile?
 * How do you see Agile already being used in your processes at Turing?
+* How does this manifesto describe teamwork to you?
 
 1-3 groups share out takeaways to the whole group. 
 
 ### Agile in Practice (Jeff)
-* The Sprint
-* Intro to Stories
-* Student Practice: Writing a story
+There are all kinds of strategies, frameworks, and buzzwords around agile development. But everything revolves around *stories* and *sprints*.
+
+#### The Sprint
+
+A sprint is the time box that our work fits into.
+
+* Typical sprint is 2 weeks
+* Starts with planning (aka requirements)
+* It always takes longer than planned
+* Cut scope or extend time?
+* Always cut scope (half, not half-assed)
+* Features are delivered in production
+* Solicit user feedback
+* Ends with review/retrospective
+
+Ways to structure a sprint:
+* Scrum: 
+  * [Video](https://www.scrumalliance.org/why-scrum)
+  * [More Info](https://www.scrum.org/Resources/What-is-Scrum)
+
+#### A Story
+
+"How to Write (Good) Stories" is a 90-minute lesson unto itself. But let's do the express version. A good story:
+
+* Exhibits a tiny chunk of business value
+* Is written in a common format
+* Can be clearly demonstrated/verified
+* Represents half a work day of labor, or less!
+
+#### A Template for Stories
+
+```plain
+As a(n) [user type]
+In order to [extract business value]
+When I [take some action]
+  (and [take some other action])
+Then I [observe an outcome]
+  (and I [observe another outcome])
+```
+
+#### Quick Story Writing Practice
+
+Let's start with some ideas that translate well to single stories.
+
+*Imagine* we've prototyped a small to-do list app. It just allows the user to create to-dos. And it only supports a single user.
+
+**You Do:**
+Start on your own and draft one story for *each* of the following:
+
+*   Checking the box for a to-do moves it to the completed list
+*   The top of the todo list has a count of the number to todos which updates when I add a new one
+*   Clicking trash on a to-do pops up a confirm/cancel dialog
+
+Then, **Turn & Talk** to share your results.
 
 ### Project Management Tools (Jeff)
-* Git Workflow
-* Waffle
+* [Git Workflow for Teams](https://github.com/turingschool/professional_skills/blob/master/module_two/git_workflow_for_teams.md)
+* [Waffle.io](https://waffle.io/)
 
 #### What This Can Look Like at Turing (Jeff)
 * Turn your requirements into stories following this template
@@ -97,6 +188,8 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 ### How Teams Work Together (Allison)
 Let's talk now about how teams work together....
 
+
+* Intro the manifesto but mention that we'll come back to it later to discuss its merits and flaws -- this will be about students being able to take ownership of their learning in the software industry
 #### Turn & Talk
 
 * What has made your previous teams successful? What has made them difficult?
