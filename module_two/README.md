@@ -17,18 +17,22 @@ By mastering the objectives listed above, students will be able to put themselve
 
 ### Sessions
 
-* [Cold Outreach I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i.md) 
-* [BEE: Collaboration](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/collaborative_communication.md)
-* [FEE: Project Management/Collaboration](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_project_management_intro.md) 
+* [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md)
 * [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md) 
 * [Feedback III](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
-* [StrengthsFinder: Teamwork](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/teamwork_and_strengths.md)
+* [Storytelling II]
+* [Outreach & Networking]
 
 ### Deliverables
-In order to fulfill the requirements of module two, students will submit these deliverables:
+In order to fulfill the requirements of Module Two, students will submit these deliverables:
 
-* Documentation of mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
-* Reflection on agile practices/project management used in projects
+* Written reflection:
+  * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
+    * What were you already doing?
+    * What did you put into place in Module Two?
+    * What was effective?
+    * What do you want to improve on in future projects?
+  * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
 * Feedback II reflection: In-person feedback conversation
 * Feedback III reflection: Feedback implementation reflection & application of strengths to teams 
 * Gear Up-related reflections
