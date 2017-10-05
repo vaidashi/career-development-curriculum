@@ -44,8 +44,6 @@ Discuss the why / provide a hook -- relating to teamwork...
 
 To build great software we need to be intentional about the **process**. Whether working solo or in groups, your process is a more significant determiner of your project's success than your technical skill.
 
-
-
 In this session we'll take a quick overview of "Waterfall," "Agile," how to begin better managing your projects at Turing, and how to build even better teams. 
 
 ### Waterfall vs. Agile (Jeff)
@@ -214,8 +212,10 @@ Four Domains of Leadership in Strengths:
   * **Relationship Building:** Relationship Builders are the glue that holds a team together. Strengths associated with bringing people together -- whether it is by keeping distractions at bay or keeping the collective energy high -- transform a group of individuals into a team capable of carrying out complex projects and goals.
   * **Strategic Thinking:** Those who are able to keep people focused on “what they could” be are constantly pulling a team and its members into the future. They continually absorb and analyze information and help the team make better decisions. 
 
+See where your strengths fall:
+![SF Leadership Domains](https://github.com/turingschool/career-development-curriculum/blob/master/files/SF%20Leadership%20Domains.png)
 
-Look at the slide with the leadership domains from StrengthsFinder and group your top 5 themes into the different domains. Check out this handout with more information on what the different domains of leadership mean. What does this tell you about your own leadership style?
+What does this tell you about your own leadership style?
 
 #### Building Our Own Manifesto
 As we mentioned at the beginning of this session, the [Agile Manifesto](http://agilemanifesto.org/) was one of the first pieces of agile philosophy to be introduced to the industry. However, as we can see in its site, it is outdated in different ways. 
