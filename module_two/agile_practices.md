@@ -47,6 +47,8 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 
 ### Waterfall vs. Agile (Jeff)
 
+![Agile vs. Waterfall](images/pd_new_scope.jpeg)
+
 #### Waterfall
 1. Requirements - the big book of features
 2. Technical Design - "architects"
