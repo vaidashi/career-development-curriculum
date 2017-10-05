@@ -1,17 +1,5 @@
 # Agile Practices & Software Collaboration
 
- 
-* Project Management tools & resources (waffle, XP, Git Workflow, etc.)
-* How teams work together (Tuckman's, SCRUM, Honesty, Treating team members as more than just the work they do, Goal Setting, Accountability, Retrospective and review)
-  * Bring in readings??
-  * Strengths leadership here?
-* Discussions:
-  * Build own "manifesto" or principles on how teams should work
-* Project group break-outs:
-  * Discuss strengths leadership domains and what systems you'll put into place
-* Final takeaway: how will you continue to apply these days during the rest of your time at Turing? 
-
-
 [Slides for this session](https://docs.google.com/presentation/d/1GV_PSrTRRKlXE1IKp9NXRHbgipyK1nmdk34i8n_UobQ/edit?usp=sharing)
 
 ### Session Structure
@@ -28,7 +16,7 @@ Length: 90 minutes
    * Story Practice (5 mins)
    * Turn & Talk (5 mins)
 * Project Management Tools & Resources (10 mins)
-   * 
+* 
 
 ### Objectives (Jeff & Allison)
 * Describe the general concept of the "waterfall" model
@@ -186,14 +174,18 @@ Check out these resources:
 * [Git Workflow for Teams](https://github.com/turingschool/professional_skills/blob/master/module_two/git_workflow_for_teams.md)
 * [Waffle.io](https://waffle.io/)
 
-#### What This Can Look Like at Turing (Jeff)
-* Turn your requirements into stories following this template
-* Prioritize stories and schedule sprints (even just 2-3 days)
-* Deploy to production, maybe solicit feedback from "users"
-* Cutting scope is okay, cutting quality isn't
-
 ### How Teams Work Together (Allison)
-Let's talk now about how teams work together....
+* How teams work together (Tuckman's, SCRUM, Honesty, Treating team members as more than just the work they do, Goal Setting, Accountability, Retrospective and review)
+  * Bring in readings??
+  * Strengths leadership here?
+* Discussions:
+  * Build own "manifesto" or principles on how teams should work
+* Project group break-outs:
+  * Discuss strengths leadership domains and what systems you'll put into place
+* Final takeaway: how will you continue to apply these days during the rest of your time at Turing? 
+
+
+Now let's talk now about how teams work together....
 
 
 * Intro the manifesto but mention that we'll come back to it later to discuss its merits and flaws -- this will be about students being able to take ownership of their learning in the software industry
