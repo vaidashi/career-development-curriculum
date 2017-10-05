@@ -19,11 +19,10 @@ Length: 90 minutes
 * How Teams Work Together (40 mins)
    * Whole Group Introduction (3 mins)
    * Tuckman's Video (6 mins)
-   * Discussion #1 (5 mins)
    * StrengthsFinder Leadership Domains (5 mins)
-   * Discussion #2 (6 mins)
+   * Discussion #1 (10 mins)
    * Redefining the Agile Manifesto (6 mins)
-   * Discussion #3 (8 mins)
+   * Discussion #2 (10 mins)
 * Closing: how to continue this at Turing (1 min)
 
 ### Objectives (Jeff & Allison)
@@ -195,13 +194,12 @@ Now let's talk now about how teams work together.
 * Norming
 * Performing
 * [Video](https://www.youtube.com/watch?v=OhSI6oBQmQA&list=PLbu6naAjG_K93h0wjyn1b1EHQl1Q2pH_y)
-   * We'll pause discuss at different parts of the stage
+   * We'll pause to discuss at different parts of the stage
 * [Reference this handout](https://salvos.org.au/scribe/sites/2020/files/Resources/Transitions/HANDOUT_-_Tuckmans_Team_Development_Model.pdf)
 
-#### Discussion #1
-Move into your current project groups to discuss these stages. Think of those successful teams from your reflection questions. What did you do to get you through the early stages to become successful? How have you worked through the stages together?
-
 #### StrengthsFinder: Leadership Domains
+Let's consider how our strengths play a part in the types of roles we take on in our project groups. 
+
 Four Domains of Leadership in Strengths:
   * **Executing:** Team members who have a dominant strength in Executing are those you turn to time and again to implement a solution. These people work tirelessly to get something done. People who are strong in the Executing domain have an ability to take an idea and transform it into a reality within the organization they lead
   * **Influencing:** People who are innately good at influencing are always selling the team’s ideas inside and outside the organization. When you need someone to take charge, speak up, and make sure your group is heard, look to someone with Influence.
@@ -212,17 +210,17 @@ Four Domains of Leadership in Strengths:
 
 What does this tell you about your own leadership style?
 
-#### Discussion #2:
+#### Discussion #1:
 
 * Share your strengths with each other -- what do they mean? How do you interpret these strengths in your day-to-day work? 
-* Describe a “high point” moment as a team so far -- when has your team worked at its absolute best?
-* What are our domains of strengths? How have we seen these in action working together so far? What are the impacts of these domains on the team? 
-* What domains are not covered as much in our current team? How does that affect our team’s performance? 
+* Describe a “high point” moment as a team so far -- when has your team worked at its absolute best? How have you moved through Tuckman's stages?
+* What are your domains of strengths? How have you seen these in action working together so far? What are the impacts of these domains on the team? 
+* What domains are not covered as much in your current team? How does that affect your team’s performance? 
 
 #### Building Our Own Manifesto
 As we mentioned at the beginning of this session, the [Agile Manifesto](http://agilemanifesto.org/) was one of the first pieces of agile philosophy to be introduced to the industry. However, as we can see in its site, it is outdated in different ways. 
 
-#### Discussion #3: 
+#### Discussion #2: 
 What might be missing from this manifesto that could describe a better approach to team projects? How might other perspectives help us understand teamwork better?
 
 Using everything we've talked about in this session today, build your own manifesto of how to build effective teams. You're part of this industry now and part of establishing your place in the industry is to take ownership over your practices. 
