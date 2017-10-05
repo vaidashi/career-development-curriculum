@@ -44,9 +44,7 @@ By Monday of Week 6, submit a written reflection on:
 * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
 
 ### Connections: The Why (Jeff & Allison)
-Discuss the why / provide a hook -- relating to teamwork...
-
-To build great software we need to be intentional about the **process**. Whether working solo or in groups, your process is a more significant determiner of your project's success than your technical skill.
+To build great software we need to be intentional about the **process**. Whether working solo or in groups, your process is a more significant determiner of your project's success than your technical skill. And refining your process helps you establish your place in the industry as an emerging developer. 
 
 In this session we'll take a quick overview of "Waterfall," "Agile," how to begin better managing your projects at Turing, and how to build even better teams. 
 
