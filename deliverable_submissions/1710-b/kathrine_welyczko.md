@@ -13,7 +13,7 @@ Example: Jessica Rodriguez 1710-BE
 
 ## Mod 1 Second Round Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to new gist with your updated reflection on your strengths and your story using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* Link to new gist with your updated reflection on your strengths and your story using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_follow-up.md)
 
 
 ## Mod 1 First Round Deliverables:
