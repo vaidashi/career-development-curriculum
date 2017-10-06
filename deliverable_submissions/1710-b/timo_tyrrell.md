@@ -1,4 +1,4 @@
-# Tim Tyrrell
+# Timo Tyrrell
 DTR LINK : https://gist.github.com/timomitchel/90a09f6d137f640c1d95e09b6853afa7
 
 Storytelling Reflection Link: https://gist.github.com/timomitchel/c75f1b031d62a1de1541ce495c1c88b0
