@@ -2,7 +2,7 @@
 
 ## How to Manage All the Things
 
-[Slides for this session](
+[Slides for this session](https://docs.google.com/presentation/d/1Fl4QndmeBU1qunfZ7VowMiBGTAQylYtQxTrrOiUuz5k/edit?usp=sharing)
 
 #### Session Time: 60 minutes
 
@@ -26,6 +26,18 @@ Objectives of this session:
 Relating back to the mission: *Turing's mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.* In this session, we're focused on this "unlocking human potential" piece because we can all become better organized by incorporating some intentional strategies!
 
 ### Self-Assessment 
+Take this self-assessment to see how organized you feel that you are. Each question is rated on a scale of 1-5:
+
+| 1 | Never |
+| 2 | Occasionally |
+| 3 | Sometimes |
+| 4 | Often | 
+| 5 | Always |
+
+1. I am able to meet deadlines easily. 
+
+
+
 
 ### Ice Breaker
 Share your concerns with organization from self-assessment with a partner. 
