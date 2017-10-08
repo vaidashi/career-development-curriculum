@@ -54,6 +54,22 @@ Share your concerns with organization from self-assessment with a partner. Consi
 * What are some areas that you feel like you could improve in based on this assessment?
 
 ### Using Calendars, Planners, and To-Do Lists Effectively: I Do, Students work independently to set up a system
+First things first, staying organized comes down to the tools that you use. There are a wide variety of tools out there than can help you stay organized, but the most important thing is to find 1 tool that works for you. 
+
+#### Calendars
+Let's start by looking at calendars. I recommend using Google Calendar because you can easily sync it with the Turing module calendars. You can create different calendars for different purposes if you'd prefer to keep your work life separate from your home life. Here are [directions](https://support.google.com/calendar/answer/37095?hl=en) on how to set up separate calendars. 
+
+**Tips for using a calendar effectively:**
+* Sync with other calendars. To add a Turing module or the community calendar, navigate to your program's site:
+    * [backend.turing.io](backend.turing.io)
+    * [frontend.turing.io](frontend.turing.io)
+Find the relevant calendar and click on the plus in the bottom right of the calendar:
+![Opening Notifications](https://github.com/turingschool/career-development-curriculum/blob/master/images/Opening%20Notifications.png)
+
+Allison will demo using this demo calendar
+
+Add events as needed to create specific tim
+
 
 Syncing with Module Calendars, setting up deadlines, notifications, etc.
 
