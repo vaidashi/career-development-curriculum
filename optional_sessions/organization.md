@@ -64,7 +64,7 @@ Let's start by looking at calendars. I recommend using Google Calendar because y
     * [backend.turing.io](backend.turing.io)
     * [frontend.turing.io](frontend.turing.io)
 Find the relevant calendar and click on the plus in the bottom right of the calendar:
-![Opening Notifications](https://github.com/turingschool/career-development-curriculum/blob/master/images/Opening%20Notifications.png)
+![Adding Google Calendar](https://github.com/turingschool/career-development-curriculum/blob/master/files/Adding%20Google%20Calendar.png)
 
 Allison will demo using this demo calendar
 
