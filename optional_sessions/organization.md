@@ -26,18 +26,26 @@ Objectives of this session:
 Relating back to the mission: *Turing's mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.* In this session, we're focused on this "unlocking human potential" piece because we can all become better organized by incorporating some intentional strategies!
 
 ### Self-Assessment 
-Take this self-assessment to see how organized you feel that you are. Each question is rated on a scale of 1-5:
+Take this self-assessment to reflect on your current organizational practices. Use the following rating to assess your answers:
 
-| 1 | Never |
-| 2 | Occasionally |
-| 3 | Sometimes |
-| 4 | Often | 
-| 5 | Always |
+| Number Score | Meaning      |
+|--------------|--------------|
+| 1            | Never        |
+| 2            | Occasionally |
+| 3            | Sometimes    |
+| 4            | Often        |
+| 5            | Always       |
 
 1. I am able to meet deadlines easily. 
-
-
-
+2. I tend to finish my projects at the last minute.
+3. I come to classes prepared.
+4. I put off responding to Slack or email messages.
+5. I like to make a plan for my worktime before I sit down to start.
+6. I tend to organize my notes, resources, and online bookmarks into specific files.
+7. I have a cluttered workspace.
+8. I know how to prioritize the tasks I need to do and set specific goals for myself to complete them.
+9. I catch myself going down rabbit holes, surfing online, or feeling distracted in another way and can easily get myself back on track. 
+10. I use a project/time management tool such as a planner, calendar, checklist, etc.
 
 ### Ice Breaker
 Share your concerns with organization from self-assessment with a partner. 
