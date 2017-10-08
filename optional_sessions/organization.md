@@ -60,22 +60,32 @@ First things first, staying organized comes down to the tools that you use. Ther
 Let's start by looking at calendars. I recommend using Google Calendar because you can easily sync it with the Turing module calendars. You can create different calendars for different purposes if you'd prefer to keep your work life separate from your home life. Here are [directions](https://support.google.com/calendar/answer/37095?hl=en) on how to set up separate calendars. 
 
 **Tips for using a calendar effectively:**
-* Sync with other calendars. To add a Turing module or the community calendar, navigate to your program's site:
+* Sync with other calendars to see how their events match up with your schedule. To add a Turing module or the community calendar, navigate to your program's site:
     * [backend.turing.io](backend.turing.io)
     * [frontend.turing.io](frontend.turing.io)
 Find the relevant calendar and click on the plus in the bottom right of the calendar:
 ![Adding Google Calendar](https://github.com/turingschool/career-development-curriculum/blob/master/files/Adding%20Google%20Calendar.png)
+* Add events as needed to keep track of appointments, deadlines, and to create specific timeboxes to get tasks done 
+* Enable notifications so that you can be reminded of pending appointments. Navigate to "My Calendars" on the lefthand side of the screen, click on the dropdown arrow, and click on "Edit Notifications." After you set the timing on notifications that will work best for you, you can also decide how you'd like to receive that notification back on the "General" screen.
 
-Allison will demo using this demo calendar
+Allison will demo using this [demo calendar](https://calendar.google.com/calendar/embed?src=casimircreative.com_fhmv42gac54797pb1cenhgadds%40group.calendar.google.com&ctz=America/Denver)
 
-Add events as needed to create specific tim
+#### Beyond Calendars
+There are other organizational systems that could be helpful for you to keep your 
 
+#### Old School
+Using a physical planner can be a great way to keep track of deadlines and  There is also something very satisfying about writing something down and being able to check it off later. 
 
-Syncing with Module Calendars, setting up deadlines, notifications, etc.
+**Bullet Journals** are a great way to keep track of notes as well as ....
 
-Brief overview of bullet journals
+Intros to Trello, 
 
-Intros to Trello, Wunderlist, Google Keep, Todoist, etc.
+#### Virtual To-do Lists
+* Todoist
+* Wunderlist
+
+#### Bookmarks
+As you compile notes and resources from your many web searches  **Google Keep** is a great organizer for bookmarks. Add it as an extension on your browser...
 
 ** You Do:** Make plans to set up a system right now. If you're already using a system, consider ways of making it more productive.
 
