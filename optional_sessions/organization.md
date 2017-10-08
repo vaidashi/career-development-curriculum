@@ -10,8 +10,8 @@
 * Self-Assessment (5 mins)
 * Ice Breaker Turn & Talk (5 mins)
 * Calendars, Planners, Etc. (15 mins)
-* Managing Slack (10 mins)
 * Workflow (12 mins)
+* Managing Slack (10 mins)
 * Committing to Action (8 mins)
 * Closing (2 mins)
 
@@ -48,8 +48,10 @@ Take this self-assessment to reflect on your current organizational practices. U
 10. I use a project/time management tool such as a planner, calendar, checklist, etc.
 
 ### Ice Breaker
-Share your concerns with organization from self-assessment with a partner. 
-
+Share your concerns with organization from self-assessment with a partner. Consider these questions:
+* How did you feel about your answers?
+* What concerns do you have based on this assessment?
+* What are some areas that you feel like you could improve in based on this assessment?
 
 ### Using Calendars, Planners, and To-Do Lists Effectively: I Do, Students work independently to set up a system
 
@@ -59,21 +61,7 @@ Brief overview of bullet journals
 
 Intros to Trello, Wunderlist, Google Keep, Todoist, etc.
 
-Work Time:
-
-
-### Managing Messages & Notifications in Slack: Whole Group, "Code Along"
-Slack is Turing's main mode of communication, so we expect students to be checking it regularly. However, with all the channels and notifications, how can you keep it all straight?
-
-Start by setting up your notifications. Hit ```command ,``` to open up Notifications:
-
-![Opening Notifications](https://github.com/turingschool/career-development-curriculum/blob/master/images/Opening%20Notifications.png)
-
-
-So now, when you receive a DM, you'll be able to ...
-
-
-While [this tutorial](https://vimeo.com/157164958) was made in an earlier version of Slack's interface, it includes all the same information as a helpful refresher from today's session.
+** You Do:** Make plans to set up a system right now. If you're already using a system, consider ways of making it more productive.
 
 
 ### Workflow: I do, Then Group Discussion
@@ -88,6 +76,19 @@ Small Group Discussion:
 * What is difficult about taking breaks?
 * What are your takeaways about Pomodoros?
 * How might you adopt some of these ideas into your workflow?
+
+### Managing Messages & Notifications in Slack: Whole Group, "Code Along"
+Slack is Turing's main mode of communication, so we expect students to be checking it regularly. However, with all the channels and notifications, how can you keep it all straight?
+
+Start by setting up your notifications. Hit ```command ,``` to open up Notifications:
+
+![Opening Notifications](https://github.com/turingschool/career-development-curriculum/blob/master/images/Opening%20Notifications.png)
+
+
+So now, when you receive a DM, you'll be able to ...
+
+
+While [this tutorial](https://vimeo.com/157164958) was made in an earlier version of Slack's interface, it includes all the same information as a helpful refresher from today's session.
 
 ### Commitment to Action
 Individually, decide what changes you will commit to in order to improve your organizational skills. 
