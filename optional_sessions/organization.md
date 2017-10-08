@@ -8,7 +8,7 @@
 
 * Opening (3 mins)
 * Self-Assessment (5 mins)
-* Ice Breaker Turn & Talk (5 mins)
+* Turn & Talk (5 mins)
 * Calendars, Planners, Etc. (15 mins)
 * Workflow (12 mins)
 * Managing Slack (10 mins)
@@ -26,7 +26,7 @@ Objectives of this session:
 Relating back to the mission: *Turing's mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.* In this session, we're focused on this "unlocking human potential" piece because we can all become better organized by incorporating some intentional strategies!
 
 ### Self-Assessment 
-Take this self-assessment to reflect on your current organizational practices. Use the following rating to assess your answers:
+Take this [self-assessment](https://docs.google.com/document/d/1Zz8z01As0hvmPDRFfYtkw6tLrQwDOAdu5K4cRkuwZ1o/edit?usp=sharing) to reflect on your current organizational practices. Use the following rating to assess your answers:
 
 | Number Score | Meaning      |
 |--------------|--------------|
@@ -47,7 +47,7 @@ Take this self-assessment to reflect on your current organizational practices. U
 9. I catch myself going down rabbit holes, surfing online, or feeling distracted in another way and can easily get myself back on track. 
 10. I use a project/time management tool such as a planner, calendar, checklist, etc.
 
-### Ice Breaker
+### Turn & Talk
 Share your concerns with organization from self-assessment with a partner. Consider these questions:
 * How did you feel about your answers?
 * What concerns do you have based on this assessment?
