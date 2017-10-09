@@ -3,13 +3,15 @@
 
 ### Session Outcomes
 
-* Students are able to...
+* Students are able to understand the scope and sequence of Module 4 Professional Development and what support looks like this module
+* Students are able to dentify barriers that may come up for you in the job search
+* Students are able to identify particular strategies for outreach, networking, branding, and interview prep
 
 ### Logistics
 
 | Set Up | Materials Needed | PPT Link (if PPT)|
 | ------ | ---------------- | ---------------- |
-| How should the room be set up? What AV is needed? | Students should have their laptops. Your laptop is needed to present slides. | [Slides](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing) |
+| How should the room be set up? What AV is needed? | Students should have their laptops. Your laptop is needed to present slides. Prior to the session starting, update the last slide that lists the student peer groups. | [Slides](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing) |
 
 ### Session Structure
 
@@ -17,12 +19,17 @@
 
 Length: 60 minutes
  
-* ...
+* Opening: objectives & introduction of scope & sequence of M4 PD; introduction to how groups will work & discuss end of module plan (12 mins)
+* Intro to barriers (10 mins)
+* Outreach (15 mins)
+* Networking & Branding (13 mins)
+* Technical Interview Prep Ideas (7 mins)
+* Closing & prepare to get into breakout groups (2 mins)
 
 
 | Timing        | Facilitator Talking Points        | Participant Actions  |
 | ------------- | ----------- | ------------------------|
-| 8 minutes | Introduce the session by going over the objectives on the first slide as well as the 3 options for the deliverable. Students only need to choose one option but this session will cover all 3 to give students a sense of what they are and how to find tools to execute any of the 3 | Students are listening |
+| 12 minutes | **Opening:**  | Students are listening |
 | 3 minutes | Recap Cold Outreach ideas from Mod 2 session:   |  Whole Group Discussion, followed by Turn & Talk for 5 minutes, then 2-3 groups share out whole group |
 | 2 minutes | With the slide of screenshots displayed, discuss why we emphasize outreach and networking at  | Whole Group Discussion|
 | 5 minutes | Introduce the parts of the Feedback Conversation. Start by reviewing the 3 types of feedback: Appreciation, Coaching, Evaluation; solicit student volunteers to explain each one. Then discuss the parts of the feedback conversation, which are Open, Body, and Close. Read the information off of the slide | Students provide answers when prompted |
