@@ -71,18 +71,29 @@ Find the relevant calendar and click on the plus in the bottom right of the cale
 Allison will demo using this [demo calendar](https://calendar.google.com/calendar/embed?src=casimircreative.com_fhmv42gac54797pb1cenhgadds%40group.calendar.google.com&ctz=America/Denver)
 
 #### Beyond Calendars
-There are other organizational systems that could be helpful for you to keep your 
+There are other organizational systems that could be helpful for you to stay on top of deadlines and tasks. We'll highlight a few of them here, but again, the most important thing is to find something that works for you.  
 
 #### Going Analog
 Using a physical planner can be a great way to keep track of deadlines and task lists through a system that you can design. There is also something very satisfying about writing something down and being able to check it off later. 
 
-**[Bullet Journals](http://bulletjournal.com/)** are a way that you can use a physical planner in a method similar to a    Watch [this video](https://www.youtube.com/watch?v=fm15cmYU0IM) to see how it can work. 
-
-Intros to Trello, 
+**[Bullet Journals](http://bulletjournal.com/)** allows you to use a physical planner in a way that organizes your thoughts in a productive way.     
+* [This video](https://www.youtube.com/watch?v=fm15cmYU0IM) shows how it can work.
+* Whole Group Discussion:
+   * What are your takeaways about how the bullet journal can work?
+* Summary of possible takeaways:
+   * You can customize the bullet journal to what works for your brain (instead of using an app that is preloaded for one way of doing things)
+   * Organize according to time and find information again:
+      * Index
+      * Future Log
+      * Monthly Log
+      * Daily Log
+   * The act of reflecting on time spent: "is this worth my time?" which helps cut down on distractions
+   * Make this even more effective by using a journal with blank pages so that you can include spaces for class notes, pseudo-coding, etc. 
 
 #### Virtual To-Do Lists
 * Todoist
 * Wunderlist
+* Trello
 
 #### Bookmarks
 As you compile notes and resources from your many web searches  **Google Keep** is a great organizer for bookmarks. Add it as an extension on your browser...
