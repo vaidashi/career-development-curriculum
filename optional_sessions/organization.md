@@ -73,21 +73,24 @@ Allison will demo using this [demo calendar](https://calendar.google.com/calenda
 #### Beyond Calendars
 There are other organizational systems that could be helpful for you to keep your 
 
-#### Old School
-Using a physical planner can be a great way to keep track of deadlines and  There is also something very satisfying about writing something down and being able to check it off later. 
+#### Going Analog
+Using a physical planner can be a great way to keep track of deadlines and task lists through a system that you can design. There is also something very satisfying about writing something down and being able to check it off later. 
 
-**Bullet Journals** are a great way to keep track of notes as well as ....
+**[Bullet Journals](http://bulletjournal.com/)** are a way that you can use a physical planner in a method similar to a    Watch [this video](https://www.youtube.com/watch?v=fm15cmYU0IM) to see how it can work. 
 
 Intros to Trello, 
 
-#### Virtual To-do Lists
+#### Virtual To-Do Lists
 * Todoist
 * Wunderlist
 
 #### Bookmarks
 As you compile notes and resources from your many web searches  **Google Keep** is a great organizer for bookmarks. Add it as an extension on your browser...
 
-** You Do:** Make plans to set up a system right now. If you're already using a system, consider ways of making it more productive.
+** You Do:** Make plans to set up a system right now. If you're already using a system, consider ways of making it more productive. Consider:
+
+* What is most meaningful to you when it comes to organizing your priorities? What system will have the most motivation for you?
+* 
 
 
 ### Workflow: I do, Then Group Discussion
