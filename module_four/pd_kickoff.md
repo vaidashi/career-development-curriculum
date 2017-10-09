@@ -104,6 +104,7 @@ Overview of what technical interview prep will look like this module:
 * Back End: Mock interviews with Ian Douglas
 * Front End: Mock interviews with Brittany Storoz
 * Several opportunities to practice challenges in class
+* Check out [these resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/technical_interview_prep_resources.md)
 
 **You Do:** List out what you feel are your current strengths and weaknesses when it comes to technical interviews. How can you focus your time during technical interview prep sessions and mock interviews to help you capitalize on your strengths and improve your weaknesses?
 
