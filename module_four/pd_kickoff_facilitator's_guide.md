@@ -1,6 +1,10 @@
 # Module 4 PD Kickoff
 ## Facilitator Guide
 
+Video recording of this session (**note:** the camera died before the end of the session)
+* [First part](https://drive.google.com/file/d/0B6yM_FEMEdwzN3JjU1hEZjMwblE/view)
+* [A few minutes of another part of the session](https://drive.google.com/file/d/0B6yM_FEMEdwzdW4tcGliaTYyZ1k/view)
+
 ### Session Outcomes
 
 * Students are able to understand the scope and sequence of Module 4 Professional Development and what support looks like this module
@@ -29,7 +33,7 @@ Length: 60 minutes
 
 | Timing        | Facilitator Talking Points        | Participant Actions  |
 | ------------- | ----------- | ------------------------|
-| 12 minutes | **Opening:**  | Students are listening |
+| 3 minutes | Introduce the session with the o  | Students are listening |
 | 3 minutes | Recap Cold Outreach ideas from Mod 2 session:   |  Whole Group Discussion, followed by Turn & Talk for 5 minutes, then 2-3 groups share out whole group |
 | 2 minutes | With the slide of screenshots displayed, discuss why we emphasize outreach and networking at  | Whole Group Discussion|
 | 5 minutes | Introduce the parts of the Feedback Conversation. Start by reviewing the 3 types of feedback: Appreciation, Coaching, Evaluation; solicit student volunteers to explain each one. Then discuss the parts of the feedback conversation, which are Open, Body, and Close. Read the information off of the slide | Students provide answers when prompted |
