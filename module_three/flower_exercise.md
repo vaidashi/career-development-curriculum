@@ -9,7 +9,7 @@ What is important to you? What goals do you have for yourself? What kind of serv
 * Describe yourself in 7 different ways to enhance your professional story
 * Describe in detail the kind of career you’re looking for
 
-## Deliverable:
+## Recommended Deliverable:
 **[Complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and include a link to either the uploaded PDF or a gist with bullet points for each of the 7 categories. 
 
 ## The Why
