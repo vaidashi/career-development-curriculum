@@ -4,14 +4,14 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1Fl4QndmeBU1qunfZ7VowMiBGTAQylYtQxTrrOiUuz5k/edit?usp=sharing)
 
-#### Session Time: 60 minutes
+#### Session Time: 50 minutes
 
-* Opening (3 mins)
-* Self-Assessment (5 mins)
+* Opening (2 mins)
+* Self-Assessment (3 mins)
 * Turn & Talk (5 mins)
-* Calendars, Planners, Etc. (15 mins)
-* Workflow (12 mins)
-* Managing Slack (10 mins)
+* Calendars, Planners, Etc. (14 mins)
+* Workflow & Time Management (10 mins)
+* Managing Slack (6 mins)
 * Committing to Action (8 mins)
 * Closing (2 mins)
 
@@ -126,8 +126,8 @@ As I mentioned above with these systems, they only work if we put the right effo
    * We cannot work tirelessly for hours on end. Our brains and bodies need breaks or our productivity will suffer. 
    * Utilize a Pomodoro timer. There are a lot of these available on the internet, like [this one](https://tomato-timer.com/) or [this one](http://www.marinaratimer.com/) or [this one](http://www.online-timers.com/pomodoro-timers). 
 
-#### Small Group Discussion:
-Get into groups of 3-4 people to talk through 
+#### Small Group Discussion
+Get into groups of 3-4 people to talk through these questions:
 
 * What blockers to managing workflow have come up for you in the past?
 * What are the advantages of backwards planning your work time?
