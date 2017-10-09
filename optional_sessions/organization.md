@@ -53,7 +53,7 @@ Share your concerns with organization from self-assessment with a partner. Consi
 * What concerns do you have based on this assessment?
 * What are some areas that you feel like you could improve in based on this assessment?
 
-### Using Calendars, Planners, and To-Do Lists Effectively: I Do, Students work independently to set up a system
+### Using Calendars, Planners, and To-Do Lists Effectively
 First things first, staying organized comes down to the tools that you use. There are a wide variety of tools out there than can help you stay organized, but the most important thing is to find 1 tool that works for you. 
 
 #### Calendars
@@ -90,21 +90,29 @@ Using a physical planner can be a great way to keep track of deadlines and task 
    * The act of reflecting on time spent: "is this worth my time?" which helps cut down on distractions
    * Make this even more effective by using a journal with blank pages so that you can include spaces for class notes, pseudo-coding, etc. 
 
-#### Virtual To-Do Lists
-* Todoist
-* Wunderlist
-* Trello
+#### Virtual To-Do Lists & Task Management Apps
+* **Todoist:** This site provides a way to create to-do lists complete with sub-tasks, sub-projects, and sharing and collaborating with others. You can create ways to prioritize your to-dos as well. 
+![Todoist](https://github.com/turingschool/career-development-curriculum/blob/master/files/Todoist.png)
+* **Wunderlist:** This is a straightforward app for creating to-do lists and setting reminders. You can also collaborate with others on shared lists. 
+![Wunderlist](https://github.com/turingschool/career-development-curriculum/blob/master/files/Wunderlist.jpg)
+* **Trello** lets you create boards that contain lists that contain cards. These boards can be shared with other Trello users. Cards have titles, descriptions, a message log for activities, checklists, due dates, labels, links, attachments and be assigned to other Trello users.
+![Trello](https://github.com/turingschool/career-development-curriculum/blob/master/files/Trello.png)
+* **Workflowy:** Create to-do lists in a very straightforward way. 
+![Workflowy](https://github.com/turingschool/career-development-curriculum/blob/master/files/Workflowy.png)
 
 #### Bookmarks
-As you compile notes and resources from your many web searches  **Google Keep** is a great organizer for bookmarks. Add it as an extension on your browser...
+As you compile notes and resources from your many classes and web searches, having a quick, reliable way to find them again is essential. **Google Keep** is a great organizer for bookmarks. Use it to keep track of notes, reminders, and to-do lists in one place that syncs with your Google accounts and that you can share with others to help hold yourself accountable. Add it as an extension on your browser on Chrome to have a handy way to organize your bookmarks quickly. 
 
-** You Do:** Make plans to set up a system right now. If you're already using a system, consider ways of making it more productive. Consider:
+![Google Keep](https://github.com/turingschool/career-development-curriculum/blob/master/files/Google%20Keep.png)
 
-* What is most meaningful to you when it comes to organizing your priorities? What system will have the most motivation for you?
-* 
+#### You Do
+Make plans to set up a system right now. If you're already using a system, consider ways of making it more productive. Consider:
 
+* What is most meaningful to you when it comes to organizing your priorities? 
+* What system will have the most motivation for you?
 
 ### Workflow: I do, Then Group Discussion
+As I mentioned above with the 
 
 Timeboxing
 
