@@ -111,31 +111,47 @@ Make plans to set up a system right now. If you're already using a system, consi
 * What is most meaningful to you when it comes to organizing your priorities? 
 * What system will have the most motivation for you?
 
-### Workflow: I do, Then Group Discussion
-As I mentioned above with the 
+### Workflow & Time Management
+As I mentioned above with these systems, they only work if we put the right effort and motivation into them. That leads to productive workflow. Some key elements to this are:
 
-Timeboxing
+ * Timeboxing:
+   * Decide how much time you can devote to a task
+   * Block out that time
+   * Stick to that time as though it's an appointment
+ * Pre-planning:
+   * Once you have a timebox set, create a plan for what you'll accomplish during that time
+   * Backwards plan: what do you want to have accomplished at the end of this time?
+   * Decide on benchmarks: how will you gauge progress during this time?
+ * Pomodoros:
+   * We cannot work tirelessly for hours on end. Our brains and bodies need breaks or our productivity will suffer. 
+   * Utilize a Pomodoro timer. There are a lot of these available on the internet, like [this one](https://tomato-timer.com/) or [this one](http://www.marinaratimer.com/) or [this one](http://www.online-timers.com/pomodoro-timers). 
 
-Pomodoros
+#### Small Group Discussion:
+Get into groups of 3-4 people to talk through 
 
-Small Group Discussion:
-
-* What have been your blockers to managing workflow in the past?
+* What blockers to managing workflow have come up for you in the past?
+* What are the advantages of backwards planning your work time?
 * What is difficult about taking breaks?
-* What are your takeaways about Pomodoros?
 * How might you adopt some of these ideas into your workflow?
 
-### Managing Messages & Notifications in Slack: Whole Group, "Code Along"
-Slack is Turing's main mode of communication, so we expect students to be checking it regularly. However, with all the channels and notifications, how can you keep it all straight?
+### Managing Messages & Notifications in Slack
+Slack is Turing's main mode of communication, so we expect students to be checking it regularly. However, with all the channels and notifications, how can you keep it all straight? 
 
+#### Notifications
 Start by setting up your notifications. Hit ```command ,``` to open up Notifications:
 
 ![Opening Notifications](https://github.com/turingschool/career-development-curriculum/blob/master/images/Opening%20Notifications.png)
 
+You shouldn't have these totally turned off, but you should create a system to prioritize messages.
 
-So now, when you receive a DM, you'll be able to ...
+#### Prioritizing Messages
+Other things to keep in mind:
+* Star channels you use frequently
+* Utilize the "All Unreads" feature to quickly skim messages and see what's important for you to respond to *now* and what can wait
+* Mark messages as "unread" if you need to back to them later by clicking on the ellipsis (...) button when you hover over a message and clicking "Mark unread" OR you can ask Slackbot to remind you to respond to something later by hitting ```/remind``` and then typing out a message that Slackbot can notify you about. Here are some examples:
+![Slackbot Remind Feature](https://github.com/turingschool/career-development-curriculum/blob/master/files/Slackbot%20Remind%20Feature.png)
 
-
+#### Other Resources
 While [this tutorial](https://vimeo.com/157164958) was made in an earlier version of Slack's interface, it includes all the same information as a helpful refresher from today's session.
 
 ### Commitment to Action
@@ -143,8 +159,12 @@ Individually, decide what changes you will commit to in order to improve your or
 
 Reflect on these questions:
 
-*
-* How will you know that you've made progress in this area? Is there anyone you will check in with to hold you accountable? 
+* What systems are you already using? On a scale of 1-5, how effective have they been for you at Turing?
+* What is one area that you could improve on? Look back at your self-assessment from the beginning of this session.
+* What steps will you take to improve in this area?
+* When do you want to implement these changes?
+* How will you know that you've made progress in this area? 
+* Is there anyone you will check in with to hold you accountable?  
 
 ### Closing
 2-3 students share out their action steps
