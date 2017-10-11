@@ -33,7 +33,9 @@ In order to fulfill the requirements of Module Two, students will submit these d
     * What was effective?
     * What do you want to improve on in future projects?
   * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
-* Feedback II reflection: In-person feedback conversation
+* Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+* Working draft of professional story (1-2 paragraphs)
+* Plan for outreach & networking as you go into Module 3 using these [guidelines](
 * Feedback III reflection: Feedback implementation reflection & application of strengths to teams 
 * Gear Up-related reflections
 
