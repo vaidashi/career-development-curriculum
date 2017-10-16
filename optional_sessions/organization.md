@@ -4,11 +4,11 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1Fl4QndmeBU1qunfZ7VowMiBGTAQylYtQxTrrOiUuz5k/edit?usp=sharing)
 
-#### Session Time: 50 minutes
+#### Session Time: 45 minutes
 
 * Opening (2 mins)
 * Self-Assessment (3 mins)
-* Turn & Talk (5 mins)
+* Turn & Talk (4 mins)
 * Calendars, Planners, Etc. (14 mins)
 * Workflow & Time Management (10 mins)
 * Managing Slack (6 mins)
