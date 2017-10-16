@@ -24,15 +24,14 @@ Length: 60 mins
 * Include a working draft of your professional story (1-2 paragraphs) as a gist in your PD deliverables due Monday of Week 6
 
 ### The Why/Hook
-In Module One, we discussed .....
+In Module One, we dove into exploring who we are through discussions of:
+* Our working styles -- where we fall on the introversion/extroversion spectrum
+* Our strengths
+* The lenses and identities through which we see the world
 
-From your professional story, we'll craft your resume, your Turing portfolio, update your LinkedIn, inspire others through blog posts, personal websites, projects, and more.   
+In this session, we'll continue to build on this self-awareness to lend to our professional stories. From your professional story, we'll craft your resume, your Turing portfolio, update your LinkedIn, inspire others through blog posts, personal websites, projects, and more.   
 
 We are all inherent storytellers, and the aim of today's session is to expand on your professional story and turn it into a compelling narrative. 
-
-**Review as whole group:** What elements make a compelling story?
-
-Examples: something's at stake, relatable protagonist, overcoming obstacles, turning points, a satisfying ending.
 
 ### Telling Your Story
 Our lives are made up of stories -- they are how we make sense of our experiences. Stories define who we are. The same is true with your professional story. Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
@@ -44,6 +43,11 @@ These three questions are the basis of telling your story:
 * **Who are you?** *(as a developer, a teammate, a worker, a career changer)*
 * **Why are you here?** *(Why software development? Why now? Consider both your background but also what drives you to be in this field)*
 * **What's next?** *(Where do you see yourself going in this career?)* 
+
+
+**Review as whole group:** What elements make a compelling story?
+
+Examples: something's at stake, relatable protagonist, overcoming obstacles, turning points, a satisfying ending.
 
 Your story is one of **transition.** These stories are inherently interesting as they have all the elements of a classic story, and most importantly, they have the important elements of change, conflict, and tension around the transition. Where are you going? What will happen next? It's so exciting for the listener! But it also depends on how you tell that story. Let's look at some examples... 
 
@@ -60,7 +64,7 @@ Story #2: "I wasn't always sure what I wanted to do for a living, but one thing 
 * Which character did you care about more? Why?
 * Based on these examples, what should your story *not* be?
 
-The second story focuses more on the turning points -- the moments that cause your listener to ask, "What happened next?"
+The second story focuses more on the turning points -- the moments that cause your listener to ask, *"What happened next?"*
 
 Now, let's apply these ideas to your own story and practice telling it. 
 
@@ -90,5 +94,8 @@ Feedback should include:
 ### Closing
 **Whole Group Debrief:** What takeaways do you have about what makes an effective professional story?
 
-Next Steps:
-Looking ahead at Module 3, 
+**Next Steps:**
+Looking ahead at Module 3:
+* Drafting your resume
+* Creating your [Turing portfolio](turing.io/alumni)
+* Consider how you can talk about yourself in networking settings, such as meetups, events, and job shadowing
