@@ -12,7 +12,7 @@
 * Calendars, Planners, Etc. (14 mins)
 * Workflow & Time Management (10 mins)
 * Managing Slack (6 mins)
-* Committing to Action (8 mins)
+* Committing to Action (3-8 mins)
 * Closing (2 mins)
 
 ### Opening
