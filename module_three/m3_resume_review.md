@@ -9,6 +9,17 @@
 | Group #1 Breakout - 45 mins. | **Lead Facilitator:** Direct coaches to break out with their first groups (locations can be decided on ahead of time and can include either of the M3 classrooms, a pairing area, Clarke Hall, or the Vault) and follow this timeframe: 1. Intros (go around and say your name and mod) and decide on order (2 mins.) 2. Each Student presents for 10 mins: 2 mins. pitch of their professional story; 2-3 mins. of feedback; each person in the group should provide 1 piece of appreciative feedback and 1 piece of coaching feedback; Present resume and get feedback from coach and group (5 mins); again, 1 piece of appreciative feedback, 1 piece of coaching feedback. 3. Remaining time: Discuss the additional resources linked in this markdown and any additional Q&A. **Coaches:** As your groups finish the workshop, remind them that they should update their resumes to be ready for their Turing portfolio and that as they go into their job shadowing assignment in Week 4, they should be prepared to share their stories with the professionals they meet. | Students move to their respective groups. If they are in the second group, they should work on their story, resume, and Turing portfolio. |
 | Group #2 Breakout - 45 mins. | Coaches should follow the same timeframe as that listed above. **Coaches:** As your groups finish the workshop, remind them that they should update their resumes to be ready for their Turing portfolio and that as they go into their job shadowing assignment in Week 4, they should be prepared to share their stories with the professionals they meet. | Students move to their respective groups. If they are done being workshopped, they should work on updating their resume and Turing portfolio. |
 
+## For Coaches: What to Look for in a Professional Story
+Students have been asked to describe themselves using these 3 guiding questions:
+* Who are you?
+* Why are you here in this industry?
+* Where do you want to go in this industry?
+
+Feedback should include:
+* **Appreciation** on what is compelling about the story
+* **Coaching** on anything that isn't clear or what could be improved in the storytelling skills area 
+* Principles of being specific, actionable, and kind 
+
 ## For Coaches: What to Look for in a Resume
 Students were given these guidelines for creating an effective resume:
 * **Professional story** at the top; About 3-4 sentences about their transition into software development. Look for:
