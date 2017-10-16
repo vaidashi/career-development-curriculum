@@ -2,7 +2,7 @@
 
 ## Sharing Who You Are in Professional Situations
 
-Slides for this session]()
+[Slides for this session](https://docs.google.com/presentation/d/1G1kDWESHQXZI0DeY8pxAyHfK_CMrk4wj9Sv7rZ2nMn8/edit?usp=sharing)
 
 ### Session Structure
 
