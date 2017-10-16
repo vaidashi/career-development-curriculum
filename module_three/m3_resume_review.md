@@ -2,21 +2,33 @@
 
 **Directions for Coaches:** Please use these guidelines to structure your resume review workshops with Module 3 students during Week 3 of the module.
 
+| Timing | Facilitator Actions | Participant Actions |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Before Session | Lead Facilitator should divide up the number of M3 students (mixed across both programs) into groups of 4-5 students and assign them to the staff coaches. Send out a Slack message with the assigned groups ahead of the scheduled workshop along with the directions found in this markdown.    | N/A |
+| In session: 1-2 mins; Introduction | **Lead Facilitator:** Give students overview of how the workshop will go, let them know which groups they are in and where their groups are meeting.   
+
+Say: **"In your groups, you will each have 10 minutes to be workshopped. You'll share your story, condensed to 2 minutes, as well as your resume, and you'll receive feedback from the group. There will also be time for your group to look at exemplar resume examples and ask questions of your coach and group. Groups who are workshopped in the first 45 min. round will then work on incorporating feedback into their resume drafts during the second 45 minutes as well as working on their Turing portfolios. Groups who are workshopped second should spend the first 45 minutes practicing their stories, ensuring that their resumes are ready to be presented, and working on their Turing portfolios."**   
+
+**Note:** Make sure that coaches know that if they have less than 4 people in their groups, they will have more time to discuss additional resources with their groups (linked in this markdown) as well as additional questions.  | Students listen and move to the correct location when directed |
+| Group #1 Breakout - 45 mins. | **Lead Facilitator:** Direct coaches to break out with their first groups (locations can be decided on ahead of time and can include either of the M3 classrooms, a pairing area, Clarke Hall, or the Vault) and follow this timeframe: 
+
+* Intros (go around and say your name and mod) and decide on order (2 mins.)  
+* Each Student presents for 10 mins: 
+	* 2 mins. pitch of their professional story; 2-3 mins. of feedback; each person in the group should provide 1 piece of appreciative feedback and 1 piece of coaching feedback 
+	* Present resume and get feedback from coach and group; again, 1 piece of appreciative feedback, 1 piece of coaching feedback (5 mins)  Remaining time: Discuss the additional resources linked in this markdown and any additional Q&A 
+	
+**Coaches:** As your groups finish the workshop, remind them that they should update their resumes to be ready for their Turing portfolio and that as they go into their job shadowing assignment in Week 4, they should be prepared to share their stories with the professionals they meet. | Students move to their respective groups. If they are in the second group, they should work on their story, resume, and Turing portfolio. |
+| Group #2 Breakout - 45 mins. | Coaches should follow the same timeframe as that listed above.   
+
+**Coaches:** As your groups finish the workshop, remind them that they should update their resumes to be ready for their Turing portfolio and that as they go into their job shadowing assignment in Week 4, they should be prepared to share their stories with the professionals they meet. | Students move to their respective groups. If they are done being workshopped, they should work on updating their resume and Turing portfolio. |
+
+## Additional Resources
+Students can look to these exemplar resumes
 
 
-Mod 3 Resume Reviews:
+**Prompting Questions:**
+* What makes this an effective resume?
+* 
 
-BE (20)
-FE (18)
-= 38 
-
-5 coaches; split up with 4-5 students, two rotations for 45 mins
-	-1 min. pitch of story
-	-Present resume, then get feedback
-	-Everyone in group provide 1 piece of appreciative feedback, 1 piece of coaching feedback 
-	-What else could be talked about during this time? Look at exemplars and what makes it an exemplar
--Give directions for what they’re doing when they’re not with their review group
-
-Make mixed groups and assign to the coaches
-
--You should update your resume for your job shadow next week in the event that they ask to see it or you have someone to follow up with; be clear with expectations
+Things to consider:
+* Should students have their resumes printed out? Links to share with the group? 
