@@ -20,7 +20,7 @@ By mastering the objectives listed above, students will be able to put themselve
 * [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_and_leadership.md)
 * [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md) 
 * [Feedback III](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
-* [Storytelling II]
+* [Storytelling II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
 * [Outreach & Networking]
 
 ### Deliverables
