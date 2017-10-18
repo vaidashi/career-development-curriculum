@@ -43,7 +43,7 @@ When you are asked that question, recognize that you don't have the context to p
   * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours. 
 
 * **Shift your Mindset to Embrace Negotiations:**
-  * **Turn & Talk:** What did you write down at the beginning of the session about your associations with the idea of negotiating? It's time to unpack our feelings about negotiating in order to be empowered to have this conversation in a meaningful way. What are your initial feelings about the idea of negotiating? 
+  * **Turn & Talk OR Whole Group:** What did you write down at the beginning of the session about your associations with the idea of negotiating? It's time to unpack our feelings about negotiating in order to be empowered to have this conversation in a meaningful way. What are your initial feelings about the idea of negotiating? 
   * Bottom line: Successful people negotiate
 
 * **Back to the initial question -- "What are your salary expectations?"**
