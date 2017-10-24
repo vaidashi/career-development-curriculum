@@ -7,6 +7,28 @@
 
 Length: 90 mins
 
+-Opening: stories are how we begin to understand each other; first step in our job search prep -- preview the other things we'll do but first we have to understand our own stories better... (5 mins)
+-Turn & Talk: share the story (5 mins)
+-Discuss storytelling elements, move towards characters and character arcs; who are you, why are you here, what's next? In order to tell our stories, let's connect with ourselves (5 mins)
+-Our backstories (who are we?): (10 mins)
+   -Life Maps: where have you been? What lenses do you view the world through?
+   -I'll share mine
+   -You Do: Students create their own
+-Our current state (why are we here?): (15 mins) 
+   -Reflect on struggles/values/strengths
+   -Share staff members' stories
+   -You Do: Answer specific questions in journals to share later, including strengths; peak experience so far at Turing -- how you've seen yourself using one of your strengths; The Reflection
+      Becoming more comfortable with owning what we're good at
+-Our futures (what's next?): (10 mins)
+   -Think back to why you applied to Turing; what dreams do you envision for yourself? Where does your Turing story end?
+   -You do: Write/draw a vision statement
+-Small Group Discussions: share as much as you're comfortable with for each of these 3 areas (25 mins)
+   -How do you think these differences/similarites will impact your cohort community? 
+-Closing: Whole Group Takeaways: (10 mins)
+   -Storytelling: how can talking about these areas help us in our future careers?
+   -You Do: Finish Reflection
+
+
 * Opening (3 mins)
 * Turn & Talk (5 mins)
 * Discussion of our lenses
@@ -26,7 +48,7 @@ Length: 90 mins
 * Understand the value of storytelling in both professional and personal relationship-building contexts
 * Reflect on and share what brought you to Turing and how you uniquely add to the software industry
 * Use your StrengthsFinder themes to help you describe your Turing story
-* Practice networking and sharing stories to better understand each other
+* Practice sharing stories to better understand each other and build our storytelling skills
 
 #### Deliverables
 * Complete the [Strengths & Storytelling Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md) for your M1 PD deliverables that you'll submit [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
