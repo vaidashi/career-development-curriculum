@@ -7,40 +7,14 @@
 
 Length: 90 mins
 
--Opening: stories are how we begin to understand each other; first step in our job search prep -- preview the other things we'll do but first we have to understand our own stories better... (5 mins)
--Turn & Talk: share the story (5 mins)
--Discuss storytelling elements, move towards characters and character arcs; who are you, why are you here, what's next? In order to tell our stories, let's connect with ourselves (5 mins)
--Our backstories (who are we?): (10 mins)
-   -Life Maps: where have you been? What lenses do you view the world through?
-   -I'll share mine
-   -You Do: Students create their own
--Our current state (why are we here?): (15 mins) 
-   -Reflect on struggles/values/strengths
-   -Share staff members' stories
-   -You Do: Answer specific questions in journals to share later, including strengths; peak experience so far at Turing -- how you've seen yourself using one of your strengths; The Reflection
-      Becoming more comfortable with owning what we're good at
--Our futures (what's next?): (10 mins)
-   -Think back to why you applied to Turing; what dreams do you envision for yourself? Where does your Turing story end?
-   -You do: Write/draw a vision statement
--Small Group Discussions: share as much as you're comfortable with for each of these 3 areas (25 mins)
-   -How do you think these differences/similarites will impact your cohort community? 
--Closing: Whole Group Takeaways: (10 mins)
-   -Storytelling: how can talking about these areas help us in our future careers?
-   -You Do: Finish Reflection
-
-
-* Opening (3 mins)
+* Opening (5 mins)
 * Turn & Talk (5 mins)
-* Discussion of our lenses
-    * Individual Reflection (10 mins)
-    * Small Group Sharing (20 mins)
-    * Whole Group Sharing (5 mins)
-* Storytelling using Strengths:
-    * Individual Reflection (10 mins)
-    * Pair & Share: Storytelling (20 mins)
-    * Whole Group Share Out (5 mins)
-* Lightning Talk Prep (10 mins)
-* Closing (1 min)
+* Discussion of storytelling elements (5 mins)
+* Backstories: who are you? (15 mins)
+* Current struggles and successes: why are you here? (15 mins)
+* Futures: what's next? (10 mins)
+* Group Discussions (25 mins)
+* Closing: Whole Group Takeaways (10 min)
 
 ### Opening 
 
@@ -101,74 +75,89 @@ Where have you come from? What lenses do you view the world through? We'll answe
 
 **You Do:** Students spend 10 minutes creating their life maps using the paper and markers provided. 
 
-### Current Struggles and Successes: Why are You Here?
-  -Reflect on struggles/values/strengths
-   -Share staff members’ stories
--StrengthsFinder in here somewhere...
-   -You Do: Answer specific questions in journals to share later, including strengths; peak experience so far at Turing -- how you've seen yourself using one of your strengths; The Reflection
-      Becoming more comfortable with owning what we're good at
+### Current Struggles and Successes: Why Are You Here?
+In this stage of storytelling, let's examine our struggles, our identifying characteristics, and our successes. 
 
-
-
-
-### Small Group Share
-
-Students will get into groups of 4 to discuss key takeaways from their individual reflection. Each group member should get 3 minutes to talk (uninterrupted about the first two reflection questions). Assign someone to keep time. You will have additional time in your group after everyone shares. With that additional time, discuss your ideas for this final question:
-
-* How can we operate as a community to build on our similarities and learn from our differences?
-
-### Whole Group Share 
-1-3 groups' presenters share their groups discussion of *"How do you think these differences/similarites will impact your community?"* 
-
-### Storytelling: Strengths Through Adversity
-Another rule from Emma Coats is:
+Another rule from Emma Coats states:
 
     You admire a character for trying more than for their successes.
 
-This is because we want to root for a character to overcome struggles and adversity. Now think about how you've changed and struggled since starting at Turing. How have you worked through those struggles? How have you used your StrengthsFinder themes to do that? How have you succeeded? How did your strengths help you?
+This is because we root for a character to overcome struggles and adversity. As the character in our own stories, we need to be able to access our vulnerabilities to authentically tell this part of our story -- *and our listeners will thank us for it because this is how they relate to us.* 
 
-#### You Do: Add to your Story
-Continue to exercise your storytelling skills by adding to what you've expressed about yourself today. You've defined who you are, now think about how your character has developed thus far at Turing by writing about these 3 areas in a gist for your reflection [using this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+Let's here from some Turing staff on this aspect of their stories:
 
-* Write 1-2 paragraphs about your StrengthsFinder themes:
-      How have you seen yourself using these strengths at Turing? Has your understanding of these strengths changed since you first reflected on them? If so, how? 
-* Write a story about your Turing experience so far:
-    When have you struggled? How have you dealt with struggle? When have you succeeded at Turing? How did you accomplish those successes?
-* Answer the question: how does your Turing story end? Create a vision for your future and your career transition into being a junior developer.
+* Jeff's story of struggle:
+      
+      I remember really struggling when I first started learning about functional programming. At that point I had been 
+      writing code for 15 years. I started to see that the anxiety about not "getting it" was actually preventing me from 
+      getting it. When I don't understand what I'm doing I like to copy, modify, create. I take something that I know works, 
+      from the web or a book or whatever, and just type that out and make it run. Then I start tweaking things. What if I 
+      rearrange two lines, change some numbers or values, that kind of thing. I think of it as "pulling on" the code, seeing 
+      how it flexes and changes. Then I delete a chunk of the code and try to write it myself.
+   * What is the challenge here?
+   * How did he overcome it?
+   * How does this help you understand Jeff more?
 
+* Victoria's description of her journey:
+    
+      I view the world through the lens of growing up in a lower-middle-class children-of-immigrants family (my parents' 
+      parents' all fled Lithuania during World War II). Sometimes my parents would speak Lithuanian to keep us from hearing &
+      I rarely spoke with my grandparents because they spoke mostly Lithuanian. My father's company was based in Lithuania and
+      they got repeatedly downsized until it was only that branch left & he chose to move back there around 1990 and has lived
+      in Vilnius ever since. My siblings and I grew up fairly religious and all that history, combined with my natural
+      inclination to be introverted, made me very quiet, reserved and well-behaved kid. When I grew to understand many things
+      that upset me about my religion and religion in general, I began to question everything and this sparked a highly
+      curious and fairly rebellious stage of my life. I explored many different realms of work and various passions, and
+      especially loved to challenge norms by taking on roles normally held by males. That led to being a nomadic farmer and
+      cab driver for 5 years. The farming work-trades, apprenticeships, & jobs were the most unique and eye-opening
+      experiences of my life, but ironically none of it was financially sustainable for me in the long-run. The cab life also
+      became draining, risky, and isolating. So I decided I wanted a decent day job that could offer me a means to pay off my
+      debts and eventually sponsor interesting opportunities for friends and loved ones. I really hope to eventually implement
+      my newly-gained developer skills in tools for farmers, games for scientific education and resources to enhance political
+      memory.
+   * How would you describe Victoria as a character in this story? How do you know?
+   * What character arc is developing here?
+   * How does this help you understand Victoria more?
+
+In order to tell the arc of our characterization at Turing, we need to be able to also own what we're good at and the successes that we have. One of the best ways to do that is to recognize our strengths, and luckily, StrengthsFinder has done some of that work for us. Now we need to actually own those strengths in action. 
+
+**I Do:** Facilitator models a reflection on one of their StrengthsFinder strengths to discuss how it's helped them overcome a challenge.
+
+**You Do:** Spend 5 minutes answering these questions that are part of your deliverable reflection:
+
+* Write 1-2 paragraphs about your StrengthsFinder themes: How have you seen yourself using these strengths at Turing? Has your understanding of these strengths changed since you first reflected on them? If so, how?
+
+* Write a story about your Turing experience so far: When have you struggled? How have you dealt with struggle? When have you succeeded at Turing? How did you accomplish those successes?
+
+### Future Vision: What's Next?
+Think back to why you applied to Turing; what dreams do you envision for yourself? Where does your Turing story end?
+
+Solicit responses from 3-4 people.
+
+Let's make these dreams a reality by creating a vision statement. This statement should utilize the first person ("I will...") and include concrete details to fully express where you want to go. 
+
+**You Do:** Students spend 6 minutes writing or drawing out a vision statement. 
+
+### Small Group Share
+
+Students will get into groups of 4 to share as much as their comfortable from each section of their personal stories. Each group member should get 5 minutes to share, and then as a group, answer this question:
+
+* By sharing our stories with one another, how can we as a community build on our similarities and learn from our differences?
+
+Be prepared to share your answer with the whole group. 
+
+### Closing: Whole Group Takeaways
+1-3 groups' presenters share their groups discussion on the above question as well as these takeways:
+
+* What are particularly easy or difficult about sharing your stories with each other?
+* How can talking about these 3 areas (who are we, why are we here, what's next) help us in our future careers? 
+
+#### Next Steps
 It's important to remember that each of these pieces of your story is a draft. You're continuing to grow and learn, and thus your story will change. But this is about starting with our first draft and getting better at refining it as we go through the program. 
 
-### Pair Up: Telling Our Stories
-Find a partner with which to share your Turing experience. The objective here is to work on telling your story by building in specifics of how you're developing your strengths at Turing. Make sure to include:
+**Right Now:** Finish your [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md) using what you worked on in this session for your deliverable due Monday of Week 6. 
 
-* How you're using strengths at Turing
-* How you've struggled and/or succeeded at Turing
-* What's next for you -- what's your vision?
-
-You'll have 3 minutes to tell your story, and then your partner will give you 1 minute of feedback on what they heard and ask clarifying questions. Do they have a clear understanding of your story based on how you told it?
-
-Then you'll switch. We'll do 2 rounds of sharing to practice our storytelling skills. 
-
-### Whole Group Share Out
-Share takeaways from your sharing experience:
-
-* What was easy about this?
-* What was difficult?
-* What else do you want to keep in mind when it comes to telling your story?
-
-### Work on Lightning Talk Slides 
-As your prepare for graduation, you'll be asked to tell the story of your Turing experience in a 5-minute Lightning Talk. Today we will start preparing the slides that you will use for that talk.  In your notebooks, write about how you would design slides and what you would want to be on the slides. Consider how particular images contribute to telling your story.  These are three slides you should focus on at this time:
-
-* Where are you from?
-* What brought you to Turing?
-* What do you hope to accomplish during your time here?
-
-Examples of presentation slides: 
-
-* [Matt Kaufman, 1608-FE](http://slides.com/mattkaufman/deck#/)
-* [Ali Schlereth, 1608-BE](https://github.com/turingschool/career-development-curriculum/blob/master/files/Ali_LightningTalk.pdf)
-* [Noah Berman, 1608-BE](https://github.com/turingschool/career-development-curriculum/blob/master/files/noah_berman_last_day_presentation.pdf)
-
-### Closing
-
-On graduation day, cohorts have the opportunity to share their reflections on their time here.  Over and over again, students comment that they wish they had shared more of their stories sooner, that they wish they had spent more time understanding each other and what experiences brought each person here. Consider ways that you can share your stories, the things that you value, and what you are hoping for in the upcoming weeks. The more connections you can make, the better you will be able to work together towards success.  
+**Looking Ahead:** 
+* Module Two: Dive more deeply into your *professional* story
+* Module Three: Tell your story through resumes, cover letters, and the Turing portfolio
+* Module Four: Tell your Turing story through end-of-module lightning talks; On graduation day, cohorts have the opportunity to share their reflections on their time here.  Over and over again, students comment that they wish they had shared more of their stories sooner, that they wish they had spent more time understanding each other and what experiences brought each person here. Consider ways that you can share your stories, the things that you value, and what you are hoping for in the upcoming weeks. The more connections you can make, the better you will be able to work together towards success.  
