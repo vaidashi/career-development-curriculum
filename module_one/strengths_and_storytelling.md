@@ -53,10 +53,10 @@ Length: 90 mins
 #### Deliverables
 * Complete the [Strengths & Storytelling Reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md) for your M1 PD deliverables that you'll submit [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
 
-* Begin working on your Module 4 End-of-Turing Lightning Talk. We'll start on the slides for that today. 
-
 #### The Why: Why Telling Your Story is Important
-You are a member of the software industry now, and as you start connecting with others in the industry, you need to be able to tell the story of your transition -- how did you get here? How do you uniquely make up a part of this industry? 
+Stories are how we connect with each other. From fairy tales to novels to movies to podcasts, stories provide a way for people to share their experiences with others, building empathy and awareness of our universal experiences.
+
+Storytelling is our first step in the job search at Turing. You are a member of the software industry now, and as you start connecting with others in the industry, you need to be able to tell the story of your transition -- how did you get here? How do you uniquely make up a part of this industry? 
 
 In this session and throughout your career development at Turing, we'll focus on how you can craft a compelling story to describe who you are, how you came to this industry, and where you see yourself going. This is a story that you'll tell employers, colleagues at networking events, and even your Turing community. A long, long time from now, when you are ready to graduate, you will give a lightning talk about your experiences at Turing. Today we are going to start that lightning talk by sharing more about what brought you here and what you hope to accomplish. This is the start of you being able to tell your story professionally and find the right match for your future career.
 
@@ -69,7 +69,7 @@ Let's start by thinking about stories. What do you love about stories? Emma Coat
 
 What stories stick with you and why? Think of a story that you love; maybe it's a story from childhood, maybe it's a book you just finished reading, or maybe it's a story that has been passed down through your family. Turn to the person next to you and take 2 minutes to retell that story, and then switch.
 
-**Quick Debrief:**
+**Whole Group Debrief:**
 
 Sharing from 1-2 people:
 
@@ -77,14 +77,39 @@ Sharing from 1-2 people:
 * How did your partner tell the story? 
 * What made the story interesting?
 
-### Individual Reflection 
-Now it's time to think about your own story and about yourself as a compelling character. In your journals, reflect on the following questions:
+This brings us to the elements that make up a good story -- what are they?
 
-* What brought you here to Turing and this new career?  
-* What lenses or identities do you view the world through most often? (Examples of lenses:  gender, ethnicity, family, birthplace, culture, parental status, etc.)
-* What are the values that drive you?
-* How do you think you demonstrate those values to people around you?
-* Could other people identify your values from your actions/words/presence? Why or why not?
+Possible answers: consistent theme, protagonist who faces and overcomes challenges, a journey of some kind, sequential plot that shows a beginning middle and end.
+
+**Connection to You:**
+These elements are present in your story as well. You are the main character, undergoing challenges, experiencing a journey, and revealing the narrative thread through your own theme.
+
+There are 3 main questions to help us understand our own stories and our character arcs:
+* Who are you?
+* Why are you here?
+* What's next?
+
+We'll start building our stories by connecting with ourselves through these 3 questions to describe:
+* Our backstories
+* Our current struggles and successes -- *a turning point*
+* Our futures
+
+### Backstories: Who Are You?  
+Where have you come from? What lenses do you view the world through? We'll answer these questions through life maps.
+
+**I Do:** Facilitator shows off their life map to demonstrate how to outline one's backstory. Note: this is an opportunity to share information about your backstory and how your highs and lows have shaped your pathway here.
+
+**You Do:** Students spend 10 minutes creating their life maps using the paper and markers provided. 
+
+### Current Struggles and Successes: Why are You Here?
+  -Reflect on struggles/values/strengths
+   -Share staff members’ stories
+-StrengthsFinder in here somewhere...
+   -You Do: Answer specific questions in journals to share later, including strengths; peak experience so far at Turing -- how you've seen yourself using one of your strengths; The Reflection
+      Becoming more comfortable with owning what we're good at
+
+
+
 
 ### Small Group Share
 
