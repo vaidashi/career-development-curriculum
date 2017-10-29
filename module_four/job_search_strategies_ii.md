@@ -43,7 +43,7 @@ The post-grad plan will ask you to complete action steps in the following catego
 * Identifying an additional social media/networking tool (blogging, planning meetup/conference talks, participating in hackathons or open source projects) that you will use in your job search
 
 **If you already have a job offer secured, please rate yourself regarding the second part of the job search plan:**
-* Identifying 1-2 poeple from your PD peer group who you will check in with during the first 30 days
+* Identifying 1-2 people from your PD peer group who you will check in with during the first 30 days
 * Identifying an area you are skilled to help these people with and how confident you are with that help
 * Identfying 1-2 people from your job search who you can recommend others from your cohort to
 * Making the introductions to people you'd recommend
