@@ -1,9 +1,13 @@
-# Feedback I
+# Feedback I (Module One, Week Three)
+
 ## Facilitator Guide
 
 ### Session Outcomes
 
-* Students are able to
+* Students are able to understand and recognize the three triggers of feedback
+* Students are able to define and understand the 3 different kinds of feedback
+* Students are able to analyze intent vs. impact, blind spots, and biases
+* Students are able to use specific, actionable, and kind principles to deliver meaningful feedback
 
 ### Logistics
 
@@ -24,7 +28,7 @@ Length: 60 minutes
 * Kinds of Feedback (17 mins)
 * Intent vs. Impact & Blind Spots (16 mins)
 * Example (5 mins)
-* Writing (8 mins)
+* Writing (8 mins) -- *if time*
 
 
 | Timing | Facilitator Talking Points | Participant Actions |
@@ -40,5 +44,5 @@ Length: 60 minutes
 | 15 mins | Introduce conversation practice. Have the students first write in their journals what key points they need to discuss and how they will do that. Also, as posted on the slide, have them think about how to use their listening skills during the conversation. Then have students move into their project groups to have their feedback discussion. Reflections should be about 5 minutes and conversations should be about 10 minutes | Students write in their journals and then sit with project groups to deliver feedback to each other. |
 | 5 mins | Close with the last slide discussing next steps and have students reflect on this practice in their journals with the posted reflection questions | Students write in journals silently |
 
-  
- 
+
+
