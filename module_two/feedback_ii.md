@@ -184,7 +184,6 @@ Now is the time to prepare for giving feedback to your project partners in conve
 * FE: Game Time (1 partner)
 
 * 1. **Reflect:** Write down any key points, think about how you can clearly explain your intent, and take into consideration what kind of feedback you need from the other 
-    Also, consider how you will incorporate active listening into this conversation -- what do you need to do to ensure that you're able to practice those 5 steps from the article? 
 * 2. **Schedule the conversation:** 
       When you have the conversation, make sure to follow the Open-Body-Close format for this conversation, and ask clarifying questions. 
 * 3. **Plan for follow-up:** This is one conversation on how the project went, but consider any conversations you may want to have after taking time to absorb the feedback
