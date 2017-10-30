@@ -48,12 +48,16 @@ Turn & Talk:
 
 2-3 groups share out. 
 
-### Review: Blind Spots
+### Review: Blind Spots & Biases
 Blind spots are always present as a gap between the self we think we present and the self that others see. Even with good intentions, your thoughts and feelings can affect the impact of your communication through behaviors that you don't always notice. These can include:
 
 * Your facial expressions
 * Your tone of voice
 * Your behavior patterns
+
+Biases are present unconciously or consciously:
+* Positive bias towards someone can cause us to not give necessary constructive feedback
+* Negative bias towards someone can cause us to be overly critical in our feedback
 
 #### Whole Group Discussion:
 
