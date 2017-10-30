@@ -111,7 +111,7 @@ When a partner is not following through on expectations, the first step is to wo
 ### Facilitating the Conversation
 Now that you’ve identified a motivation behind your partner’s behavior, how do you conduct a conversation to change that behavior?
 
-* **Establish safety**: you’re about to address something sensitive with another person and he/she may feel threatened in one way or another.
+* **Establish safety**: you’re about to address something sensitive with another person and they may feel threatened in one way or another.
 	* **Mutual Respect**: People feel unsafe when they don’t feel mutual respect
 		* **Fix**: calm tone of voice, facial expressions, and using respectful language
 		* Ask for permission to speak with your partner
