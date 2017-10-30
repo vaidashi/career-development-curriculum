@@ -1,18 +1,21 @@
 # Job Search Strategies I
 
-Session Time: 90 minutes
+Session Time: 60 minutes
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1ncfDn8PO3bRTwZbNPU01w0kbHGvofLjupUzYBQZ_IVI/edit?usp=sharing)
 
-## Objectives
-* Identify your top priorities in your job search during Module 4
-* Identify and utilize effective job search strategies
-* Devise an action plan for Module 4 (you will use this plan when meeting with Meg)
+Structure:
+* Opening (5 mins)
+* 
+* 
+* Take survey and create a plan to get your edits done (10 mins)
+* Work time??
 
-## Deliverable
-By the beginning of week 6, you should submit your [Module 4 Job Search Action Plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md) to Meg via the Career Development Submissions folder [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
+-Build on what they've done so far to identify priorities for the job search (to help with backwards planning, how they want to ask for help from coaches and peer groups, what steps they should start to plan for...); Show how to create priorities with the Flower Exercise
+-Create list of must-haves and nice-to-haves based on this; 
+-Start to create a calendar; using your research so far, start to create a plan....
 
-# Opening
+### Opening
 Job searching brings up a lot of questions:
 
 * What do you want to do after you complete Turing? 
@@ -22,12 +25,24 @@ Job searching brings up a lot of questions:
 * Will you work on a product that impacts your learning exponentially? 
 * Are you open to traveling for consulting or do you prefer to stay put in a single location?
 
-Trying to answer all of these questions can feel overwhelming, but in this session, we'll discuss strategies for distilling your thoughts into a plan for approaching and completing your job search successfully.  
+Trying to answer all of these questions can feel overwhelming, but in this session, we'll discuss how you can pull together all the professional development this module to help you answer these questions...
+
+
+
+### Objectives
+* Identify your top priorities in your job search
+* Identify and utilize effective job search strategies
+* 
+
+### Deliverables
+Complete your resume edits
+Complete your Turing portfolio
+
+ 
 
 # Four Step Process
-We'll break this down into a 4-step process:
 
-* Define Who You Are & Where You Want to Go
+
 * Decide on Priorities
 * Create a Plan
 * Goal Setting
@@ -88,16 +103,20 @@ Setting goals will help guide your final set of scheduling and priorities. Set y
 * Based on the weekly goal(s), what would need to happen on a daily basis to reach the weekly goal(s)? 
 	* If I want at least 2 new conversations per week, I would need to send at least 1 cold/warm outreach emails per day
 
-**Goal-setting Tips:** Spend thirty minutes each day and an hour each week assessing how your tasks align with your goals. Make adjustments as needed -- it's so important to be flexible, kind to yourself, and realistic with time.
+
+
 
 ### Your Turn
-Identify your longterm goal first -- what do you want to have accomplished by the last day of Module 4? Then break it down into smaller goals of what you can accomplish.
+Fill out the survey for Module 4 PD Peer Groups. 
 
-**Keep in mind:** 
-Your Mod 4 deliverables include 6 cold outreach emails, participating in an actual or practice interview, and completing a [post-grad plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). Since you will need to complete those deliverables, include them in your Module 4 plan!
+Answer these questions that were posed at the beginning of the session:
 
-## Closing
-* Be flexible, kind to yourself, and realistic with your time. 
-* If something isn’t working, try something different
-* Schedule a 1-on-1 with Meg to discuss this plan and any adjustments at [https://megstew.youcanbook.me](https://megstew.youcanbook.me) password: complete
+* What do you want to do after you complete Turing? 
+* What do you want to do on a daily basis? 
+* What do you want from your career in the longterm? 
+* How do you see yourself contributing to technology? 
+* Will you work on a product that impacts your learning exponentially? 
+* Are you open to traveling for consulting or do you prefer to stay put in a single location?
 
+### Closing
+Create a plan to get your resume and Turing portfolio finished by next week's portfolio review. 
