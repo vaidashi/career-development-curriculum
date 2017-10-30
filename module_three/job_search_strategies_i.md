@@ -6,12 +6,11 @@ Session Time: 60 minutes
 
 Structure:
 * Opening (5 mins)
-* Priorities (12 mins)
-* Expertise (10 mins)
-* Playing a part (12 mins)
-* Job search logistics (10 mins)
-* Closing:
-	* Take survey and create a plan to get your edits done and what you will share in your portfolio review (10 mins)
+* Priorities (15 mins)
+* Expertise (12 mins)
+* Playing a part (15 mins)
+* Job search logistics (8 mins)
+* Closing (5 mins)
 
 ### Opening
 This job search brings up a lot of questions:
@@ -80,30 +79,46 @@ You've completed almost three out of four modules of this program, and you've ma
 **Pair & Share:** Pair up with a new partner to discuss your expertise and present your project and portfolio as though you are talking to a potential employer. Your partner will give you feedback on how well they understood your project and what you are an expert in. 
 
 ### Future Contributions: Claim Your Place in the Industry
-By attending this program, you have staked a claim in the software industry. 
+By attending this program, you are making a place for yourself in the software industry, and now that you're finishing the program soon, you can claim that place even more fully. Consider: what ways will you add your unique voice to the industry in the future? Some things you can think about in regards to this:
 
-What are ways that you can add your unique voice to the industry in the future?
+* Networking (attending events and conferences to make connections; joining a networking group)
+* Speaking (meetups, conference talks)
+* Blogging
+* Social media
+* Contributing to open source
+* Starting your own company
+* Mentoring
+* Volunteering to teach others to code
+* Participating in hackathons
 
-Create a list of the ways in which you already feel comfortable 
+**You Do:**
+* Create a list of the ways in which you already feel comfortable contributing to the industry -- what is already in your wheelhouse to complete? What are you currently doing?
+* Now think about something either from the above list or something that isn't listed that makes you uncomfortable. How can you push yourself to try that activity despite the discomfort you may feel? How might it be rewarding for you? 
 
-* How will you contribute to the software industry in the future?
-	* What is in your comfort zone and toolbox already?
+**Pair & Share:** With a partner, discuss 1 thing you can comfortably do in the industry as well as 1 thing that you would need to push yourself to try. Then discuss:
+* Why might it be important to contribute to the industry outside of writing code for your job? 
+* How could this help you with your job search?
+* How could you seek out resources to help you with the parts that make you uncomfortable? 
 
+### Job Search Logistics: Get Practical
+Finally, let's think about what you need from the job search in terms of how quickly you need a job and what steps you will take to make that happen. 
 
+Effective job searches take some backwards planning, starting with analyzing what is at stake in your job search. Think about your financial situation and any upcoming activities in your life outside of looking for a job to answer the question:
 
+* When do you need to have a job by? 
 
+Work backwards from that date to consider these questions for yourself:
 
-
-
-
-
-
-
+* If I need a job by X date, what do I need to do each month/week/day to make that happen?
+* Who will I rely for support? Who will I use for resources? 
 
 ### Your Turn
-Fill out the survey for Module 4 PD Peer Groups. 
+Decide for yourself answers to the above questions, and fill out the survey for Module 4 PD Peer Groups.
 
-Answer these questions that were posed at the beginning of the session with a summary of what we worked on....:
+### Closing
+Create a plan to get your resume and Turing portfolio finished by next week's portfolio review. 
+
+As you finish up Module 3, continue to come back to these questions that we posed at the beginning of the session. Assess how confident you feel to answer any of these as you keep going with your job search:
 
 * What do you want to do?
 	* What do you want from your career in the longterm?
@@ -116,6 +131,3 @@ Answer these questions that were posed at the beginning of the session with a su
 * Logistics:
 	* When do you need a job by? 
 	* What steps do you need to take to secure that job?
-
-### Closing
-Create a plan to get your resume and Turing portfolio finished by next week's portfolio review. 
