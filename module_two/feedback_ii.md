@@ -118,7 +118,28 @@ NVC Framework follows these steps:
 * Needs: You can't figure out what you need until you reflect on your feelings; use positive language and make needs clear
 * Requests: Express clearly and ask for a reflection
 
-All of these steps of reflection should take place *before* you have the feedback conversation to clarify 
+All of these steps of reflection should take place *before* you have the feedback conversation to clarify your points.
+
+#### Turn & Talk
+Find a partner to discuss the following scenarios.
+
+**Scenario #1: "Don't be so quiet"**
+
+Possible alternative: "I'd like to hear you contribute your thoughts more often."
+
+**Scenario #2: "I feel inadequate because when I've brought up ideas you haven't been willing to try any of them out today."**
+
+Possible alternative: We might add "...and I need you to acknowledge my ideas, discuss them with me, and try them sometimes."
+
+**Scenario #3: "I feel you are not giving 100% to this.”**
+
+Possible alternative:  “I feel frustrated that you have not been able to be here this week to work on our project.  Could we agree on times that we can work on this together so that we can both be focused on the same thing?” 
+
+For each of the above, discuss:
+
+* What could be a blind spot here? Tone of voice -- you don’t want to come across as passive aggressive
+* How do you feel about these alternatives?
+* Would you say anything different to try to realign intent and impact more?
 
 ### Switchtracking
 When you're receiving feedback in a conversation, it's easier to fall prey to our triggers because we're experiencing them right in the moment. We often experience relationship triggers during a feedback conversation because of the way the other person delivers the feedback. A common reaction to this trigger is Switchtracking. Switchtracking occurs when we stop listening to what the person is saying and instead focus on our issues with the person. Here's what it looks like:
