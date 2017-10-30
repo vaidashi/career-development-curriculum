@@ -6,32 +6,28 @@
 
 Time: 60 minutes
 
-* Opening
-* Intro to outreach
-* Outreach practice
-* Intro to networking
-* Networking planning
-* Takeaways/Closing
+* Opening (5 mins)
+* Intro to outreach (15 mins)
+* Outreach practice (10 mins)
+* Intro to networking (10 mins)
+* Networking planning (10 mins)
+* Takeaways/Closing (5-10 mins)
 
 ### Objectives
-* Understand why cold outreach is effective for establishing professional relationships
-* Implement strategies to contact mentors, alumni, and/or professional contacts who you'd like to meet
-* Build a sustainable and meaningful relationship with a mentor
+* Understand why outreach and networking are effective strategies for the job search
+* Create and implement strategies to contact mentors, alumni, or professional contacts who you'd like to meet
+* 
 
 ### Deliverable
-You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
+Provide a plan for how you'll utilize outreach and networking during Module Three using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
 
 ### Opening
-In the technology industry, moreso than in other industries, getting ahead in your career comes down to who you know. Establishing strong connections with those in the technology community starts while you're at Turing and will be a focal point of your job search. 
+In the technology industry, even moreso than in other industries, getting ahead in your career comes down to **who you know.** Establishing strong connections with others in the technology community starts while you're at Turing and will be a focal point of your job search. 
 
 In this session, we'll focus on how you can start building those relationships through utilizing the practices of outreach and networking. 
 
-### The Why
-**Why should I reach out to mentors?** 
-For one, they are already a part of your community here and can provide a wealth of knowledge to you not only on how to be successful at Turing but important information on entering the software industry. They also **want** you to reach out to them -- they've volunteered to be a part of the mentorship program. 
+### What This Looks Like
 
-**Why cold outreach? Why can't mentors just be assigned to students?** 
-First, we don't have the bandwidth to assign mentors. And even if we did, who's to say we'd create the best match for you? Learning how to reach out to others and create a network is an important skill for you to be successful in this industry, and it is also how you'll create the most meaningful relationships possible. 
 
 **Discussion:**
 Show of hands of who in the class has reached out to mentors and who hasn't.
