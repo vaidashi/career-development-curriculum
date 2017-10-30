@@ -124,7 +124,7 @@ Now that you’ve identified a motivation behind your partner’s behavior, how 
 	* Start with **Facts**. What exactly happened? *Be careful of **NOT** inserting your opinion of what happened.*
 		* “We agreed that we would make big decisions together, but during the check-in, you told our instructor that you had already decided to implement that new feature before you discussed it with me.”
 	* Describe how the incident made you feel:
-		* “When you said that, it made me feel like you didn’t value my input and that you weren’t taking our expectations seriously.”
+		* “When you said that, it made me feel frustrated because I didn't think you valued my input and you weren’t taking our expectations seriously.”
 	* **Ask** for the other person’s side:
 		* “What is your take on this?”
 * Following up after stating your side:
