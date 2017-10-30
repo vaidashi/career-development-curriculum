@@ -6,102 +6,96 @@ Session Time: 60 minutes
 
 Structure:
 * Opening (5 mins)
-* 
-* 
-* Take survey and create a plan to get your edits done (10 mins)
-* Work time??
-
--Build on what they've done so far to identify priorities for the job search (to help with backwards planning, how they want to ask for help from coaches and peer groups, what steps they should start to plan for...); Show how to create priorities with the Flower Exercise
--Create list of must-haves and nice-to-haves based on this; 
--Start to create a calendar; using your research so far, start to create a plan....
+* Priorities (12 mins)
+* Expertise (10 mins)
+* Playing a part (12 mins)
+* Job search logistics (10 mins)
+* Closing:
+	* Take survey and create a plan to get your edits done and what you will share in your portfolio review (10 mins)
 
 ### Opening
-Job searching brings up a lot of questions:
+This job search brings up a lot of questions:
 
-* What do you want to do after you complete Turing? 
-* What do you want to do on a daily basis? 
-* What do you want from your career in the longterm? 
-* How do you see yourself contributing to technology? 
-* Will you work on a product that impacts your learning exponentially? 
-* Are you open to traveling for consulting or do you prefer to stay put in a single location?
+* What do you want to do?
+	* What do you want from your career in the longterm?
+	* On a daily basis? 
+* What areas do you consider your expertise?
+	* How do your current projects show that?
+* How will you contribute to the software industry in the future?
+	* What is in your comfort zone and toolbox already?
+	* How will you push yourself?
+* Logistics:
+	* When do you need a job by? 
+	* What steps do you need to take to secure that job?
 
-Trying to answer all of these questions can feel overwhelming, but in this session, we'll discuss how you can pull together all the professional development this module to help you answer these questions...
-
-
+Trying to answer all of these questions at once can feel overwhelming, but in this session, we'll discuss how you can pull together all the professional development pieces you've worked on this module (your resume, your professional story, your flower exercise, your research, your job shadowing experience) to help you answer these questions one by one.
 
 ### Objectives
 * Identify your top priorities in your job search
-* Identify and utilize effective job search strategies
-* 
+* Identify your industry expertise at this point in the program
+* Describe how you'd like to contribute to the software industry and make plan that relies on your current expertise and will push you to do more in Module 4
+* Decide when you will need to complete you job search and what steps are needed to make that happen
 
 ### Deliverables
-Complete your resume edits
-Complete your Turing portfolio
+* Complete your resume edits
+* Complete your Turing portfolio
+* Complete PD Peer Groups Survey
 
- 
-
-# Four Step Process
-
-
-* Decide on Priorities
-* Create a Plan
-* Goal Setting
-
-## Step One: Define Who You Are & Where You Want to Go
+### Decide on Priorities: What do you want to do (longterm)? 
 The Flower Exercise forced you to take a deeper dive into what skills, knowledge, and values have informed your professional journey thus far, and we'll build on those reflections to analyze how our career could provide us with the opportunities we seek. 
 
 How can you do that? Start by looking at your completed Flower Exercise. What bullet points stick out to you as most important in describing who you are? How can you take the most important bullets and combine them into a career you love?
 
 **I Do:** Allison will model how she might create a professional summary about herself using her Flower Exercise:
 
-* I value helping others reach their fullest potential, and my skills in coaching, active listening, and providing feedback ensure that I can be successful in a career that does just that. I hope to combine my passion and knowledge around curriculum-planning to coach others on a wider spectrum, and I also hope to do this work in a way that provides the right work-life balance to allow me to pursue my passion for writing as well. 
+* I value helping others reach their fullest potential, and my skills in coaching, active listening, and providing feedback ensure that I can be successful in a career that does just that. For my next job search, my priorities are to find a job that combines my passion and knowledge around curriculum-planning to coach others on a wider spectrum, and I also hope to do this work in a way that provides the right work-life balance to allow me to pursue my passion for writing as well. 
 
 ### Your Turn
-**Write:** Spend five minutes analyzing your Flower Exercise and writing out a draft of who you are and what you're looking for. 
+**Write:** Spend five minutes analyzing your Flower Exercise and list your biggest priorities in the job search based on what you've discovered. Priorities could include: physical location, industry, size of company, team culture, diversity makeup, technologies, flexibility, salary amount, types of benefits, mentorship, etc. 
 
-**Pair & Share:** Pair up with someone else to share your draft. Your partner will repeat back to you what they heard you say in order to convey how clear this draft is. Make sure to ask each other questions if there is something you're unsure of in the summary. You'll then be able to go back and revise this draft of what you're looking for. 
+### Decide on Priorities: What do you want to do (on a daily basis)?
+Using what you just discussed, think about what this can look like in a day-to-day job. Then create two columns, labelled "Must-Have" and "Nice-To-Have":
 
-**Extension:** Having trouble with your resume and/or LinkedIn summaries? Workshop this summarized definition of who you are to revise your summaries for those tools. How might you incorporate your strengths into this summary as well?
+* If you could only have five of those things, which five would it be?
+* Move the rest to the "Nice-to-Have" list
+* If you could only have one of the things in your list of five, which would it be?
+* Prioritize based on how you narrowed it down and identify why they are prioritized in this order
 
-## Step Two: Decide on Priorities
-Now that you have an idea of where you want to go, it's time to decide on what priorities will help you get there. Similar to your priorities when apartment-hunting, job searching is easier to navigate when utilizing a list of must-have's and nice-to-have's. It's important to know what is a deal breaker and when you are being too picky. In the case that you do not find a position with all the items on your list, what are you willing to forego for a great first job as a developer?
+**Pair & Share:** Pair up with someone else to share your priorities, both for your longterm career and your "must-haves." Your partner will repeat back to you what they heard you say in order to convey how clear this list is. Do your partner's "must-haves" align with their goals and career trajectory? 
 
-Priorities could include: physical location, industry, size of company, team culture, diversity makeup, technologies, flexibility, salary amount, types of benefits, mentorship, etc. 
+### Show Your Expertise: Your Projects & Portfolio
+You've completed almost three out of four modules of this program, and you've made A LOT of progress -- *you're ready to share this expertise with the world!* The first way you'll do this is through your [Turing portfolio](turing.io/alumni). You'll discuss this portfolio with your instructors during your end-of-module portfolio review. This is an excellent opportunity to:
 
-### Your Turn
-Using your Flower Exercise, sketch out a list of things you'll be looking for in a job as a software developer. Then create two columns, labelled "Must-Have" and "Nice-To-Have":
+* Own the progress that you've made and your expertise
+* Practice talking about yourself
+* Practice describing a project
 
-- If you could only have five of those things, which five would it be?
-- Move the rest to the "Nice-to-Have" list
-- If you could only have one of the things in your list of five, which would it be?
-- Prioritize based on how you narrowed it down and identify why they are prioritized in this order
+**You Do:** Prepare to defend your Turing portfolio.  Reflect on the projects you've worked on and which specific project you've chosen to highlight on your Turing portfolio.
 
-**Pair & Share:** Share your lists with the same partner you discussed your story with. Do your partner's "must-haves" align with their goals and career trajectory? 
+* What is your area of expertise (where are you strongest)?
+* Why did you pick this particular project?
+* How does it show what you know?
+* How could you describe this project to a potential employer in a synthesized way?
 
-## Step Three: Create a Plan & Schedule
-Job searching takes time, and you'll need to structure your search as part of your daily responsibilities. Both for module four and post-graduation, you'll need to build out a schedule that includes time for research, cold and warm outreach, networking, and coding. This schedule will look differently when you're in Turing versus after you complete Turing. For now, we'll focus on a plan for Module 4. 
+**Pair & Share:** Pair up with a new partner to discuss your expertise and present your project and portfolio as though you are talking to a potential employer. Your partner will give you feedback on how well they understood your project and what you are an expert in. 
 
-**Tips for sticking to your schedule:** 
+### Future Contributions: Claim Your Place in the Industry
+By attending this program, you have staked a claim in the software industry. 
 
-* Look at the schedule for Module 4, knowing that some projects may change but general deadlines will remain the same
-* Identify how many hours per week you can spend on job searching, even if it is only two hours per week
-* Block that time off on your calendar
-* Identify specific tasks to check off during that time based on weekly goals (see next step)
+What are ways that you can add your unique voice to the industry in the future?
 
-### Your Turn
-Create a draft of a schedule, including blocking off time on your calendar *now*.
+Create a list of the ways in which you already feel comfortable 
 
-## Step Four: Goal Setting
-Setting goals will help guide your final set of scheduling and priorities. Set your end of Module 4 goal first. For example, that could be: *"receive job offer by the end of Module 4 Week 6."* From there, work backwards to identify your module, weekly, and daily goals. Be mindful that there may need to be some adjustments to goals as you get into the job search. *That is okay and completely normal.* This plan is something that you'll provide to Meg, but she will work with you on any adjustments that need to be made. 
+* How will you contribute to the software industry in the future?
+	* What is in your comfort zone and toolbox already?
 
-**Strategy to approach this:** After setting your end of module goal, build a backwards plan.
 
-* Using the date by which you'd like to complete your longterm goal (in the example above, that is to receive an offer by the last day of module 4), identify what needs to happen on a monthly basis to reach that date. 
-	* If I want a job offer by the last day of module 4, I would need to have at least three interviews during the module.
-* Based on the module goal(s), what would need to happen on a weekly basis to reach that goal(s)?
-	* If I want at least three interviews within the module, I would need to have at least 2 new conversations per week.
-* Based on the weekly goal(s), what would need to happen on a daily basis to reach the weekly goal(s)? 
-	* If I want at least 2 new conversations per week, I would need to send at least 1 cold/warm outreach emails per day
+
+
+
+
+
+
 
 
 
@@ -109,14 +103,19 @@ Setting goals will help guide your final set of scheduling and priorities. Set y
 ### Your Turn
 Fill out the survey for Module 4 PD Peer Groups. 
 
-Answer these questions that were posed at the beginning of the session:
+Answer these questions that were posed at the beginning of the session with a summary of what we worked on....:
 
-* What do you want to do after you complete Turing? 
-* What do you want to do on a daily basis? 
-* What do you want from your career in the longterm? 
-* How do you see yourself contributing to technology? 
-* Will you work on a product that impacts your learning exponentially? 
-* Are you open to traveling for consulting or do you prefer to stay put in a single location?
+* What do you want to do?
+	* What do you want from your career in the longterm?
+	* On a daily basis? 
+* What areas do you consider your expertise?
+	* How do your current projects show that?
+* How will you contribute to the software industry in the future?
+	* What is in your comfort zone and toolbox already?
+	* How will you push yourself?
+* Logistics:
+	* When do you need a job by? 
+	* What steps do you need to take to secure that job?
 
 ### Closing
 Create a plan to get your resume and Turing portfolio finished by next week's portfolio review. 
