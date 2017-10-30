@@ -8,7 +8,7 @@ Structure:
 * Opening (5 mins)
 * Priorities (15 mins)
 * Expertise (12 mins)
-* Playing a part (15 mins)
+* Future Contributions (15 mins)
 * Job search logistics (8 mins)
 * Closing (5 mins)
 
@@ -95,7 +95,7 @@ By attending this program, you are making a place for yourself in the software i
 * Create a list of the ways in which you already feel comfortable contributing to the industry -- what is already in your wheelhouse to complete? What are you currently doing?
 * Now think about something either from the above list or something that isn't listed that makes you uncomfortable. How can you push yourself to try that activity despite the discomfort you may feel? How might it be rewarding for you? 
 
-**Pair & Share:** With a partner, discuss 1 thing you can comfortably do in the industry as well as 1 thing that you would need to push yourself to try. Then discuss:
+**Small Group Discussion:** Form a group of 3-4 people and discuss 1 thing each of you can comfortably do in the industry as well as 1 thing that each of you would need to push yourself to try. Then discuss:
 * Why might it be important to contribute to the industry outside of writing code for your job? 
 * How could this help you with your job search?
 * How could you seek out resources to help you with the parts that make you uncomfortable? 
