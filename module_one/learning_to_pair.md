@@ -72,7 +72,7 @@ Take time to define your expectations:
 	* “Yes” means that you’re expecting your partner to do all the work of defining expectations (even if you don’t agree with these expectations)
 	* “Yes and” means that you’re collaborating and building on each other’s ideas for the good of the group
 * Beware of the Paired Project Fallacy:
-	* My partner is better than I am OR I’m not as good as my partner.
+	* My partner is better than I am OR My partner is holding me back.
 * Why is this a fallacy?
 	* This is a fallacy because it discounts all the important skills you both bring to your partnership.
 	* If you don’t feel as strong in your technical skills, what are your strengths? How do your strengths balance out your partner’s? How can you contribute to the project management? What do you want to learn during this project to improve your technical skills?
