@@ -22,9 +22,9 @@ Time: 60 minutes
 You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
 
 ### Opening
-In the technology industry, moreso than in other industries, getting ahead in your career comes down to who you know. Establishing strong connections with those in the technology community starts while you're at Turing.
+In the technology industry, moreso than in other industries, getting ahead in your career comes down to who you know. Establishing strong connections with those in the technology community starts while you're at Turing and will be a focal point of your job search. 
 
-This is the first of two sessions about outreach. While this session is called Cold Outreach, we'll be looking at contacts within the Turing community, so this is more of "warm outreach," and it will give you experience and confidence to be able to build on your network and intiate true cold outreach during Module 4. Thus, your first objective as part of your networking practice is to make connections with others in the Turing community by utilizing our extensive mentorship community. 
+In this session, we'll focus on how you can start building those relationships through utilizing the practices of outreach and networking. 
 
 ### The Why
 **Why should I reach out to mentors?** 
