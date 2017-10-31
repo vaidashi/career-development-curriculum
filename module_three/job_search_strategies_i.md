@@ -1,16 +1,17 @@
 # Job Search Strategies I
 
-Session Time: 60 minutes
+Session Time: 90 minutes
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1ncfDn8PO3bRTwZbNPU01w0kbHGvofLjupUzYBQZ_IVI/edit?usp=sharing)
 
 Structure:
 * Opening (5 mins)
-* Priorities (15 mins)
-* Expertise (12 mins)
-* Future Contributions (15 mins)
-* Job search logistics (8 mins)
+* Priorities (20 mins)
+* Expertise (20 mins)
+* Future Contributions (25 mins)
+* Job search logistics (10 mins)
 * Closing (5 mins)
+* Extra time: students can spend time working on their deliverables (potentially 10 mins)
 
 ### Opening
 This job search brings up a lot of questions:
@@ -32,8 +33,8 @@ Trying to answer all of these questions at once can feel overwhelming, but in th
 ### Objectives
 * Identify your top priorities in your job search
 * Identify your industry expertise at this point in the program
-* Describe how you'd like to contribute to the software industry and make plan that relies on your current expertise and will push you to do more in Module 4
-* Decide when you will need to complete you job search and what steps are needed to make that happen
+* Describe how you'd like to contribute to the software industry and how you'll pursue these ideas in your job search
+* Decide when you will need to complete your job search and what steps are needed to make that happen
 
 ### Deliverables
 * Complete your resume edits
