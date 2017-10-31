@@ -28,7 +28,7 @@ What value is there in using feedback for personal growth? Why is this something
 * Create goals for how to improve your collaboration practices
 
 ### Deliverable
-Use your Johari Windows and coaching practice today to complete [this reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md) in a gist to submit via the [PD deliverables submission repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
+Use your Johari Windows and to complete [this reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md) in a gist to submit via the [PD deliverables submission repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
 
 ### Feedback Tests Our Growth Mindsets
 Review: what is a growth mindset? How do you think feedback might affect a growth mindset?
