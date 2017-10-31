@@ -28,4 +28,4 @@ Length: 90 minutes
 * Current struggles and successes: why are you here? (15 mins)
 * Futures: what's next? (10 mins)
 * Group Discussions (25 mins)
-* Closing: Whole Group Takeaways (10 min)
+* Closing: Whole Group Takeaways (5 min)
