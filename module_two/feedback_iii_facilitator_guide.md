@@ -9,14 +9,14 @@ Prior to the session, send out a Slack message to the cohorts to have them log i
 
 You’ll need to create groups for each student on the app with the people they’ve worked in projects with, both in M1 and M2. You’ll probably want to track this on a spreadsheet first and then create the groups in the app. For your reference, here are the paired or group projects that you’ll need to include:
  * B1: 
-  * M1 paired project #1 (varies)
-  * Black Thursday
-  * Bike Share
+   * M1 paired project #1 (varies)
+   * Black Thursday
+   * Bike Share
  * F1:
-  * Linked List
-  * IdeaBox
-  * 2DoBox
-  * Game Time
+   * Linked List
+   * IdeaBox
+   * 2DoBox
+   * Game Time
 
 You can find the partners from these projects in this [repo](https://github.com/turingschool/roster/tree/master/data); however, instructors do not always update this, so you may have to do some investigating, using both the M1 feedback sheets and anything posted in the instructor and/or cohort channels to let you know who’s paired with whom. *For any students who have paired with students who are repeating a previous module or have withdrawn from the program, don’t worry about including them in the groups*
 
