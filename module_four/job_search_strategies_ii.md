@@ -9,7 +9,7 @@ Length: 60 minutes
 * Opening (5 mins); recap of what will need to be done to close out this chapter and fully dive into the job search
 * Argue your case (10-15 mins) 
 * Rate yourself (5 mins)
-* Peer group discussion (10-15 mins) Self-ratings on the different areas of the plan and compare to the barriers discussion from week 1; then get into peer groups for discussion on how they'll go into the last 2 weeks and what their support will look like post-grad
+* Peer group discussion (10-15 mins) 
 * Plan work time (20-30 mins)
 
 ### Opening
