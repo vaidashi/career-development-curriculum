@@ -13,7 +13,7 @@
 
 | Set Up | Materials Needed | PPT Link (if PPT)|
 | ------ | ---------------- | ---------------- |
-| How should the room be set up? What AV is needed? | Students should have journals, something to write with, and their laptops. Your laptop is needed to present slides. | [Slides](https://docs.google.com/presentation/d/15tibaEz4FVKstwwJ1USsQCZOALCcRMe5KIRbWgcGCoc/edit?usp=sharing) |
+| How should the room be set up? What AV is needed? | Students should have journals, something to write with, and their laptops. You need your laptop to present slides. You'll also need to bring cardstock paper and markers to the session. | [Slides](https://docs.google.com/presentation/d/15tibaEz4FVKstwwJ1USsQCZOALCcRMe5KIRbWgcGCoc/edit?usp=sharing) |
 
 ### Session Structure
 
