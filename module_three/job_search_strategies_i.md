@@ -51,7 +51,20 @@ How can you do that? Start by looking at your completed Flower Exercise. What bu
 * I value helping others reach their fullest potential, and my skills in coaching, active listening, and providing feedback ensure that I can be successful in a career that does just that. For my next job search, my priorities are to find a job that combines my passion and knowledge around curriculum-planning to coach others on a wider spectrum, and I also hope to do this work in a way that provides the right work-life balance to allow me to pursue my passion for writing as well. 
 
 ### Your Turn
-**Write:** Spend five minutes analyzing your Flower Exercise and list your biggest priorities in the job search based on what you've discovered. Priorities could include: physical location, industry, size of company, team culture, diversity makeup, technologies, flexibility, salary amount, types of benefits, mentorship, etc. 
+**Write:** Spend five minutes analyzing your Flower Exercise and list your biggest priorities in the job search based on what you've discovered. 
+
+Priorities could include: 
+
+* Physical location
+* Industry
+* Size of company
+* Team culture
+* Diversity makeup
+* Technologies
+* Flexibility
+* Salary amount
+* Types of benefits
+* Mentorship
 
 ### Decide on Priorities: What do you want to do (on a daily basis)?
 Using what you just discussed, think about what this can look like in a day-to-day job. Then create two columns, labelled "Must-Have" and "Nice-To-Have":
