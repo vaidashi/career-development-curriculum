@@ -46,7 +46,7 @@ The Flower Exercise forced you to take a deeper dive into what skills, knowledge
 
 How can you do that? Start by looking at your completed Flower Exercise. What bullet points stick out to you as most important in describing who you are? How can you take the most important bullets and combine them into a career you love?
 
-**I Do:** Allison will model how she might create a professional summary about herself using her Flower Exercise:
+**I Do:** Allison will model how she might create a professional summary about herself using [her Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/files/Allison's%20Flower%20Scan.pdf):
 
 * I value helping others reach their fullest potential, and my skills in coaching, active listening, and providing feedback ensure that I can be successful in a career that does just that. For my next job search, my priorities are to find a job that combines my passion and knowledge around curriculum-planning to coach others on a wider spectrum, and I also hope to do this work in a way that provides the right work-life balance to allow me to pursue my passion for writing as well. 
 
