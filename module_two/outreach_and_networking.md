@@ -7,16 +7,17 @@
 Time: 60 minutes
 
 * Opening (5 mins)
-* Intro to outreach (20 mins)
-* Outreach practice (20 mins)......
-* Intro to networking (10 mins)
+* Intro to outreach (15 mins)
+* Outreach examples (5 mins)
+* Outreach practice (20 mins)
+* Intro to networking (5 mins)
 * Networking planning (5 mins)
 * Takeaways/Closing (5 mins)
 
 ### Objectives
 * Understand why outreach and networking are effective strategies for the job search
-* Create and implement strategies to contact mentors, alumni, or professional contacts who you'd like to meet
-* 
+* Discover and implement strategies to research and contact mentors, alumni, or professional contacts who you'd like to meet
+* Research and find a networking event to attend during Module 3
 
 ### Deliverable
 Provide a plan for how you'll utilize outreach and networking during Module Three using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
@@ -39,7 +40,7 @@ Then, move onto bigger steps:
 
 Embracing outreach and networking will help you both in your initial job search after Turing and in your overall career 
 
-### Outreach, Step by Step
+### Outreach: Step by Step
 #### Warm Outreach
 Start with people in the Turing community, such as our mentors. There are two ways to reach out to mentors:
 * Go to the mentors in your posse
@@ -76,7 +77,7 @@ Again, don't forget about the mentors in your posse. If you're not sure who they
 #### How to Leverage Your Network
 How can you leverage the network you already have? 
 
-* Mentors: if you're already meeting with a mentor, who do they know who would be helpful to you? 
+* Mentors: if you're already meeting with a mentor, who do they know who would be helpful for you to connect with? 
 * Alumni: what companies do our alumni work for? Who can you contact from those companies?
 * LinkedIn: who works at companies that you're interested in?
 
