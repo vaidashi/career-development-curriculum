@@ -122,7 +122,7 @@ Tools:
 
 Most common purpose: Research Conversations -- what is the purpose of these conversations? How can you approach this? 
 
-Here are some [possible questions to ask](https://docs.google.com/document/d/11pkBWm3ZlN7disCY9T0Rg61ElwBzXgUf3VPuTRT05Zg/edit?usp=sharing)
+Here are some [possible questions to ask](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/research_conversation_questions.md)
 
 With mentors:
 
