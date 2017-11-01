@@ -294,6 +294,7 @@ Meetups are set up to be both interest groups for you to join and network within
 
 * **Research.** As with outreach emails, you'll want to conduct research on the organizers and anyone on the RSVP list ahead of time to get a sense of who you can connect with and why
 * **Prepare for small talk.** Most people don't feel comfortable with small talk, but this is how we break the ice in our conversations. Think of a few initial questions to ask people beyond their name and what they think of the free pizza. Consider:
+
         * Asking the other person what they do and how they got involved in that particular work
         * Discussing the topic of the event; what was interesting about the talk?
         * Current projects
