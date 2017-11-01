@@ -57,7 +57,6 @@ If you don't already have a LinkedIn profile, now is time to set one up [here](h
 	* Consider "Software Developer Student," "Back End Engineering Student," or "Front End Engineering Student"
 	* You can combine your past experiences with new skills like "Software Developer \| Former Educator"
 	* Examples:
-		* [Meg Stewart](https://www.linkedin.com/in/megstew/)
 		* [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)
 
 **First Look:**
