@@ -22,7 +22,7 @@
 Length: 90 minutes
  
 * Opening (5 mins)
-* Priorities (20 mins)
+* Priorities (25 mins)
 * Expertise (20 mins)
 * Future Contributions (25 mins)
 * Job search logistics (10 mins)
