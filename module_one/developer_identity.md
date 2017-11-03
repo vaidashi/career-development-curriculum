@@ -7,13 +7,13 @@
 
 Length: 60 minutes
 
-* Opening (12 mins)
+* Opening (15 mins)
 * LinkedIn (20 mins)
-* GitHub (4 mins)
-* Twitter (4 mins)
-* Stack Overflow (3 mins)
-* Upcoming Tools: Resumes, Portfolios (2 mins)
-* Work Time (15 mins)
+* Twitter (5 mins)
+* GitHub (5 mins)
+* Stack Overflow (5 mins)
+* Closing: Upcoming Tools: Resumes, Portfolios (5 mins)
+* Q&A (5 mins)
 
 ### Objectives
 
