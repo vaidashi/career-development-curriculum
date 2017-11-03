@@ -4,7 +4,9 @@
 
 ### Session Outcomes
 
-* Students are able to ...
+* Students are able to understand why outreach and networking are effective strategies for the job search
+* Students are able to discover and implement strategies to research and contact mentors, alumni, or professional contacts who they'd like to meet
+* Students are able to research and find a networking event to attend during Module 3
 
 ### Logistics
 
@@ -18,4 +20,11 @@
 
 Length: 60 minutes
  
-* Opening....
+* Opening (5 mins)
+* Intro to outreach (15 mins)
+* Outreach examples (5 mins)
+* Outreach practice (20 mins)
+* Intro to networking (5 mins)
+* Networking planning (5 mins)
+* Takeaways/Closing (5 mins)
+
