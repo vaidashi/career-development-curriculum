@@ -17,10 +17,9 @@ Length: 60 minutes
 
 ### Objectives
 
-* Specify your personal brand as a Software Developer
-* Tell your story effectively
-* Explore the different tools available to display your brand
-* Work on updating your LinkedIn profile
+* Students are able to specify their personal brand as a Software Developer
+* Students are able to tell their stories effectively across multiple platforms
+* Students are able to successfully update their LinkedIn profiles
 
 ### Deliverable
 You'll submit your LinkedIn, GitHub, Twitter, and Stack Overflow profiles through [Census](https://login.turing.io/). 
