@@ -105,6 +105,7 @@ If your name is taken, use your middle name, etc. but it should be consistent ac
 
 #### Add Connections
 Start with a network of at least 50 connections (but always aim for 500+ quality connections). Don't forget to add Turing staff:
+
 |                                                                          |                             Connect with Staff                             |                                                                |
 |:------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:--------------------------------------------------------------:|
 |    [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)   |            [Jeff Casimir](https://www.linkedin.com/in/jcasimir/)           | [Ellen Mary Hickmann](https://www.linkedin.com/in/emhickmann/) |
@@ -116,6 +117,7 @@ Start with a network of at least 50 connections (but always aim for 500+ quality
 |     [Cory Westerfield](https://www.linkedin.com/in/corywesterfield/)     |        [David Whitaker](https://www.linkedin.com/in/david-whitaker/)       |  [Victoria Vasys](https://www.linkedin.com/in/victoriavasys/)  |
 |        [Ali Schlereth](https://www.linkedin.com/in/alischlereth/)        | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) |     [Kayt Hensley](https://www.linkedin.com/in/klhensley/)     |
 | [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) |          [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)         |                                                                |
+
 * Engage with your connections by liking, commenting on, and/or sharing their updates.
 * As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
 
