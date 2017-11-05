@@ -1,4 +1,15 @@
 # Aaron Schreck
+links: 
+
+Written Reflection: 
+https://gist.github.com/aschreck/62166fee3ccddd7b578655da857de9a6
+Feedback II
+https://gist.github.com/aschreck/7de4e3d1dd08b008fb8b7507b1263c1f
+Professional Story:
+https://gist.github.com/aschreck/c17aa63c04e159cbe3af5622ffa0f144
+Networking Plan: 
+https://gist.github.com/aschreck/516402529cd51e30db62f14b9230288b
+
 
 ## Directions to Submit PD deliverables:
 Fork this repo (the fork button is at the top righthand side of your screen) and then clone it to create a copy of this repository to use on your machine. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request title field, make sure to post:
