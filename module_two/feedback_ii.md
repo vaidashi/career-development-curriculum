@@ -48,12 +48,16 @@ Turn & Talk:
 
 2-3 groups share out. 
 
-### Review: Blind Spots
+### Review: Blind Spots & Biases
 Blind spots are always present as a gap between the self we think we present and the self that others see. Even with good intentions, your thoughts and feelings can affect the impact of your communication through behaviors that you don't always notice. These can include:
 
 * Your facial expressions
 * Your tone of voice
 * Your behavior patterns
+
+Biases are present unconciously or consciously:
+* Positive bias towards someone can cause us to not give necessary constructive feedback
+* Negative bias towards someone can cause us to be overly critical in our feedback
 
 #### Whole Group Discussion:
 
@@ -114,7 +118,28 @@ NVC Framework follows these steps:
 * Needs: You can't figure out what you need until you reflect on your feelings; use positive language and make needs clear
 * Requests: Express clearly and ask for a reflection
 
-All of these steps of reflection should take place *before* you have the feedback conversation to clarify 
+All of these steps of reflection should take place *before* you have the feedback conversation to clarify your points.
+
+#### Turn & Talk
+Find a partner to discuss the following scenarios.
+
+**Scenario #1: "Don't be so quiet"**
+
+Possible alternative: "I'd like to hear you contribute your thoughts more often."
+
+**Scenario #2: "I feel inadequate because when I've brought up ideas you haven't been willing to try any of them out today."**
+
+Possible alternative: We might add "...and I need you to acknowledge my ideas, discuss them with me, and try them sometimes."
+
+**Scenario #3: "I feel you are not giving 100% to this.”**
+
+Possible alternative:  “I feel frustrated that you have not been able to be here this week to work on our project.  Could we agree on times that we can work on this together so that we can both be focused on the same thing?” 
+
+For each of the above, discuss:
+
+* What could be a blind spot here? Tone of voice -- you don’t want to come across as passive aggressive
+* How do you feel about these alternatives?
+* Would you say anything different to try to realign intent and impact more?
 
 ### Switchtracking
 When you're receiving feedback in a conversation, it's easier to fall prey to our triggers because we're experiencing them right in the moment. We often experience relationship triggers during a feedback conversation because of the way the other person delivers the feedback. A common reaction to this trigger is Switchtracking. Switchtracking occurs when we stop listening to what the person is saying and instead focus on our issues with the person. Here's what it looks like:
@@ -159,7 +184,6 @@ Now is the time to prepare for giving feedback to your project partners in conve
 * FE: Game Time (1 partner)
 
 * 1. **Reflect:** Write down any key points, think about how you can clearly explain your intent, and take into consideration what kind of feedback you need from the other 
-    Also, consider how you will incorporate active listening into this conversation -- what do you need to do to ensure that you're able to practice those 5 steps from the article? 
 * 2. **Schedule the conversation:** 
       When you have the conversation, make sure to follow the Open-Body-Close format for this conversation, and ask clarifying questions. 
 * 3. **Plan for follow-up:** This is one conversation on how the project went, but consider any conversations you may want to have after taking time to absorb the feedback

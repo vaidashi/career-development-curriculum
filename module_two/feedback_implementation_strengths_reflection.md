@@ -11,7 +11,7 @@
 * How would you like to continue to develop your strengths?
 <br>I would like to continue building these strengths by being the person people feel that they can come to with concerns whether that is technical or personal.
 
-* What would you like to improve on as a teammate? 
+* What would you like to improve on as a teammate?
 <br>Understanding other's working style and being able to keep this in mind as we work together.
 
 * How would you like your teammates to see you?
