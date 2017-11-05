@@ -7,16 +7,26 @@ What is important to you? What goals do you have for yourself? What kind of serv
 
 ## Learning Objectives:
 * Describe yourself in 7 different ways to enhance your professional story
+* Outline specific priorities for your job search 
 * Describe in detail the kind of career you’re looking for
 
-## Deliverable:
-**[Complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and include a link to either the uploaded PDF or a gist with bullet points for each of the 7 categories. 
+## Recommended Deliverable:
+**[Complete the Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf)** and share it with Allison. She will also have optional office hours to discuss it in week 4 or 5. Check your cohort channel for this announcement. 
 
 ## The Why
 We do this exercise with students not only because it's effective (again, it has an 84% success rate and has been used with job-seekers for the past 4 decades) but because you are transitioning careers to find something that you love -- not just another job. Learning more deeply about yourself, your values, your strengths, and your priorities will make this a much more fulfilling job search and a much quicker job search. 
 
+## How It Works
+The Flower Exercise is designed to help you move through 3 stages:
+
+* The **brain dump** stage to organize your thoughts using these [worksheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing)
+* The **synthesis** stage to summarize the findings in your brain dump
+* The **prioritization** stage to narrow down what's most important to you from your synthesis. **The results from your prioritization stage are what should go on your finished Flower page.** 
+
 ### You’re Not a Role
-Let's start by recapping the do's and don'ts of professional storytelling. When people have asked you what you do in the past, what have you said? “I was a construction worker.” “I was a marketing manager.” “I was a teacher.” Sound familiar? These kind of declarations lock you into a role; but you’re not a role, you’re a person with many skills and many experiences.
+Let's start by recapping the do's and don'ts of professional storytelling. When people have asked you what you do in the past, what have you said? “I was a construction worker.” “I was a marketing manager.” “I was a teacher.” Sound familiar? These kind of declarations are not inherently wrong -- it's important to claim your identity according to the work you love. 
+
+However, stating your identity in this way can lock you into a role; but you’re not a role, you’re a person with many skills and many experiences.
 
 Instead, try saying “I’m a person who…”
 
@@ -102,4 +112,4 @@ Start broadly and then make more specific
 
 ### Put it all together:
 
-* Use your notes to complete the flower worksheet (this is your deliverable)
+* Use your notes to complete the flower worksheet 

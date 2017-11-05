@@ -3,10 +3,10 @@
 Module Four career development is a culmination of the development that students have been working on during their previous three modules. This module is focused on tightening skills and applying them to future goals. The following are key components of success in this module:
 
 * Build on current and create new relationships with others in the tech industry
+* Demonstrate abilities and knowledge in technical interview practice
 * Prepare to negotiate job offers effectively
 * Describe a vision for the future
-* Create plan aligned to achieving job search goals
-* Demonstrate abilities and knowledge in technical interview practice
+* Create 30-day post-graduation plan aligned to achieving job search goals
 * Engage in complex issues of the tech industry
 * Lead other students in discussions and learning 
 
@@ -18,25 +18,26 @@ By achieving the objectives listed above, students will be prepared for a succes
 
 ### Sessions
 
-* [Cold Outreach II](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_ii.md) 
-* Interview Prep II (practice sessions) 
+* [Professional Development Kickoff](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/pd_kickoff.md) 
+* Interview Prep through practice sessions with Ian Douglas or Brittany Storoz
 * [Negotiations](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/negotiations.md)
 * [Job Search Strategies II](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/job_search_strategies_ii.md)
 * Gear Ups:
     * Case Study Planning
     * Case Study Facilitation
-* 1-on-1 meetings with Meg
+
+### Professional Development Peer Groups & Coaching
+Each Module Four student will be assigned a peer group to check in with every Tuesday of the module. These groups will serve as an  accountability and motivational system to help students identify job search goals and how to achieve them with each other's support. They also serve as a safe environment to identify potential blockers in the job search and find solutions to them. Each group will also have weekly check-ins with a member of Turing staff who will serve as a job search coach. 
+
+Reference [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_support_groups.md) for how the groups can work together.
 
 ### Deliverables
-In order to fulfill the requirements of Module Four, students will submit these deliverables:
+In order to fulfill the requirements of Module Four, students will:
 
-* Final approval of portfolio with 3 projects and resume
-* Option of (choose one):
-    * Documentation of 6 cold outreach emails completed following [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md)
-    * Submit a gist listing a Meetup that you have spoken at/will be speaking at and why you chose that Meetup, your talk outline (1-2 paragraphs), and 3-4 sentences on how you hope to utilize this talk to help you in your job search
-    * Write a technical blog post and promote it through your network. To complete the deliverable, include a link to your blog post on something that you've learned recently and 3-4 sentences on how you're using this blog post to connect with other people in your network
-* Documentation of practice interview participation following [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md)
-* Completed action plan for the job search following [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md)
-* Gear Up-related reflections
+* A [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to be submitted in their Module Four portfolio
+* Students will also be expected to share a summarized version of their professional story with their instructors during the portfolio review. This is a 1-2 minute sharing highlighting who they are, why they are in software, and what's next in their career
+* Complete a mock interview with your instructor and/or mentor during module 4
+* Prepare a lightning talk of their Turing story to present during the final week of the module
 
-You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
+
+

@@ -43,7 +43,7 @@ When you are asked that question, recognize that you don't have the context to p
   * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours. 
 
 * **Shift your Mindset to Embrace Negotiations:**
-  * **Turn & Talk:** What did you write down at the beginning of the session about your associations with the idea of negotiating? It's time to unpack our feelings about negotiating in order to be empowered to have this conversation in a meaningful way. What are your initial feelings about the idea of negotiating? 
+  * **Whole Group:** What did you write down at the beginning of the session about your associations with the idea of negotiating? It's time to unpack our feelings about negotiating in order to be empowered to have this conversation in a meaningful way. What are your initial feelings about the idea of negotiating? 
   * Bottom line: Successful people negotiate
 
 * **Back to the initial question -- "What are your salary expectations?"**
@@ -70,7 +70,7 @@ When you are asked that question, recognize that you don't have the context to p
     * What do *you* care about? 
     * What's missing from the offer? What didn't they talk about?
       * In this example, they did not mention a 401k, maternity/paternity leave, signing bonuses, or other perks
-  * Talk to someone you trust to get some feedback (mentors, Lia, Meg, etc.)
+  * Talk to someone you trust to get some feedback (Meg, mentors, etc.)
   * Reach out to any other companies that you're talking with. Let them know that you’ve received an offer, and ask, *"do you know what your timeline is for making a hiring decision?"* Ask for any next steps.
     * Why do this? You're leveraging your offer (see *Create Leverage* below). You've also taken the guessing game out of it; instead of stressing about the offers, the ball is in their court. 
     * This also tells the company that you a person who is sought after, which increase their interest
@@ -115,8 +115,7 @@ When you are asked that question, recognize that you don't have the context to p
 * **Keep in Mind:**
   * Don’t negotiate too high, so you don’t waste that extra money you could’ve negotiated earlier
   * Negotiating just an extra $1000 or two isn't worth it -- it doesn’t even out to a lot of money. It could make you look petty. You don't want to ruin a relationship over it
-  * There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back. 
-    * In the 500-600 people that Lia has had experience with coaching negotiations, that has only happened once. 
+  * There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back.  
     * If a company rescinds simply because you brought up the conversation while you were respectful, that was probably a red flag and you dodged a bullet
     * You should be somewhere you want to be and where you’re valued
     * If they rescind the offer because you were disrespectful, that’s different. *But we don't expect you to be disrespectful*
@@ -131,10 +130,12 @@ When you are asked that question, recognize that you don't have the context to p
   
 ### Resources for Follow-Up
 
-* Reach out to Meg and discuss an offer during your 1-on-1
+* Reach out to anyone on the Career Development team
 * Join the #salaries channel on Slack
 * Check out [this post](http://www.kalzumeus.com/2012/01/23/salary-negotiation/) for more in-depth tips on what was discussed above
 * [Scenarios and discussion on negotiating as a woman](https://www.washingtonpost.com/graphics/business/womens-wages/salary-negotiation-guide-women/?utm_term=.cc721527f9ac)
+* [The Salary Chronicles](https://www.forbes.com/sites/ericagellerman/#5072a9a13ddd) from Forbes magazine also focuses specifically on negotiating strategies for women
+* Use [this tool](https://stackoverflow.com/jobs/salary) on Stack Overflow to get a sense of where you might want to start with your negotiations
 
 ### FAQs
 
