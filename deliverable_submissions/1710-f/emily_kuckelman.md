@@ -16,5 +16,3 @@ Link to strength and storytelling reflect:
 https://gist.github.com/ekuckelman/309a64c9f515620c2f66620ffd81920e
 
 
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
-
