@@ -23,6 +23,14 @@ To make sure that you're in the right version of this markdown, check out [this 
 * Working draft of professional story (1-2 paragraphs)
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
 
-## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://gist.github.com/patneel87/85bc27308952d4ee21a9015d910824bf):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://gist.github.com/patneel87/b045a3b516e73a2463b70ee1f1899430)
+## Agile 
+https://gist.github.com/patneel87
+
+## Mentoring
+https://gist.github.com/patneel87/2a382050a60880cffa0272891cb1bc30
+
+## Professional Story
+https://gist.github.com/patneel87/3d736276593f2f0e28648443ec0a536c
+
+## Feedback 
+https://gist.github.com/patneel87/37c558efad131b6d9794d5d8b1eba297
