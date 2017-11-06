@@ -10,13 +10,15 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 
 Example: M1 BE Jessica Rodriguez
 
-## Mod 1 Round Two Deliverables:
+## Mod 2 deliverables
 
-* Link to DTR Memo using these [guidelines]https://gist.github.com/Tyjoo26/8ce6d4e5f1de3a387fdda0b39aa7d236
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines]https://gist.github.com/Tyjoo26/d0b4d57f209b560ea3bb6d83f4130d55
+Link to Feedback 2 for Project: Bike Share with Hugh Morrison and Miguel Silva:
+https://gist.github.com/Tyjoo26/0c7c18abe8ae1d6e3b874ed416a7a42d
 
-## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+Link to Outreach and Network Planning Deliverable:
+https://gist.github.com/Tyjoo26/a76230b44a26d3ce6f6e0bca4e5c5292
 
-[Link] (https://gist.github.com/Tyjoo26/ef9e36c6462d3409bda112b6c4ff66a5)
+Link to Agile and Written Reflection about Project Management https://gist.github.com/Tyjoo26/cc47413a12edfaf23d35acae0631160e
+
+Link to storytelling
+https://gist.github.com/Tyjoo26/550d8ee4a3a285507efa1badfd485a12
