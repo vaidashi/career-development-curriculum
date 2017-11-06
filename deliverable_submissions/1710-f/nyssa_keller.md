@@ -14,3 +14,10 @@ Example: Jessica Rodriguez 1710-BE
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+
+
+Deliverables:
+1. Strengths and Storytelling Reflection
+    https://gist.github.com/nyssakeller/9ccf6fac7b323ece289dc53801e2b693
+2. DTR
+     https://gist.github.com/nyssakeller/d9bcae0f47c165b186346c217450986f
