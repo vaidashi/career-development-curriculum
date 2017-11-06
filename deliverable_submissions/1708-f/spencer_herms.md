@@ -17,26 +17,30 @@ Fork this repo (the fork button is at the top righthand side of your screen), wh
 Example: M1 FE Jessica Rodriguez
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+
+### DTR Memo:
+https://gist.github.com/PreciseSlice/1c165c9581cba7dbc720aa223b29a134
+
+### Strengths and Storytelling Reflection:  
+https://gist.github.com/PreciseSlice/9992481e2e8273e04b2339c92b4f2e26#file-spencer-herms-strengths-storytelling-reflection-md
 
 ## Mod 2 Deliverables:
 
-## Feedback II Reflection:
+### Feedback II Reflection:
 
 https://gist.github.com/PreciseSlice/ba7f324253db5eedae7c4b7d920278fe
 
 
-## Module Two Career Development Written reflection:
+### Module Two Career Development Written reflection:
 
 https://gist.github.com/PreciseSlice/1228a1587ca7cd6dc643e7c159ccfd7b
 
 
-## Professional Story:
+### Professional Story:
 
 https://gist.github.com/PreciseSlice/95f29b805685ec8766674c074929ad6a
 
 
-## Outreach & Networking Plan for Module 3:
+### Outreach & Networking Plan for Module 3:
 
 https://gist.github.com/PreciseSlice/d834f344f67e2e36ec5c7ec75146fb03
