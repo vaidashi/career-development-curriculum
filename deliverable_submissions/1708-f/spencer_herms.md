@@ -19,3 +19,24 @@ Example: M1 FE Jessica Rodriguez
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+
+## Mod 2 Deliverables:
+
+## Feedback II Reflection:
+
+https://gist.github.com/PreciseSlice/ba7f324253db5eedae7c4b7d920278fe
+
+
+## Module Two Career Development Written reflection:
+
+https://gist.github.com/PreciseSlice/1228a1587ca7cd6dc643e7c159ccfd7b
+
+
+## Professional Story:
+
+https://gist.github.com/PreciseSlice/95f29b805685ec8766674c074929ad6a
+
+
+## Outreach & Networking Plan for Module 3:
+
+https://gist.github.com/PreciseSlice/d834f344f67e2e36ec5c7ec75146fb03
