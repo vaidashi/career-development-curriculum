@@ -7,20 +7,19 @@
 
 Length: 60 minutes
 
-* Opening (12 mins)
+* Opening (15 mins)
 * LinkedIn (20 mins)
-* GitHub (4 mins)
-* Twitter (4 mins)
-* Stack Overflow (3 mins)
-* Upcoming Tools: Resumes, Portfolios (2 mins)
-* Work Time (15 mins)
+* Twitter (5 mins)
+* GitHub (5 mins)
+* Stack Overflow (5 mins)
+* Closing: Upcoming Tools: Resumes, Portfolios (5 mins)
+* Q&A (5 mins)
 
 ### Objectives
 
-* Specify your personal brand as a Software Developer
-* Tell your story effectively
-* Explore the different tools available to display your brand
-* Work on updating your LinkedIn profile
+* Students are able to specify their personal brand as a Software Developer
+* Students are able to tell their stories effectively across multiple platforms
+* Students are able to successfully update their LinkedIn profiles
 
 ### Deliverable
 You'll submit your LinkedIn, GitHub, Twitter, and Stack Overflow profiles through [Census](https://login.turing.io/). 
@@ -57,7 +56,6 @@ If you don't already have a LinkedIn profile, now is time to set one up [here](h
 	* Consider "Software Developer Student," "Back End Engineering Student," or "Front End Engineering Student"
 	* You can combine your past experiences with new skills like "Software Developer \| Former Educator"
 	* Examples:
-		* [Meg Stewart](https://www.linkedin.com/in/megstew/)
 		* [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)
 
 **First Look:**
@@ -107,52 +105,18 @@ If your name is taken, use your middle name, etc. but it should be consistent ac
 
 #### Add Connections
 Start with a network of at least 50 connections (but always aim for 500+ quality connections). Don't forget to add Turing staff:
-<table>
-  <tr>
-  <th colspan="5">Connect With Turing Staff</th>
-  </tr>
-  <tr>
-  <td><a href="https://www.linkedin.com/in/allisonreusinger/authType=NAME_SEARCH&authToken=WAyt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A63016265%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970802229%2Ctas%3Aallison">Allison Reu Singer</a></td><td><a
-  <td><a href="https://www.linkedin.com/in/jcasimir?authType=NAME_SEARCH&authToken=iqEN&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A40587160%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970121949%2Ctas%3Ajeff%20ca">Jeff Casimir</a></td>
-  <td><a href="https://www.linkedin.com/in/novohispano?authType=NAME_SEARCH&authToken=16ZS&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A20849959%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970228139%2Ctas%3AJorge">Jorge Tellez</a></td>
-   </tr>
-   <tr>
-  <td><a href="https://www.linkedin.com/in/joshmejia?authType=NAME_SEARCH&authToken=3STz&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A56293325%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970399095%2Ctas%3Ajosh%20m">Josh Mejia</a></td>
-  <td><a href="https://www.linkedin.com/in/romeeka-gayhart-59543915?authType=NAME_SEARCH&authToken=g-4l&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A51835649%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970459422%2Ctas%3ARom">Meeka Gayhart</a></td>
-  <td><a href="https://www.linkedin.com/in/michaeldao?authType=NAME_SEARCH&authToken=uW_W&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A35154597%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970491750%2Ctas%3Amichael%20d">Mike Dao</a></td>
-  </tr>
-  <tr>
-  <td><a href="https://www.linkedin.com/in/icorson3/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Ilana Corson</a></td>
-  <td><a href="https://www.linkedin.com/in/neightallen?authType=NAME_SEARCH&authToken=xfbk&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A15405068%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970564474%2Ctas%3ANate%20Allen">Nate Allen</a></td>
-  <td><a href="https://www.linkedin.com/in/louisabarrett?authType=NAME_SEARCH&authToken=O6X9&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A18902368%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970603391%2Ctas%3ALouisa">Louisa Barrett</a></td>
-  </tr>
-  <tr>
-   <td><a href="https://www.linkedin.com/in/joshuajhun?authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Jhun de Andres</a></td>
-  <td><a href="https://www.linkedin.com/in/brennamartenson?authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Brenna Martenson</a></td>
-  <td><a href="https://www.linkedin.com/in/joanne-m-w-liu-09a98614?authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Joanne Liu</a></td>
-  </tr>
-   <td><a href="https://www.linkedin.com/in/laurenfazah/authType=NAME_SEARCH&authToken=WAyt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A63016265%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970802229%2Ctas%3Aallison">Lauren Fazah</a></td><td><a href="https://www.linkedin.com/in/erin-neill-williams-793696a8?authType=NAME_SEARCH&authToken=XB3a&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A383897055%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970853087%2Ctas%3AErin%20Will">Erin Williams</a></td>
-   <td><a href="https://www.linkedin.com/in/megstew/authType=NAME_SEARCH&authToken=XB3a&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A383897055%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970853087%2Ctas%3AErin%20Will">Meg Stewart</a></td>
-    </tr>
-    <tr>
-    <td><a href="https://www.linkedin.com/in/rachel-martinez-16693956/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Rachel Martinez</a></td>
-  <td><a href="https://www.linkedin.com/in/ellen-mary-hickmann-102791118/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Ellen Mary Hickmann</a></td>
-  <td><a href="https://www.linkedin.com/in/brittanystoroz/authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Brittany Storoz</a></td>
-  </tr>
-  <tr>
-  <td><a href="https://www.linkedin.com/in/robertjaeger0/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Robbie Jaeger</a></td>
-  <td><a href="https://www.linkedin.com/in/taylor-moore-0298a635/authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Taylor Moore</a></td>
-  <td><a href="https://www.linkedin.com/in/tmikeschu/">Mike Schutte</a></td>
-  </tr>
-  <tr>
-   <td><a href="https://www.linkedin.com/in/salespinosa/authType=NAME_SEARCH&authToken=6zOI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A443442264%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970676152%2Ctas%3Aandres">Sal Espinosa</a></td>
-  <td><a href="https://www.linkedin.com/in/alischlereth/authType=NAME_SEARCH&authToken=p8wo&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A81422440%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970708687%2Ctas%3ABrenna">Ali Schlereth</a></td>
-  <td><a href="https://www.linkedin.com/in/nathanielfosterofficial/authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Nathaniel Foster</a></td>
-  </tr>
-  <tr>
-   <td><a href="https://www.linkedin.com/in/limberg-mike/">Mike Limberg</a></td>
-  </tr>
-</table>
+
+|                                                                          |                             Connect with Staff                             |                                                                |
+|:------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:--------------------------------------------------------------:|
+|    [Allison Reu Singer](https://www.linkedin.com/in/allisonreusinger/)   |            [Jeff Casimir](https://www.linkedin.com/in/jcasimir/)           | [Ellen Mary Hickmann](https://www.linkedin.com/in/emhickmann/) |
+|          [Joanne Liu](https://www.linkedin.com/in/joannemwliu/)          |        [Louisa Barrett](https://www.linkedin.com/in/louisabarrett/)        |    [Sal Espinosa](https://www.linkedin.com/in/salespinosa/)    |
+|           [Josh Mejia](https://www.linkedin.com/in/joshmejia/)           |          [Ian Douglas](https://www.linkedin.com/in/iandouglas736/)         |       [Mike Dao](https://www.linkedin.com/in/michaeldao/)      |
+|           [Ilana Corson](https://www.linkedin.com/in/icorson3/)          |          [Lauren Fazah](https://www.linkedin.com/in/laurenfazah/)          |    [Jhun de Andres](https://www.linkedin.com/in/joshuajhun/)   |
+|      [Brittany Storoz](https://www.linkedin.com/in/brittanystoroz/)      |         [Robbie Jaeger](https://www.linkedin.com/in/robertjaeger0/)        |    [Will Mitchell](https://www.linkedin.com/in/wvmitchell/)    |
+|           [Leta Keane](https://www.linkedin.com/in/letakeane/)           |  [Nathaniel Foster](https://www.linkedin.com/in/nathanielfosterofficial/)  |      [Pam Lovett](https://www.linkedin.com/in/thatpamiam/)     |
+|     [Cory Westerfield](https://www.linkedin.com/in/corywesterfield/)     |        [David Whitaker](https://www.linkedin.com/in/david-whitaker/)       |  [Victoria Vasys](https://www.linkedin.com/in/victoriavasys/)  |
+|        [Ali Schlereth](https://www.linkedin.com/in/alischlereth/)        | [Erin Williams](https://www.linkedin.com/in/erin-neill-williams-793696a8/) |     [Kayt Hensley](https://www.linkedin.com/in/klhensley/)     |
+| [Rachel Martinez](https://www.linkedin.com/in/rachel-martinez-16693956/) |          [Rachel Warbelow](https://www.linkedin.com/in/rwarbelow/)         |                                                                |
 
 * Engage with your connections by liking, commenting on, and/or sharing their updates.
 * As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.

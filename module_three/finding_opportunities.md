@@ -8,22 +8,23 @@
 * Discuss more effective job-searching strategies such as Meetup, LinkedIn, cold outreach, boolean searches to produce more potential opportunities
 * Research companies and people to create a list of opportunities
 
-### Deliverable
-You'll include a link to your Trello board with companies that you're tracking in your [PD deliverable submissions](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). This submission is due Monday of Week 6 at 9am. Please reach out to Meg if you have any questions!
+### Prep for Your Job Search
+Set up a system to track your job search now. Whether you use [Trello](https://trello.com), [jobtrack.io](https://jobtrack.io/), or another system, having a system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in helping you stay organized in the job search. In order to successfully pass your Module 4 portfolio, you'll need to discuss your job search tracking system in your portfolio review in your PD deliverable, found [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md). 
 
 ### Why
 Now is the point in your Turing education to start on your job search, and through this session, we'll discuss tools of how to approach the job search in an intentional way that will also make the search less overwhelming.  
 
 ### Overview of Session
+Session length: 60 minutes
+
 * Hook (5 mins)
 * Opening (3 mins)
-* Set up Trello (7 mins)
+* Job Tracking System (15 mins)
 * Explore tools (35 mins)
-* Research time (37 mins)
-* Closing (3 mins)
+* Closing (2 mins)
 
 ### Warm Up
-Think about your last job search. What strategies did you use? Which proved to be successful? Which were not successful? Turn and talk to the person next to you to share your experience. What trends came up?
+Think about your last job search. What strategies did you use? Which proved to be successful? Which were not successful? **Turn and talk** to the person next to you to share your experience. What trends came up?
 
 ### Opening  
 The traditional way to look for jobs isn't necessarily the best route. 
@@ -43,17 +44,17 @@ Let's start with these tools instead:
 * [BuiltIn](http://builtin.com/)
 * [Training on LinkedIn from Skillful](https://www.linkedin.com/training)
 
-There are more tools listed at the bottom of this markdown for you to consider, and we'll also discuss how you can create a system to keep yourself organized through Trello. 
+There are more tools listed at the bottom of this markdown for you to consider, and we'll also discuss how you can create a system to keep yourself organized through suggested tools such as Trello and jobtrack.io. 
 
-### Set Up Trello
-First, start with a place to track all of your job search research and to-dos. Trello is an easy-to-use project management tool that is perfect for tracking your leads. Make sure to add Meg as a collaborator (mstewart@turing.io). 
+### Create a Job Searching Tracker
+First, start with a place to track all of your job search research and to-dos. Here we'll discuss both Trello and jobtrack.io, but that is not to say there aren't other effective tracking tools out there. Finding one that works for you will be essential in keeping your job search streamlined. 
 
-Check out [this post](http://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process) for more on why Trello is a helpful tool for staying on top of your job search and to see an example of a job search board.
+#### Trello
+[Trello](https://trello.com) is an easy-to-use project management tool that can allow you to track where you are in the process with any given company by creating individual lists and cards to capture information that you want to keep. 
 
-#### Your Turn
-Create a "Job Tracker" Trello board. Set up your lists, starting with "Icebox," which will serve as your initial ideas to explore. 
+Check out [this post](http://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process) for more on why Trello is a helpful tool for staying on top of your job search and to see an example of a job search board. [Labels](http://help.trello.com/article/797-adding-labels-to-cards?utm_source=Trello%20blog&utm_medium=blog%20post&utm_campaign=Job%20Search) can be helpful as you figure out what you want to prioritize, and you can record your progress by utilizing the [comments](http://help.trello.com/article/765-commenting-on-cards?utm_source=Trello%20blog&utm_medium=blog%20post&utm_campaign=Job%20Search) on the back of each card. 
 
-Consider the other lists you may want to create, such as:
+Some lists you may want to set up in Trello are: 
 
 * Potential Contacts
 * Contacts who have Responded
@@ -64,11 +65,11 @@ Consider the other lists you may want to create, such as:
 * Informational Interviews
 * Interviews
 
-*Feel free to add more that are relevant to keeping you organized*
+#### Jobtrack.io
+[Jobtrack.io](https://jobtrack.io) is another tool that has been built specifically for job seekers. It allows you to track relationships with companies and where you are in the process, pulling in data about companies intuitively through its free Chrome extension. You are also able to manage versions of your resume and cover letters within the tool, and it will send you reminders to proceed in different steps of the process with companies. 
 
-[Labels](http://help.trello.com/article/797-adding-labels-to-cards?utm_source=Trello%20blog&utm_medium=blog%20post&utm_campaign=Job%20Search) can be helpful as you figure out what you want to prioritize, and remember to record your progress by utilizing the [comments](http://help.trello.com/article/765-commenting-on-cards?utm_source=Trello%20blog&utm_medium=blog%20post&utm_campaign=Job%20Search) on the back of each card. 
-
-Check out this info on [getting started with Trello](https://trello.com/guide/getting-started.html)
+#### Your Turn
+Explore different Job Search Tracker systems and decide on one that you can set up now. Start by reading this [blog post on using Trello for the job search](https://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process), which is a 4-minute read, and then dive into both of these tools to see what might be more beneficial for you. 
 
 ### Meetup Differently
 Meetup is traditionally used to find local networking groups. However, it can also be used to find companies you would like to work with.
@@ -106,11 +107,11 @@ If you already have companies in mind that you would like to work with/for, don'
 - Narrow it down by the location where you’d like to work.
 - Then narrow it down by industry - "computer software."
 - Now click through the results and determine whom you feel you can build a relationship with. When you find one, research them.
-- When you feel like you know what you need to, write a personalized connection message to them with a call to action. See *[Cold Outreach I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i.md)* and look ahead at Module 4's *[Cold Outreach II](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_ii.md)* for some a refresher on tips for reaching out. 
+- When you feel like you know what you need to, write a personalized connection message to them with a call to action. See these **[Cold Outreach Guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_guidelines.md)** for some tips for reaching out. 
 - You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work. 
 
 ### Google... because it's at your fingertips
-Often job seekers forget to Google the simplest of searches. Don't forget to research even the simplest of phrases.
+Often job seekers forget to Google the simplest of searches. Don't forget to research even the simplest of phrases. Finding a journalist-curated list of top companies in your field of interest can go a long way as a springboard for where to focus your research. 
 
 **Resources for making the most of a Google search:**
 
@@ -141,17 +142,16 @@ Often job seekers forget to Google the simplest of searches. Don't forget to res
 * If you are interested in any of the 6 locations for BuiltIn, navigate to [BuiltIn](http://builtin.com/) to set up a profile
 * Explore the companies listed in Skillful's list
 
-### Research Time
-Apply the steps we discussed above to creating more cards on your Trello board and get organized by adding companies to your Icebox list. 
+### Closing & Next Steps
+It's important to take the time now to organize your job search. Take these steps to make this process less daunting and empower yourself. 
 
-As you go through and continue to track your job search, keep in mind to:
+1. Apply the steps we discussed above to set up an effective job tracking system
+
+2. As you go through and continue to track your job search, keep in mind to:
 
 - Include the contact information for the individual you would like to build a connection with / have an informational interview with
 - Track the communication between you and the individual(s) at the company
 - Track the stage of the process you are currently in with the company
-
-### Closing
-It's important to take the time now to organize your job search. Take these steps to make this process less daunting and empower yourself. Meg will use your Trello board to discuss next steps and tailored advice with you during career office hours and Module 4 1-on-1s. Reach out to her with any questions or to [set up a time to meet](https://megstew.youcanbook.me/index.jsp). Password: *complete*
 
 ### Additional Resources
 
@@ -170,11 +170,12 @@ These are additional sites for finding opportunities, but *remember applying bli
 - [Angel List](https://angel.co/jobs)
 - [Stack Overflow Job Board](http://careers.stackoverflow.com/jobs)
 - [Built in Colorado's Denver/Boulder Job Board](http://www.builtincolorado.com/jobs)
-- Twitter searches:[ruby+hire](https://twitter.com/search?q=ruby%20hire&src=typd),[ruby+job](https://twitter.com/search?q=ruby%20job&src=typ)
-- [Craigslist](http://chicago.craigslist.org/search/sof)
+- [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof)
 - [Top Ruby Jobs](https://toprubyjobs.com/)
 - [Ruby Weekly](http://rubyweekly.com/)
+- [JavaScript Weekly](http://javascriptweekly.com/)
 - [Built in Colorado’s List of Top Digital Companies in Denver](http://www.builtincolorado.com/guides/best-companies-work-colorado)
 - [gun.io](https://gun.io/)
 - [Ars Technica Job Board](http://arstechnica.com/jobs/)
 - [We Work Remotely Job Board](https://weworkremotely.com/)
+- [Current Listing of Remote Dev Jobs](https://remoteok.io/remote-dev-jobs)

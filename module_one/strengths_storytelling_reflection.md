@@ -2,13 +2,24 @@
 
 Build on your professional story by thinking about how you're progressing at Turing. Answer the questions below in your own gist to use your StrengthsFinder themes to add to your story:
 
-* Write 1-2 paragraphs about your StrengthsFinder themes:
-      How have you seen yourself using these strengths at Turing? Has your understanding of these strengths changed since you first reflected on them? If so, how? 
+* Write 1-2 paragraphs about your StrengthsFinder themes: How have you seen yourself using these strengths at Turing? Has your understanding of these strengths changed since you first reflected on them? If so, how?
 
-* Write a story about your Turing experience so far:
-    When have you struggled? How have you dealt with struggle? When have you succeeded at Turing? How did you accomplish those successes?
+   I found that my restorative and woo strengths have been going full force ever since I first entered the basement. Restorative is all about solving problems. What I've learned after a month of coding is that the main process is, try the thing, it isn't working, figure out why it isn't working, fix it, repeat. I'm constantly using my restorative strength to comb through my code as well as others to solve the problems that arise. I get such a thrill out of solving problems in code, which exactly what they say people with the restorative property do.
+   
+   The woo strength has been invaluable to me in reaching out to other students for help and connecting with my partners during pair projects. Woo is all about connecting with people and I think jumping into a classroom with 20 people, making friends with all of them, and making friends outside of the class, is all thanks to my woo strength. It has become my favorite of the strengths for it's name and what it stands for. Friendship is the most important thing to me. I explained during the life-map that during my time at USY on Wheels I had no friends and felt very alone, I want to make sure no one around me feels alone. I take the woo strength to heart and try to use it to connect with people.
+
+* Write a story about your Turing experience so far: When have you struggled? How have you dealt with struggle? When have you succeeded at Turing? How did you accomplish those successes?
+
+  My biggest struggle at turing was trying to understand how objects move in and out of local storage. After a few minutes of trying to force my brain to absorb the information I saught out help. I asked my partner in the project to explain it to me, and after some white-boarding, explaining, and re-explaining, I finally understood the topic.
+  
+  By way of successes I have been experiencing one after the next. Every time I learn a new concept is a success. Every time I write out code and it does what I wanted it to is another success. I also think that every time I muster up the courage to ask someone for help is another success. I basically view every day at turing to be a success because before turing I was miserable at my job. Turing is the bridge that's going to take me toward a new life. Every step along that path is a victory and a success worth acknowledging. I have been able to accomplish each of these successes by keeping my eye on the finish line. I know where I'm headed and I know that these successes are required to get me there.
 
 * Answer the question: how does your Turing story end? Create a vision for your future and your career transition into being a junior developer.
 
-* After you practice storytelling in the session, answer this question:
-      What was particularly easy or difficult about telling your story? What are 1-2 steps that you can take to continue to improve your abilities to tell your story, talk about yourself with ease, and examine your strengths?
+  When I first applied to turing I thought I'd go through the school, land myself a job in some big company as a junior developer, and focus on my own work and eventually work my way up the ladder. All I wanted was a simple 9-5, no commission, no customers, just work. Now that I've been through a month of turing I see that it's possible my life will end up that way, but the beauty and horror of turing is that the options are literally limitless. I've begun to realize that I have no idea where I'm going to end up. I do know I'm going to finish turing as a strong candidate for whatever area of development I want to be a part of. But what matters to me is still the same, I want that 9-5 life. A consistent schedule, a regimen. A solid healthy work-life balance. I'll finally have what I never did in all of my past jobs, a monday-friday job that lets me have a life and a consistent paycheck. 
+
+* After you practice storytelling in the session, answer this question: What was particularly easy or difficult about telling your story? What are 1-2 steps that you can take to continue to improve your abilities to tell your story, talk about yourself with ease, and examine your strengths?
+
+  The difficult part of my story was talking about the difficult decisions that I had to make because I worry that if people don't understand the entire context they might disagree with my decision. The main example of this is having broken up with my girlfriend. At the time it was a very difficult decision to make, but since making the decision my life has done nothing but improve. So while people instinctively say "I'm sorry" to hearing about a breakup, I say "No, don't be sorry, it led to such amazing things" and I worry that they may see me as heartless.
+  
+  I think the important steps to take in telling my story would be framing the story in a way that the listener can get engrossed in the story, understand my feelings and motives, and see the story from my perspective, while also making sure the story is actually interesting to them. I guess the steps would be practice telling the stories, and figure out which way makes the story the most appealing, and easiest to understand. 

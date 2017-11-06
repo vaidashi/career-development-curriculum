@@ -72,7 +72,7 @@ Take time to define your expectations:
 	* “Yes” means that you’re expecting your partner to do all the work of defining expectations (even if you don’t agree with these expectations)
 	* “Yes and” means that you’re collaborating and building on each other’s ideas for the good of the group
 * Beware of the Paired Project Fallacy:
-	* My partner is better than I am OR I’m not as good as my partner.
+	* My partner is better than I am OR My partner is holding me back.
 * Why is this a fallacy?
 	* This is a fallacy because it discounts all the important skills you both bring to your partnership.
 	* If you don’t feel as strong in your technical skills, what are your strengths? How do your strengths balance out your partner’s? How can you contribute to the project management? What do you want to learn during this project to improve your technical skills?
@@ -111,7 +111,7 @@ When a partner is not following through on expectations, the first step is to wo
 ### Facilitating the Conversation
 Now that you’ve identified a motivation behind your partner’s behavior, how do you conduct a conversation to change that behavior?
 
-* **Establish safety**: you’re about to address something sensitive with another person and he/she may feel threatened in one way or another.
+* **Establish safety**: you’re about to address something sensitive with another person and they may feel threatened in one way or another.
 	* **Mutual Respect**: People feel unsafe when they don’t feel mutual respect
 		* **Fix**: calm tone of voice, facial expressions, and using respectful language
 		* Ask for permission to speak with your partner
@@ -124,7 +124,7 @@ Now that you’ve identified a motivation behind your partner’s behavior, how 
 	* Start with **Facts**. What exactly happened? *Be careful of **NOT** inserting your opinion of what happened.*
 		* “We agreed that we would make big decisions together, but during the check-in, you told our instructor that you had already decided to implement that new feature before you discussed it with me.”
 	* Describe how the incident made you feel:
-		* “When you said that, it made me feel like you didn’t value my input and that you weren’t taking our expectations seriously.”
+		* “When you said that, it made me feel frustrated because I didn't think you valued my input and you weren’t taking our expectations seriously.”
 	* **Ask** for the other person’s side:
 		* “What is your take on this?”
 * Following up after stating your side:

@@ -1,7 +1,5 @@
 # Jeff Bender
 
-# Jeff Bender
-
 ## Mod 2 Deliverables:
 * Agile Practices in Mod 2
 * https://gist.github.com/j25bender/7e01711ea6197320ca4306629bc8563d
