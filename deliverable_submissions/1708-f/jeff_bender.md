@@ -1,14 +1,19 @@
 # Jeff Bender
 
-## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen), which creates a copy of this repository. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request, make sure to post:
+# Jeff Bender
 
-* Your Module
-* Your Program
-* Your First Name
-* Your Last Name
-
-Example: M1 FE Jessica Rodriguez
+## Mod 2 Deliverables:
+* Agile Practices in Mod 2
+* https://gist.github.com/j25bender/7e01711ea6197320ca4306629bc8563d
+    
+* Feedback II
+* https://gist.github.com/j25bender/890a17b5d773501de119401f26cb42e8
+    
+* Professional Story
+* https://gist.github.com/j25bender/9befac2f35649f96e800b57eb573aeaa
+  
+* Outreach & Networking Plan for Module 3
+* https://gist.github.com/j25bender/d6fb6843d756f2b7524733eb2b33ca1e
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo https://gist.github.com/j25bender/d64474561f3813af77727886954381b3
