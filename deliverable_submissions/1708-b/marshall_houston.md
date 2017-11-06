@@ -13,8 +13,9 @@ To make sure that you're in the right version of this markdown, check out [this 
 
 ## Mod 2 Deliverables:
 * Written reflection:
-  * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
-    https://gist.github.com/marshallhouston/0348af8494051a432e89ca0de3f579ea
+  * How you've used agile as a process at Turing and what kind of project management tools you utilized.
+
+  https://gist.github.com/marshallhouston/0348af8494051a432e89ca0de3f579ea
 
 * Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 https://gist.github.com/marshallhouston/037439dc200544b135a6a0ec6d5da61d
