@@ -14,4 +14,4 @@ Example: Jessica Rodriguez 1710-BE
 ## Mod 1 Deliverables:
 * Link to DTR Memo : [JL-2DoBox-Pivot DTR](https://gist.github.com/jjlljj/926d9e116271a2f157a814451ed44d8c)
 
-* Link to Strengths & Storytelling reflection : [JL-Strengths & Storytelling reflection](https://gist.github.com/jjlljj/58c7cbf42759204f3a87e61ce00c0fe5s)
+* Link to Strengths & Storytelling reflection : [JL-Strengths & Storytelling reflection](https://gist.github.com/jjlljj/58c7cbf42759204f3a87e61ce00c0fe5#file-jl-strengths-and-storytelling-reflection)
