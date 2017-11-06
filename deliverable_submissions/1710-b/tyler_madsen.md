@@ -9,5 +9,5 @@ Fork this repo (the fork button is at the top righthand side of your screen) and
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md): https://gist.github.com/tylermarshal/d9d7c5c2bc08e4327bf09310bfa746c1
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md): https://gist.github.com/tylermarshal/c0b88bd02bb02aa3936f919ea598f8bf
 
