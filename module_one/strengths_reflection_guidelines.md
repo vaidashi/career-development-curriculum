@@ -8,6 +8,7 @@
 1. What words or phrases stick out to you? How would you define each of your top 5 talents in your own words?
 
 
+
 2. Do these top 5 talent themes resonate with you? Why or why not? 
 
 
@@ -19,27 +20,19 @@
 4. When has it been difficult for me to be aware of this talent?
 
 
-
-
 5. What talents could you develop further that would help you in your growth at Turing and in your new career as a software developer?
-
-
 
 
 6. How would you like to build more awareness around these themes?
 
 
-
 7. In which situations would developing these themes be beneficial?
-
 
 
 8. When might you overuse any of these themes? How might you benefit from dialing it down in a certain situation?
 
 
-
 9. How could you use these themes to help you manage an area in which you might struggle?
-
 
 
 10. How can you do more of what you do best every day?
