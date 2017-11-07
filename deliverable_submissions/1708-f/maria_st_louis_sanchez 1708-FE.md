@@ -1,5 +1,21 @@
 # Maria St. Louis-Sanchez
 
+# Mod 2 deliverables:
+
+Feedback II
+https://gist.github.com/mariastlouis/daa8d180b1fc3506b0622830a04871bf
+
+Agile practices: 
+https://gist.github.com/mariastlouis/37720022ae6f5a0abf850d07ca9b34e7
+
+Personal story: 
+https://gist.github.com/mariastlouis/83982f2ca2a4f8718a8205d63588dd29
+
+Outreach plan: 
+https://gist.github.com/mariastlouis/70ee2d77f01fb4d48d0ad5326186daf7
+
+
+
 ## Directions to Submit PD deliverables:
 Fork this repo (the fork button is at the top righthand side of your screen) and then clone it to create a copy of this repository to use on your machine. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request title field, make sure to post:
 
