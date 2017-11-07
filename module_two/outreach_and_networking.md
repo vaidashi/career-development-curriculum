@@ -172,8 +172,6 @@ Because you've researched your contact, you'll know if there are certain things 
 * Consider timing based on your research -- have they recently launched a new product? You could tie your message to events or activities that are top of mind to the recipient
 * Connections -- even if you don’t know someone in common, you may have some other connection, like a school or other organization. Why did you pick that person to reach out to?
 
-For more on the effectiveness of outreach and follow up, check out 1606-BE alum Jesse Spevack's [blog post on his job search experience](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer)
-
 #### Other Email Tips
 * Keep it casual -- no "To Whom It May Concern"
 * ...But not *too* casual
