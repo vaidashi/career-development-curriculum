@@ -18,10 +18,17 @@ To make sure that you're in the right version of this markdown, check out [this 
     * What did you put into place in Module Two?
     * What was effective?
     * What do you want to improve on in future projects?
-  * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
+  * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills? 
+https://gist.github.com/julieahawkins/fcb4268a41dfb393241f1d8f50409d01
+
 * Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+https://gist.github.com/julieahawkins/dcbbc7944024b9aeb8d8daf4f1a54eac
+
 * Working draft of professional story (1-2 paragraphs)
+https://gist.github.com/julieahawkins/c01fa797714d7ada45653dced94aca2c
+
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
+https://gist.github.com/julieahawkins/b96ba11c4d2e75930943220279799a43
 
 ## Mod 1 Deliverables:
 
