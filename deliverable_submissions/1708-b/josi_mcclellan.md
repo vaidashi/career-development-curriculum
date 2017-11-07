@@ -1,30 +1,15 @@
+# Josi McClellan 1708-BE
 
-# Josi McClellan
 
- ## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen) and then clone it to create a copy of this repository to use on your machine. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request title field, make sure to post:
-
-* Your First Name
-* Your Last Name
-* Your Module & Program
-
-Example: Jessica Rodriguez 1708-BE
-
-To make sure that you're in the right version of this markdown, check out [this resource](https://help.github.com/articles/configuring-a-remote-for-a-fork/) to help you update your clone.
 
 ## Mod 2 Deliverables:
-* Written reflection:
-  * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
-    * What were you already doing?
-    * What did you put into place in Module Two?
-    * What was effective?
-    * What do you want to improve on in future projects?
-  * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
-* Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
-* Working draft of professional story (1-2 paragraphs)
-* Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
+* [Written reflection](https://gist.github.com/JosiMcClellan/ef337f2669d2797f851031fa4cb2063e)
+* [Feedback II reflection](https://gist.github.com/JosiMcClellan/a342bfcc192d0bed52478700c97bbe01)
+* [Working draft of professional story](https://gist.github.com/JosiMcClellan/b4ed57737849241621ad373683f60be8)
+* [Plan for outreach & networking](https://gist.github.com/JosiMcClellan/279b54b20640ab8a4d30c061be055d49)
+
+
 
 ## Mod 1 Deliverables
 [DTR with Emily Wise](https://gist.github.com/wiseemily88/e901d737814ef28375263288ba31282b)
-[Strengths and Storytelling Reflection](https://gist.github.com/JosiahMcClellan/dabaf11aaad032a239777251bdf61411)
-
+[Strengths and Storytelling Reflection](https://gist.github.com/JosiMcClellan/dabaf11aaad032a239777251bdf61411)
