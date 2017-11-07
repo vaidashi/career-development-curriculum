@@ -13,6 +13,7 @@ To make sure that you're in the right version of this markdown, check out [this 
 
 ## Mod 2 Deliverables:
 * Written reflection:
+-https://gist.github.com/adrian-lara/b06fca598ca39e260e386298968ffff7#file-mod2_pd-agile-md
   * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
     * What were you already doing?
     * What did you put into place in Module Two?
@@ -20,8 +21,11 @@ To make sure that you're in the right version of this markdown, check out [this 
     * What do you want to improve on in future projects?
   * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
 * Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+-https://gist.github.com/adrian-lara/037fad2d2a8aae54eee0e4a9482632a3#file-mod2_pd-feedback-md
 * Working draft of professional story (1-2 paragraphs)
+-https://gist.github.com/adrian-lara/9dbfface0ccd664dee144031a6e6b133#file-mod2_pd-professional_story-md
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
+-https://gist.github.com/adrian-lara/48cace970612c77196257e4c9814f5ad#file-mod2_pd-outreach-md
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
