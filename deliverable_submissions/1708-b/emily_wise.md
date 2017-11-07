@@ -18,10 +18,10 @@ To make sure that you're in the right version of this markdown, check out [this 
     * What did you put into place in Module Two?
     * What was effective?
     * What do you want to improve on in future projects?
-  * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
-* Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
-* Working draft of professional story (1-2 paragraphs)
-* Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
+  * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills? https://gist.github.com/wiseemily88/633fc617dfa707925076c157b0b406dd
+* Feedback II reflection: In-person feedback conversation following these https://gist.github.com/wiseemily88/a0254401d23f787dbce3ea52bac82506 [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+* Working draft of professional story (1-2 paragraphs) https://gist.github.com/wiseemily88/95e8b723d910f5aa5a0bbb546b2f0616
+* Plan for outreach & networking as you go into Module 3 using these https://gist.github.com/wiseemily88/1c10f216bd1c859b18998f5637b9528a [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md): https://gist.github.com/wiseemily88/e901d737814ef28375263288ba31282b
