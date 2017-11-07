@@ -12,9 +12,8 @@ Example: Jessica Rodriguez 1710-BE
 *If you are repeating the module, delete your previous clone and fork and re-fork and re-clone this repo to receive the updates and find your file in this new cohort.*
 
 ## Mod 1 Second Round Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to new gist with your updated reflection on your strengths and your story using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_follow-up.md)
-
+* DTR LINK: https://gist.github.com/Ecksi/ac15673ac678d93064ffc882d903df12
+* Link to new gist with your updated reflection: https://gist.github.com/timomitchel/bc7bf80b8edd95c597f685f6fc762af0
 ## Mod 1 Deliverables:
 DTR LINK : https://gist.github.com/timomitchel/90a09f6d137f640c1d95e09b6853afa7
 
