@@ -26,10 +26,7 @@ Students will leave Module Three with a clear blueprint for their job search by 
 ### Deliverables
 In order to fulfill the requirements of module three, students will submit these deliverables
 * Resume
-* Flower Exercise
 * Turing portfolio
-* Trello Board with companies that are being tracked
-* Job search action plan for Module 4
 * Gear Up-related reflections
 
 You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
