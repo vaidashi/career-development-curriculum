@@ -32,6 +32,8 @@ To make sure that you're in the right version of this markdown, check out [this 
 
 * Link to feedback implementation reflection & application of strengths to teams using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_strengths_reflection.md): https://gist.github.com/randy-darsh/722b8cf360f7e0c20b4fe59bc28c0b3f
 
+* Link to professional story draft: https://gist.github.com/randy-darsh/7d48c4991c8329b15da98644f1634b52
+
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md): https://gist.github.com/randy-darsh/a778928d0844a714cc1eec6f08327ab8
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md): https://gist.github.com/randy-darsh/c69f233738f3149de3cf72f6e80d523b
