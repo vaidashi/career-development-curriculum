@@ -3,6 +3,12 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1OZ8WCYsiTBBHEPVsFrEXM0VIJtZViLJr_Tui75zE1H8/edit?usp=sharing)
 
+-Use notes from channel
+-In this session, start on resume;....in finding opportunities: make them write a cover letter to reinforce this? 
+-M3: create master resume; use this to tailor something for resume review
+-M4: will be given scenarios to create resume and cover letter for
+-Go over portfolio more in-depth?
+
 ### Session Structure
 
 Length: 60 mins
