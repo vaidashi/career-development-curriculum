@@ -7,6 +7,14 @@
 ### Session Structure:
 Time: 60 mins, then breakout groups
 
+	-Go through the M4 PD groups more in-depth to discuss week by week what you’ll be doing with your coaches; week 1: intros, week 2: resumes, etc. 
+		-Ask coaches to add to doc and then provide more info in the Overall Coaching doc
+	-Ratings for the specific areas in the survey (outreach, etc) — have specific questions for them to gauge their current work in that area…be ready to discuss in their first peer group meeting
+	-Identify barriers — have pieces ready to discuss in peer group meeting
+	-Learn from alumni sections — change these to be more about strategically finding resources and connections to help them with the areas they feel weaker
+	-Bring in more coaching strategies; start with the vision? 
+	-After updating the markdown, share with M4 groups to get any updates for their meeting structures
+
 * Opening: objectives & introduction of scope & sequence of M4 PD; introduction to how groups will work & discuss end of module plan (12 mins)
 * Intro to barriers (10 mins)
 * Outreach (15 mins)
@@ -17,6 +25,8 @@ Time: 60 mins, then breakout groups
 ## Opening: The Big Picture
 ### Objectives
 * Understand the scope and sequence of Module 4 Professional Development and what support looks like this module
+* Discover the use and importance of M4 PD peer groups & coaches
+* 
 * Identify barriers that may come up for you in the job search
 * Identify particular strategies for outreach, networking, branding, and interview prep
 
