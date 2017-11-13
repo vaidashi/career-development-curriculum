@@ -68,7 +68,21 @@ Individually, reflect in your journal on barriers that have come up for you in p
 * What kind of support could you use from your peer group to help you move past these barriers? 
 Be prepared to share this information in your group DTR. 
 
-## Preparing for your Job Search
+## Overcoming Your Barriers: Using Your Strengths
+Go back to your
+
+Create SMART goals
+
+**Specific: State clearly where you are going**
+* What exactly do you want to accomplish? What is your desired outcome?
+* What will it look like when you reach your objective (what kind of offer do you imagine? What kind of company?)
+* Think of the timeframe you marked in your survey -- this is also how you've been grouped; how will you manage your time in this timeframe?
+
+**Measurable: How will you measure your progress?**
+* How can you quantify your goal so that you'll know when you reach it? This may be the timeframe that you've identified
+
+**Attainable: How is this goal within your capabilities?**
+* Go back to those barriers -- what might ......
 
 
 ## Jobtrack Set-Up
