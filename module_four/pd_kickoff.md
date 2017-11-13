@@ -15,6 +15,13 @@ Time: 60 mins, then breakout groups
 	-Bring in more coaching strategies; start with the vision? 
 	-After updating the markdown, share with M4 groups to get any updates for their meeting structures
 
+New plan:
+-Opening; discuss 30-day plan and purpose of PD groups
+-Coaching strategies: visioning, etc. 
+-Barriers and strategies for groups/coaches to hold them accountable for overcoming them
+-Jobtrack set-up
+-Resources
+
 * Opening: objectives & introduction of scope & sequence of M4 PD; introduction to how groups will work & discuss end of module plan (12 mins)
 * Intro to barriers (10 mins)
 * Outreach (15 mins)
