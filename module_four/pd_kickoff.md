@@ -7,10 +7,10 @@
 ### Session Structure:
 Time: 60 mins, then breakout groups
 
-* Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (15 mins)
+* Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (12 mins)
 * Intro to Barriers & Strategies (10 mins)
 * Coaching strategies: visioning, etc. (10 mins)
-* Jobtrack set-up (15 mins)
+* Jobtrack set-up (18 mins)
 * Resources/Alumni sharing (8 mins)
 * Closing & & prepare to get into breakout groups (2 mins)
 
@@ -37,8 +37,9 @@ In your Module 4, you'll be expected to:
 **You Do:** Students skim over the plan and ask any questions that come up (3-5 mins) 
 
 ### Professional Development Peer Groups & Coaches
+[Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to get your group going on the right track. Depending on your group's timeline, your group's structure will vary from week to week, but the guidelines provide you with a breakdown of what you'll discuss with your coaches and peers each week.
 
-[Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to get your group going on the right track. Students look over the guidelines and ask any questions that come up (3-5 mins)
+**You Do:** Students look over the guidelines and ask any questions that come up (5 mins)
 
 ## (Perceived) Barriers to your Job Search
 We can sometimes talk ourselves out of opportunities before we even give them a chance, and we create our own barriers to success.
@@ -67,9 +68,13 @@ Individually, reflect in your journal on barriers that have come up for you in p
 * What kind of support could you use from your peer group to help you move past these barriers? 
 Be prepared to share this information in your group DTR. 
 
-## Jobtrack Set-Up
-As a class, we'll watch this [video](https://drive.google.com/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?ts=5a09de11) on how to set up and utilize Jobtrack.io in your job search.  
+## Preparing for your Job Search
 
+
+## Jobtrack Set-Up
+As a class, we'll watch this [video](https://drive.google.com/a/jobtrack.io/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) on how to set up and utilize Jobtrack.io in your job search.  
+
+**You Do:** After watching the video, take 5 minutes to set up your jobtrack account and update it with current information.
 
 ## Strategies & Tools
 ### Outreach
@@ -116,7 +121,7 @@ Overview of what technical interview prep will look like this module:
 **You Do:** List out what you feel are your current strengths and weaknesses when it comes to technical interviews. How can you focus your time during technical interview prep sessions and mock interviews to help you capitalize on your strengths and improve your weaknesses?
 
 ### Closing: Break into Groups
-You'll meet with your peer groups to get started strategizing on your job search. **You've been grouped according to the timeline that you said you'd need a job by.** Keep this in mind as you plan together. You'll see who your coach is but won't meet with them until Week 2. 
+You'll meet with your peer groups to get started strategizing on your job search. **You've been grouped according to the timeline that you said you'd need a job by.** Keep this in mind as you plan together.
 
 Start with a DTR to get on the same page about your job search goals, barriers you might place on yourself in this job search, how you want to communicate with each other, and ideas for how you can motivate and hold each other accountable. [Use these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to help structure your time. 
 
