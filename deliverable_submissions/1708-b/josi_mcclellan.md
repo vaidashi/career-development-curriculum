@@ -6,5 +6,5 @@
 * [Plan for outreach & networking](https://gist.github.com/JosiMcClellan/279b54b20640ab8a4d30c061be055d49)
 
 ## Mod 1 Deliverables
-[DTR with Emily Wise](https://gist.github.com/wiseemily88/e901d737814ef28375263288ba31282b)
-[Strengths and Storytelling Reflection](https://gist.github.com/JosiMcClellan/dabaf11aaad032a239777251bdf61411)
+* [DTR with Emily Wise](https://gist.github.com/wiseemily88/e901d737814ef28375263288ba31282b)
+* [Strengths and Storytelling Reflection](https://gist.github.com/JosiMcClellan/dabaf11aaad032a239777251bdf61411)
