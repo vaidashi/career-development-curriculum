@@ -1,41 +1,26 @@
 # Module 4 Professional Development Kickoff
 
-## Your Crash Course in Job Search Strategies & Resources
+## Setting You Up for Success in the Module 4 Job Search
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing)
 
 ### Session Structure:
 Time: 60 mins, then breakout groups
 
-	-Go through the M4 PD groups more in-depth to discuss week by week what you’ll be doing with your coaches; week 1: intros, week 2: resumes, etc. 
-		-Ask coaches to add to doc and then provide more info in the Overall Coaching doc
-	-Ratings for the specific areas in the survey (outreach, etc) — have specific questions for them to gauge their current work in that area…be ready to discuss in their first peer group meeting
-	-Identify barriers — have pieces ready to discuss in peer group meeting
-	-Learn from alumni sections — change these to be more about strategically finding resources and connections to help them with the areas they feel weaker
-	-Bring in more coaching strategies; start with the vision? 
-	-After updating the markdown, share with M4 groups to get any updates for their meeting structures
-
-New plan:
--Opening; discuss 30-day plan and purpose of PD groups
--Coaching strategies: visioning, etc. 
--Barriers and strategies for groups/coaches to hold them accountable for overcoming them
--Jobtrack set-up
--Resources
-
-* Opening: objectives & introduction of scope & sequence of M4 PD; introduction to how groups will work & discuss end of module plan (12 mins)
-* Intro to barriers (10 mins)
-* Outreach (15 mins)
-* Networking & Branding (13 mins)
-* Technical Interview Prep Ideas (7 mins)
-* Closing & prepare to get into breakout groups (2 mins)
+* Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (15 mins)
+* Intro to Barriers & Strategies (10 mins)
+* Coaching strategies: visioning, etc. (10 mins)
+* Jobtrack set-up (15 mins)
+* Resources/Alumni sharing (8 mins)
+* Closing & & prepare to get into breakout groups (2 mins)
 
 ## Opening: The Big Picture
 ### Objectives
 * Understand the scope and sequence of Module 4 Professional Development and what support looks like this module
 * Discover the use and importance of M4 PD peer groups & coaches
-* 
 * Identify barriers that may come up for you in the job search
-* Identify particular strategies for outreach, networking, branding, and interview prep
+* Create a Jobtrack.io account
+* Identify particular resources & strategies for outreach, networking, branding, and interview prep
 
 ### Module 4 Professional Development Scope & Sequence
 You're starting your final module at Turing, and we aim to set you up with structured support to help you navigate this successfully. However, you are the driver of your own job search -- take advantage of all of the tools and resources listed here!
@@ -43,8 +28,9 @@ You're starting your final module at Turing, and we aim to set you up with struc
 ### Looking Ahead
 In your Module 4, you'll be expected to:
 
+* Participate in a trial with [jobtrack.io](https://jobtrack.io/)
 * Complete 1 mock interview and technical challenge
-* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) in your portfolio to discuss at the review
+* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) in your portfolio to discuss at the end-of-module portfolio review
 * Give your condensed elevator pitch version of your professional story at the portfolio review
 * Present your Turing Story, which will be a lightning talk of sorts to describe your Turing journey. Slides are encouraged but optional.
 
@@ -80,6 +66,10 @@ Individually, reflect in your journal on barriers that have come up for you in p
 * Think about how you answered the "confidence in the job search" question in the survey for PD peer groups. What specific areas bring you confidence? What areas do you feel less confident in?
 * What kind of support could you use from your peer group to help you move past these barriers? 
 Be prepared to share this information in your group DTR. 
+
+## Jobtrack Set-Up
+As a class, we'll watch this [video](https://drive.google.com/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?ts=5a09de11) on how to set up and utilize Jobtrack.io in your job search.  
+
 
 ## Strategies & Tools
 ### Outreach
