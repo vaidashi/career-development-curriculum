@@ -29,3 +29,7 @@ Length: 60 minutes
 * You Do: Individual Reflections (18 mins)
 * Closing: Recap use of StrengthsFinder and option for coaching (2 mins)
 
+### Before the Session
+* Review your strengths and reports before the session to be ready to share them with the class. You'll want to update Slide 12 with your own strengths. 
+* You'll also want to update Slide 22 with guidelines for how you'd like to run coaching/support sessions with students. 
+
