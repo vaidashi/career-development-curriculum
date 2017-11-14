@@ -1,16 +1,31 @@
-# StrengthsFinder Reflection
+# Introduction to StrengthsFinder
+
+## Getting to Know Yourself & Others Through Strengths
 
 [Slides for this session](https://docs.google.com/presentation/d/1lYiWl7gyoViF-ln4m_LY-Jx8wFcRAvJ428ivR8MU0sc/edit?usp=sharing)
+
+### Session Structure: 
+
+Time: 60 mins
+
+* Opening (5 mins)
+* Overview: what is a strength, etc. (10 mins)
+* I Do: Demonstrate how to interpret reports (10 mins)
+* We Do: Get to know each other through strengths (15 mins)
+* You Do: Individual Reflections (18 mins)
+* Closing: Recap use of StrengthsFinder and option for coaching (2 mins)
 
 ### Objectives
 * Understand what constitutes a strength
 * Understand how to develop a strength
 * Reflect on StrengthsFinder results 
+* Familiarize yourself with each other's strengths
 * Create goals for your professional development at Turing
 
 ### Optional Deliverable
-Complete this [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist and DM it to Allison. If you would like to schedule a coaching session with her, please indicate that in your DM to her. 
+Complete this [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist and DM it to Ellen Mary and/or Allison if you would like to schedule a coaching session to discuss it. 
 
+## Overview
 ### What is a Strength?
 The StrengthsFinder assessment doesn't measure strengths exactly -- instead, it's examining the presence of certain talents in [34 areas](https://github.com/turingschool/career-development-curriculum/blob/master/files/BriefDescriptionsOfThemes.pdf). Strengths are rather the product of building one's talents combined with skills and knowledge. Here is the breakdown of this development:
 
@@ -45,14 +60,14 @@ As you think about how to develop your strengths, consider these other areas tha
 
 Using your StrengthsFinder results will help you gather clues to identify your most powerful talents and develop your strengths as you learn new skills and prepare to transition careers. 
 
-### How to Use StrengthsFinder Results
+## How to Use StrengthsFinder Results
 Now that you have taken the StrengthsFinder assessment, let's dive into what the results mean. After taking the assessment, you were given your top 5 talent themes as well as a few PDF documents:
 
 * Signature Theme Report: This doc contains definitions of how the StrengthsFinder team defines your top 5 themes
 * Strengths Insight Report: This doc gives personalized insights for you based on your results. 
 * Strengths Insight and Action-Planning Guide: Along with insights, this document gives suggestions for action steps you could take to develop these talents more. 
 
-#### I Do
+### I Do
 Allison will model how she would reflect on her results:
 
 * Strategic
@@ -85,7 +100,24 @@ Allison will model how she would reflect on her results:
     * How can I maximize my time to ensure that I complete this action step?
     * How will I know that I’ve successfully completed this action step?
 
-### Next Steps & Coaching
+## Getting to Know Each Other Through Strengths
+1. Using just the Signature Themes Report (the report with the 5 definitions on it), familiarize yourself with how StrengthsFinder defines your top 5 themes and then answer these questions from the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own copy that you'll put in a gist:**
+* What words or phrases stick out to you for each theme?
+* How would you define each of your top 5 talents in your own words?
+* Do these top 5 talent themes resonate with you? Why or why not? 
+
+2. Fill in your top 5 on the cohort chart that your instructor will post in your channel. 
+
+3. Find a partner to introduce yourself using these strengths. We'll do 3 rounds of this so you can start to get to know others in your cohort according to your strengths. Here are some things you can discuss with each other:
+
+   * If you and your partner have the same strength in common, how is your understanding of the strength the same? How does it differ?
+   * 
+
+
+## Further Reflection
+Using the other two reports, now you'll take time to individually reflect on the results and begin to make both short-term and longterm goals for both Turing and your new career path using your strengths. Answer the rest of the questions on the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own gist. 
+  
+## Next Steps & Coaching
 StrengthsFinder will be a helpful tool we'll use throughout your career development sessions at Turing. If you would like support in building your strengths individually or just want someone to talk with about your goals or how to be successful at Turing, Allison is always available for 1-on-1 professional coaching. You can book time with her [here](https://allisonreusinger.youcanbook.me/) or just send her a DM. 
 
 Participating in coaching is completely optional, and even if you don't want to participate in coaching this module, you can participate at any point during your time at Turing. 
@@ -96,7 +128,5 @@ Coaching can be a helpful tool as students work to realize their own value both 
 
 All coaching sessions are confidential. 
 
-### Time for Reflection
-Now, take the next 30-40 minutes to read through your results and [complete the reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) to DM to Allison. If you'd like a follow-up meeting with Allison to discuss coaching around your goals, please indicate that in your message. 
 
 
