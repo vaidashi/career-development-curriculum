@@ -1,64 +1,43 @@
 **Directions:** Copy this template into your own gist.
 
-# Strengths Reflection & Coaching Request
+# Introductory Strengths Reflection & Coaching Request
 
+### In-Class Reflections Using the Signature Themes Report
+**Read through the definitions**:
 
-### Read Through Your Theme Definitions
+1. What words or phrases stick out to you for each theme?
 
-1. What words or phrases stick out to you? How would you define each of your top 5 talents in your own words?
+2. How would you define each of your top 5 talents in your own words?
 
+3. Do these top 5 talent themes resonate with you? Why or why not? 
 
+*Now, go find partners to introduce yourself to using these 5 areas*
 
-2. Do these top 5 talent themes resonate with you? Why or why not? 
+### Further Reflections
+4. How have you seen yourself using each of these talents? How often do you see yourself using these talents?
 
+5. When has it been difficult for you to be aware of these talents?
 
+6. When might you overuse any of these themes? How might you benefit from dialing them down in a certain situation?
 
-3. How have you seen yourself using each of these talents? How often do you see yourself using these talents?
-
-
-
-4. When has it been difficult for me to be aware of this talent?
-
-
-5. What talents could you develop further that would help you in your growth at Turing and in your new career as a software developer?
-
-
-6. How would you like to build more awareness around these themes?
-
-
-7. In which situations would developing these themes be beneficial?
-
-
-8. When might you overuse any of these themes? How might you benefit from dialing it down in a certain situation?
-
-
-9. How could you use these themes to help you manage an area in which you might struggle?
-
-
-10. How can you do more of what you do best every day?
-
-
+7. How could you use these themes to help you manage an area in which you might struggle?
 
 ### Look at the Suggested Action Items 
+8. What options sound doable? 
 
-11. What options sound doable? 
+9. What are some new ways to use these themes that you haven't utilized before?
 
+10. What obstacles are there to trying out any of these options?
 
+11. Short-term Goals: 
+* How will these talents help you in your work this module? 
+* What is an action step you'd like to commit to help you develop your themes further today? Next week? This module?
+* What do you want to learn this module to turn your talents into greater strengths?
 
-12. What are some new ways to use these themes that you haven't utilized before?
-
-
-
-13. What obstacles are there to trying out any of these options?
-
-
-
-14. Shortterm: What is an action step you'd like to commit to help you develop your themes further today? Next week? 
-
-
-
-15. Longterm: What do you want to learn this module to turn your talents into greater strengths? How will this help you with your professional or personal goals?
-
+12. Longterm Goals:
+* What professional goals do you have?
+* How will these talents contribute to your future career as a software developer? 
+* What would you like to focus on development at Turing to ensure that you develop these talents more fully?
 
 ### Repeating the Module
 If you've reflected on your StrengthsFinder results previously, here are some additional questions you may want to consider during this second module:
@@ -70,8 +49,7 @@ If you've reflected on your StrengthsFinder results previously, here are some ad
 * How did working with others last module affect how you understand your strengths?
 * What goals for your personal development do you want to make for this module? How will you know if you've achieved them?
 
-
 ### Next Steps
 This reflection is for your own growth, and you do not need to turn this in. 
 
-However, if you would like to have a follow-up coaching session with Allison, please DM this gist to her when you set up your 1-on-1 with her. You can schedule that [here](https://allisonreusinger.youcanbook.me/) or by sending her a DM.  
+However, if you would like to have a follow-up coaching session with Ellen Mary, please reach out to her to discuss next steps.   
