@@ -20,7 +20,7 @@ Length: 90 minutes
    * Whole Group Introduction (3 mins)
    * Tuckman's Video (6 mins)
    * StrengthsFinder Leadership Domains (5 mins)
-   * Discussion #1 (15 mins)
+   * Project Group Discussion (15 mins)
 * Closing: how to continue this at Turing (1 min)
 
 ### Objectives (Jeff & Allison)
