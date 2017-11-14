@@ -101,7 +101,7 @@ Allison will model how she would reflect on her results:
     * How will I know that I’ve successfully completed this action step?
 
 ## Getting to Know Each Other Through Strengths
-1. Using just the Signature Themes Report (the report with the 5 definitions on it), familiarize yourself with how StrengthsFinder defines your top 5 themes and then answer these questions from the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own copy that you'll put in a gist:**
+1. Using just the Signature Themes Report (the report with the 5 definitions on it), familiarize yourself with how StrengthsFinder defines your top 5 themes and then answer these questions from the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own copy that you'll put in a gist:
 * What words or phrases stick out to you for each theme?
 * How would you define each of your top 5 talents in your own words?
 * Do these top 5 talent themes resonate with you? Why or why not? 
