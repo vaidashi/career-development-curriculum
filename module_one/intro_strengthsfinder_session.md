@@ -110,9 +110,9 @@ Allison will model how she would reflect on her results:
 
 3. Find a partner to introduce yourself using these strengths. We'll do 3 rounds of this so you can start to get to know others in your cohort according to your strengths. Here are some things you can discuss with each other:
 
-   * If you and your partner have the same strength in common, how is your understanding of the strength the same? How does it differ?
-   * 
-
+   * What do your top 5 strengths mean to you?
+   * If you and your partner have the same strength(s) in common, how is your understanding of the strength the same? How does it differ?
+   * How could you and your partner learn from each other's strengths? 
 
 ## Further Reflection
 Using the other two reports, now you'll take time to individually reflect on the results and begin to make both short-term and longterm goals for both Turing and your new career path using your strengths. Answer the rest of the questions on the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own gist. 
@@ -127,6 +127,3 @@ Participating in coaching is completely optional, and even if you don't want to 
 Coaching can be a helpful tool as students work to realize their own value both as a professional and as an individual as it provides a framework for students to develop themselves to their fullest potential. As a coach, Allison works to get to know students as individuals, helping to uncover their core values, strengths, and passions through discussion, guidance, and reflection. She acts as a thought partner in these discussions. Through coaching, students are able to cultivate a stronger sense of self, which leads them to achieving peak performance in both personal and professional goals.   
 
 All coaching sessions are confidential. 
-
-
-
