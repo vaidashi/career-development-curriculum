@@ -33,5 +33,6 @@ Length: 60 minutes
 
 ### Before the Session
 * Review your strengths and reports before the session to be ready to share them with the class. You'll want to update Slide 12 with your own strengths. 
-* You'll also want to update Slide 22 with guidelines for how you'd like to run coaching/support sessions with students. 
+* You'll also want to update Slide 22 with guidelines for how you'd like to run coaching/support sessions with students.
+* Create a spreadsheet by making a copy of [this one](https://docs.google.com/a/casimircreative.com/spreadsheets/d/1sTqhaRG-25nTau3gqkSPHZ9YQkfBejCEXyNgyEylXK4/edit?usp=sharing) and adding in the roster for the cohort to use in the session. 
 
