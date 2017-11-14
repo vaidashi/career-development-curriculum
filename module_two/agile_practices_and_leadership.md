@@ -1,4 +1,6 @@
-# Agile Practices & Software Collaboration
+# Agile Practices & Leadership
+
+## Software Collaboration in Practice
 
 [Slides for this session](https://docs.google.com/presentation/d/1GV_PSrTRRKlXE1IKp9NXRHbgipyK1nmdk34i8n_UobQ/edit?usp=sharing)
 
