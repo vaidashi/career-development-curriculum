@@ -18,7 +18,9 @@
 
 ### Session Structure
 
-[Student Markdown](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/intro_strengthsfinder_session.md)
+* [Student Markdown](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/intro_strengthsfinder_session.md)
+
+* Students will create gists for their reflections using this [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md). **Note:** they should NOT edit the template itself.
 
 Length: 60 minutes
  
