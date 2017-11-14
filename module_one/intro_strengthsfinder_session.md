@@ -20,7 +20,7 @@ Time: 60 mins
 * Understand how to develop a strength
 * Reflect on StrengthsFinder results 
 * Familiarize yourself with each other's strengths
-* Create goals for your professional development at Turing
+* Create goals for your professional development at Turing using StrengthsFinder
 
 ### Optional Deliverable
 Complete this [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist and DM it to Ellen Mary and/or Allison if you would like to schedule a coaching session to discuss it. 
