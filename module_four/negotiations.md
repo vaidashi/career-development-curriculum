@@ -122,7 +122,7 @@ Let's say you receive the following offer:
 ### Whole Group Debrief
 Discuss the takeaways from the original offer as a whole group. What questions do you have? What would you negotiate?
     
-#### What if a Company Can't Meet Your Counter?
+### What if a Company Can't Meet Your Counter?
   * If the company is unable to meet your counter offer, *this is okay.* It is good practice to always negotiate
   * Consider asking for a three-month review to set goals and milestones and continue to evaluate what you’re worth
   * Follow that up with a six-month review to evaluate your performance against those goals/milestones
@@ -134,7 +134,7 @@ Discuss the takeaways from the original offer as a whole group. What questions d
 
   * You could also negotiate moving costs, but be aware that this is a reimbursement, not something you can take
 
-* **Keep in Mind:**
+**Keep in Mind:**
   * Don’t negotiate too high, so you don’t waste that extra money you could’ve negotiated earlier
   * Negotiating just an extra $1000 or two isn't worth it -- it doesn’t even out to a lot of money. It could make you look petty. You don't want to ruin a relationship over it
   * There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back.  
@@ -142,7 +142,7 @@ Discuss the takeaways from the original offer as a whole group. What questions d
     * You should be somewhere you want to be and where you’re valued
     * If they rescind the offer because you were disrespectful, that’s different. *But we don't expect you to be disrespectful*
   
-* **Bottom Line: Negotiating is Always Important**
+**Bottom Line: Negotiating is Always Important**
   * ...even if it’s just to ask clarifying questions!
   * **It’s important for you to advocate for yourself because there's no guarantee that anyone else will**
   
