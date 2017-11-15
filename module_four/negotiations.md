@@ -15,7 +15,8 @@ For some reason we live in a world that is afraid to talk openly about money. Th
   * Back to the question (5 mins)
 * Offer Discussion (10 mins)
 * Pair practice & Debrief (10 mins)
-* Q&A (10 mins)
+* Q & A (8 mins)
+* Closing (2 mins)
 
 ### Objectives 
 
