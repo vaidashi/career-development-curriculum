@@ -13,12 +13,9 @@ For some reason we live in a world that is afraid to talk openly about money. Th
   * Turn & Talk (5 mins)
   * Share Out (2 mins)
   * Back to the question (5 mins)
-* Offer Discussion (
-
-
-  * Writing (5 mins)
-  * Pair practice (7-8 mins)
-* Q&A (20 mins)
+* Offer Discussion (10 mins)
+* Pair practice & Debrief (10 mins)
+* Q&A (10 mins)
 
 ### Objectives 
 
