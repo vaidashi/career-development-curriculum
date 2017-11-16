@@ -7,7 +7,8 @@
 Time: 60 minutes
 
 * Opening (5 mins)
-* Intro to outreach (15 mins)
+* Intro to outreach (10 mins)
+* Crafting the Email (5 mins)
 * Outreach examples (5 mins)
 * Outreach practice (20 mins)
 * Intro to networking (5 mins)
