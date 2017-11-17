@@ -21,7 +21,7 @@
 ### Session Structure
 
 * [Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
-* [Student Worksheets](
+* [Student Worksheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing)
 
 This session is structured as a workshop...
 
