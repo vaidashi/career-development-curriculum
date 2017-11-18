@@ -23,8 +23,16 @@
 * [Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/flower_exercise.md)
 * [Student Worksheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing)
 
-This session is structured as a workshop...
+**Note:** This session is structured as a workshop. Students are introduced to each part of the exercise and are given time to start their brainstorming on the worksheets (linked above), but there is only enough time in the session for students to start this process. They are meant to continue reflecting on their own time outside of the session. 
 
-* Opening
-* 
+* Opening (8 mins)
+* Petal 1 (6 mins)
+* Petal 2 (6 mins)
+* Petal 3 (12 mins)
+* Petal 4 (6 mins)
+* Petal 5 (6 mins)
+* Petal 6 (6 mins)
+* Petal 7 (6 mins) 
+* Closing (4 mins)
+
 
