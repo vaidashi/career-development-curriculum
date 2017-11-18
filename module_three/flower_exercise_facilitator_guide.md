@@ -17,6 +17,7 @@
 ### Before the Session
 
 * Make copies of the [Flower Exercise 1-pager](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) for everyone in the session
+* Post the [student worksheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing) in the cohorts' channels prior to the session beginning. Instruct students to make a copy of the worksheets so that they can complete them during the session.
 
 ### Session Structure
 
