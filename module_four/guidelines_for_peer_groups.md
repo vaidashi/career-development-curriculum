@@ -3,7 +3,8 @@
 ## Overview
 Welcome to Module Four! This is when you’ll kick your job search into high gear, and to assist with that, you will meet with your peer group each Tuesday to discuss strategies and find ways to hold each other accountable. A Turing staff member will also be available as a coach to help your group stay on track and offer advice when needed. 
 
-## Potential topics for your group to discuss:
+## Resources:
+* [Jobtrack.io Tutorial](https://drive.google.com/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing)
 * Outreach emails: 
    * Write emails together 
    * Give feedback on each other’s emails before sending them out
@@ -35,6 +36,8 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
     * Use these [tips for writing blogs using templates, writing tools, and peer review resources.](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/blogging_tips.md) 
 * Pooling your resources: 
     * What leads or tips can you share with each other? Have you talked with someone who may not have an opening/company that's the right fit for you but could be a great fit for one of your groupmates?
+
+
 
 ## Suggested weekly check-in ideas:
 * Week 1: 
