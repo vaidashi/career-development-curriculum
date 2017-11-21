@@ -98,7 +98,7 @@ You can choose to set up a traditional resume use a template like this [traditio
 	* What’s Next: What do you hope to accomplish? What are you looking to gain from this experience? Is there a particular industry/tech stack/project you would like to be working with?
 
 * **Skills:** Continue to add to this area outlining your technical specialties (languages, frameworks, testing and tools). Ideally you want 12-20 items by the end of the program. 
-	* Highlight your dev/technical skills first. Include any transferable skills in this section as well.
+	* Highlight your dev/technical skills here. Include any transferable and/or professional skills in the experience section (see below).
 
 * **Projects:** Follow skills with a project section that includes 2-3 of your favorite projects. What are you proud of? Show it off! Answer the following questions:
 	* What does your application do? What problem does it solve? 
@@ -114,7 +114,7 @@ Does each project on your resume link to a GitHub repo? Does the ReadMe for each
 	* Title as "Experience" rather than "Employment"
 	* Format should start with title followed by company
 	* Use dates
-	* Use bullet points (3-5 per organization) & focus on the value that you brought to the organization rather than the individual tasks performed. Answer the questions: _What did you accomplish in this position?_ or _What are you most proud of?_ rather than, *What were your boring day-to-day duties?*
+	* Use bullet points (3-5 per organization) & focus on the value that you brought to the organization rather than the individual tasks performed. This is a perfect place to discuss other skills you have that you've utilized in adding value to the company. Answer the questions: _What did you accomplish in this position?_ or _What are you most proud of?_ rather than, *What were your boring day-to-day duties?*
 	* Turing can fall under experience or education but having it fall under experience brings it closer to the top and ties in with your self identification as a software developer. *Titling this category as “experience” rather than work history/employment allows for it to include things aside from paid employment*
 
 * Education
