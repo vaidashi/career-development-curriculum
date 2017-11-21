@@ -135,7 +135,7 @@ Cover letters are a perfect way to tell your story when you're applying for a jo
 Here is a template for how to lay out a cover letter:
 
 * **1st paragraph:** Your journey into tech and how this connects to why you care about the industry of the company you're contacting. This paragraph should have a *hook* that immediately connects to the reader. 
-* **2nd paragraph:** Your skills that are applicable to the job post. Also, highlight any additional skills that you think the reader should know about, but this is *not* a rehashing of your resume. What details can you let the hiring manager know about that couldn't fit on your resume? Emphasize how you will not only flourish in this role but you also have the drive and ability to keep growing professionally, take on more responsiblity, and benefit the company in ways beyond the initial position for which you're applying. 
+* **2nd paragraph:** Your skills that are applicable to the job post. Also, highlight any additional skills that you think the reader should know about, but this is *not* a rehashing of your resume. What details can you let the hiring manager know about that couldn't fit on your resume? Emphasize how you will not only flourish in this role but you also have the drive and ability to keep growing professionally, take on more responsibility, and benefit the company in ways beyond the initial position for which you're applying. 
 * **3rd paragraph:** How you’re going to apply your background and skills to make great experiences for the company's users/customers. Ultimately, this letter is not about *you* -- it's about the company and how you can build value for them and what they do.
 
 Check out this example to see how professional stories can be told through a cover letter:
