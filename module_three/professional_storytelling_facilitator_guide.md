@@ -19,4 +19,19 @@
 
 Session Length: 60 mins
 
-* 
+* Objectives/Review all of M3 PD for entire module (since this is first session): 3 mins
+* Recap storytelling/make plans to update story: 12 mins
+    * Review: 3 mins
+    * Practice (3 rounds): 9 mins
+* Resumes: 24 mins
+    * Intro: 2 mins
+    * Turn & Talk: 6 mins
+    * Resume Template & Tools: 6 mins
+    * Create Resume Master Draft: 10 mins
+* Cover Letters: 16 mins
+    * Intro to cover letters (2 mins)
+    * Example & Discussion (6 mins)
+    * Create Cover Letter Template (8 mins)
+* Intro to Portfolios: 3 mins
+* Closing: Wrap up storytelling; provide preview of Flower Exercise: 2 mins
+
