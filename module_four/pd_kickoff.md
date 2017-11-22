@@ -8,9 +8,8 @@
 Time: 60 mins, then breakout groups
 
 * Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (12 mins)
-* Intro to Barriers & Strategies (10 mins)
-* Creating Goals (10 mins) UPDATE WITH STRENGTHSFINDER ACTIVITIES
-* Resources/Alumni sharing (8 mins) -- Use time to dive into one area they feel most apprehensive about and see what strategies would be helpful for them...Incorporate link to Alan's post
+* Visioning, Barriers, & Strengths (20 mins)
+* Choose Your Own Adventure: Resources (8 mins) -- Use time to dive into one area they feel most apprehensive about and see what strategies would be helpful for them...Incorporate link to Alan's post
 * Jobtrack set-up (18 mins)
 * Closing & prepare to get into breakout groups (2 mins)
 
@@ -41,7 +40,14 @@ In your Module 4, you'll be expected to:
 
 **You Do:** Students look over the guidelines and ask any questions that come up (5 mins)
 
-## (Perceived) Barriers to your Job Search
+## Visioning, Barriers, & Strengths
+
+### Embarking on the Mod 4 Job Search: Dream Big
+Close your eyes and imagine that you’re in your dream job; what is it like? What are you doing? What does the company do? Who do you work with? Who are your users? Why is this a dream job for you — do you get to do what you like? Are you using your strengths? Do you get mentorship?
+
+Now open your eyes. Is there anything standing in your way of achieving that dream? 
+
+### (Perceived) Barriers to your Job Search
 We can sometimes talk ourselves out of opportunities before we even give them a chance, and we create our own barriers to success.
 
 * Examples of barriers:
@@ -68,30 +74,18 @@ Individually, reflect in your journal on barriers that have come up for you in p
 * What kind of support could you use from your peer group to help you move past these barriers? 
 Be prepared to share this information in your group DTR. 
 
-## Overcoming Your Barriers: Using Your Strengths
-Revisit your StrengthsFinder results
+## Overcoming Your Barriers: Seven Strategies
 
-Create SMART goals
+7 strategies; have students pair up for this?
+ Instructors model this each step of the way
+ 
+ Focus in on strengths: what power do you already have? Who else can help you harness that power? What resources do you need? What action steps will you take to overcom
 
-**Specific: State clearly where you are going**
-* What exactly do you want to accomplish? What is your desired outcome?
-* What will it look like when you reach your objective *(what kind of offer do you imagine? What kind of company?)*
-* Think of the timeframe you marked in your survey -- this is also how you've been grouped; how will you manage your time in this timeframe?
+**You Do:** ....
 
-**Measurable: How will you measure your progress?**
-* How can you quantify your goal so that you'll know when you reach it? This may be the timeframe that you've identified
+## Choose Your Own Adventure: Explore Your Resources
+Depending on the area that you've identified as being a particular barrier for you, ....
 
-**Attainable: How is this goal within your capabilities?**
-* Go back to those barriers -- what is one action step you can take to overcome those barriers?
-
-**Realistic: 
-
-
-**Timely: What can you accomplish this module?**
-
-**You Do:** Spend 6 minutes creating 2-3 concrete SMART goals for your job search using your strengths. Use the guiding questions above
-
-## Strategies & Tools: Choose Your Own Adventure
 ### Outreach
 The number #1 strategy we're going to encourage you to take on in your job search is to pursue relationships over applications. You do this through outreach. Whether it's "warm" outreach in which you utilize your existing network or "cold" outreach in which you initiate contact with someone you haven't met yet, building relationships with others who are already in the technology industry will help you get your foot in the door faster than if you merely submit your resume to online application portals.
 
