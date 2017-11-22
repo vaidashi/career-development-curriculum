@@ -34,8 +34,6 @@ Length: 60 minutes
   * Imagining that you can't fail at the job search/have unlimited resources -- what would you try?
   * Discuss what you've done in the past to help you overcome barriers in your job search
   * Brainstorm a few options based on your StrengthsFinder strengths and [domains of leadership](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing)
-  * Name a worst-case scenario -- what's the worst thing that could happen?
-  * What would happen if you intentionally did the thing that you're afraid of?
-  * Use a hypothetical that illustrates the exact opposite of the thing that you fear the most (what if this actually turned into something great? How does that change the situation?)
+  * Name a worst-case scenario -- what's the worst thing that could happen? What would happen if you intentionally did the thing that you're afraid of?
   * Find the underlying motivation for embarking on a job search in a new field -- link it back to the practicalities (not just the dreams) of what this new career means, such as higher income, support family better, greater work-life balance, intellectual stimulation, ability to make a difference on a real scale, etc. 
 
