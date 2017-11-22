@@ -22,14 +22,12 @@
 
 Length: 60 minutes
  
-* Opening: objectives & introduction of scope & sequence of M4 PD; introduction to how groups will work & discuss end of module plan (12 mins)
-* Intro to barriers (10 mins)
-* Outreach (15 mins)
-* Networking & Branding (12 mins)
-* Technical Interview Prep Ideas (8 mins)
+* Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (12 mins)
+* Visioning, Barriers, & Strengths (20 mins)
+* Choose Your Own Adventure: Resources (8 mins)
+* Jobtrack set-up (18 mins)
 * Closing & prepare to get into breakout groups (2 mins)
 
 ### Before the Session
-* Queue up podcast links to the correct starting time 
 * Update slide 19 with the new PD Peer Groups
 
