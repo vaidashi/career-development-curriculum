@@ -18,7 +18,7 @@ Kayt will send out email invitations to students for their Turing portfolios.
 
 ### Session Structure
 
-* [Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md)
+* Post the [Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md) in the cohort channels
 
 Session Length: 60 mins
 
