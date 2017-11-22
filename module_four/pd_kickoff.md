@@ -17,7 +17,7 @@ Time: 60 mins, then breakout groups
 ### Objectives
 * Understand the scope and sequence of Module 4 Professional Development and what support looks like this module
 * Discover the use and importance of M4 PD peer groups & coaches
-* Identify barriers that may come up for you in the job search
+* Identify barriers that may come up for you in the job search and utilize strategies to overcome them
 * Create a Jobtrack.io account
 * Identify particular resources & strategies for outreach, networking, branding, and interview prep
 
