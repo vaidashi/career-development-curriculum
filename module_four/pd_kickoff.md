@@ -10,7 +10,7 @@ Time: 60 mins, then breakout groups
 * Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (12 mins)
 * Intro to Barriers & Strategies (10 mins)
 * Creating Goals (10 mins) UPDATE WITH STRENGTHSFINDER ACTIVITIES
-* Resources/Alumni sharing (8 mins) -- Use time to dive into one area they feel most apprehensive about and see what strategies would be helpful for them...
+* Resources/Alumni sharing (8 mins) -- Use time to dive into one area they feel most apprehensive about and see what strategies would be helpful for them...Incorporate link to Alan's post
 * Jobtrack set-up (18 mins)
 * Closing & prepare to get into breakout groups (2 mins)
 
