@@ -6,7 +6,7 @@
 
 * Students are able to understand the scope and sequence of Module 4 Professional Development and what support looks like this module
 * Students are able to discover the use and importance of M4 PD peer groups & coaches
-* Students are able to identify barriers that may come up for you in the job search
+* Students are able to identify barriers that may come up for them in the job search and utilize strategies to overcome them
 * Students are able to create a Jobtrack.io account (if they didn’t create one in M3)
 * Students are able to identify particular resources & strategies for outreach, networking, branding, and interview prep
 
