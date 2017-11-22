@@ -31,7 +31,7 @@ Length: 60 minutes
 ### Before the Session
 * Have Jobtrack tutorial queued up for 1706 (not necessary for 1708)
 * Update slide 20 with the new PD Peer Groups
-* Decide on how to model the 7 strategies for overcoming barriers. There are suggestions listed below, but it will be helpful if you come up with any scenarios you're willing to share from your own job searches. This is a way that we as staff can share our stories with students and help them to make connections. Specifically, you'll need to model:
+* Decide on how to model the 5 strategies for overcoming barriers. This is a way that we as staff can share our stories with students and help them to make connections. Specifically, you'll need to model:
   * Imagining that you can't fail at the job search/have unlimited resources -- what would you try?
   * Discuss what you've done in the past to help you overcome barriers in your job search
   * Brainstorm a few options based on your StrengthsFinder strengths and [domains of leadership](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing)
