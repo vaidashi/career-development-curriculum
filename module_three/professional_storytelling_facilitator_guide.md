@@ -11,7 +11,10 @@
 
 | Set Up | Materials Needed | PPT Link |
 | ------ | ---------------- | ---------------- |
-| This session takes places in Clarke Hall | Students should have their laptops. You'll need your laptop to show slides | [Slides](https://docs.google.com/presentation/d/1OZ8WCYsiTBBHEPVsFrEXM0VIJtZViLJr_Tui75zE1H8/edit?usp=sharing) |
+| This session takes places in Clarke Hall | Students should have their laptops. You'll need your laptop to show slides. You'll also need a cell phone or watch to use as a timer. | [Slides](https://docs.google.com/presentation/d/1OZ8WCYsiTBBHEPVsFrEXM0VIJtZViLJr_Tui75zE1H8/edit?usp=sharing) |
+
+### Before the Session
+Kayt will send out email invitations to students for their Turing portfolios.
 
 ### Session Structure
 
