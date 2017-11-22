@@ -9,10 +9,10 @@ Time: 60 mins, then breakout groups
 
 * Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (12 mins)
 * Intro to Barriers & Strategies (10 mins)
-* Coaching strategies: visioning, etc. (10 mins)
+* Creating Goals (10 mins) UPDATE WITH STRENGTHSFINDER ACTIVITIES
+* Resources/Alumni sharing (8 mins) -- Use time to dive into one area they feel most apprehensive about and see what strategies would be helpful for them...
 * Jobtrack set-up (18 mins)
-* Resources/Alumni sharing (8 mins)
-* Closing & & prepare to get into breakout groups (2 mins)
+* Closing & prepare to get into breakout groups (2 mins)
 
 ## Opening: The Big Picture
 ### Objectives
@@ -69,28 +69,29 @@ Individually, reflect in your journal on barriers that have come up for you in p
 Be prepared to share this information in your group DTR. 
 
 ## Overcoming Your Barriers: Using Your Strengths
-Go back to your
+Revisit your StrengthsFinder results
 
 Create SMART goals
 
 **Specific: State clearly where you are going**
 * What exactly do you want to accomplish? What is your desired outcome?
-* What will it look like when you reach your objective (what kind of offer do you imagine? What kind of company?)
+* What will it look like when you reach your objective *(what kind of offer do you imagine? What kind of company?)*
 * Think of the timeframe you marked in your survey -- this is also how you've been grouped; how will you manage your time in this timeframe?
 
 **Measurable: How will you measure your progress?**
 * How can you quantify your goal so that you'll know when you reach it? This may be the timeframe that you've identified
 
 **Attainable: How is this goal within your capabilities?**
-* Go back to those barriers -- what might ......
+* Go back to those barriers -- what is one action step you can take to overcome those barriers?
+
+**Realistic: 
 
 
-## Jobtrack Set-Up
-As a class, we'll watch this [video](https://drive.google.com/a/jobtrack.io/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) on how to set up and utilize Jobtrack.io in your job search.  
+**Timely: What can you accomplish this module?**
 
-**You Do:** After watching the video, take 5 minutes to set up your jobtrack account and update it with current information.
+**You Do:** Spend 6 minutes creating 2-3 concrete SMART goals for your job search using your strengths. Use the guiding questions above
 
-## Strategies & Tools
+## Strategies & Tools: Choose Your Own Adventure
 ### Outreach
 The number #1 strategy we're going to encourage you to take on in your job search is to pursue relationships over applications. You do this through outreach. Whether it's "warm" outreach in which you utilize your existing network or "cold" outreach in which you initiate contact with someone you haven't met yet, building relationships with others who are already in the technology industry will help you get your foot in the door faster than if you merely submit your resume to online application portals.
 
@@ -133,6 +134,11 @@ Overview of what technical interview prep will look like this module:
 * Check out [these resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/technical_interview_prep_resources.md)
 
 **You Do:** List out what you feel are your current strengths and weaknesses when it comes to technical interviews. How can you focus your time during technical interview prep sessions and mock interviews to help you capitalize on your strengths and improve your weaknesses?
+
+## Jobtrack Set-Up
+As a class, we'll watch this [video](https://drive.google.com/a/jobtrack.io/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) on how to set up and utilize Jobtrack.io in your job search.  
+
+**You Do:** After watching the video, take 5 minutes to set up your jobtrack account and update it with current information.
 
 ### Closing: Break into Groups
 You'll meet with your peer groups to get started strategizing on your job search. **You've been grouped according to the timeline that you said you'd need a job by.** Keep this in mind as you plan together.
