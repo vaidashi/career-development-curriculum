@@ -20,14 +20,17 @@ Depending on your group's timeline, your meetings may vary slightly in structure
    * Write emails together 
    * Give feedback on each other’s emails before sending them out
    * Use [these guidelines and tips](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_guidelines.md) for the email-writing and reviewing process. 
+   * Alumni Resource: Check out this [blog post](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer) from 1606-BE grad Jesse Spevack on how he utilized cold outreach in his job search. 
 * Coffee meetings: 
    * What questions do you want to make sure to ask? Create a list with your group. Use [this list](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/research_conversation_questions.md) to get started
    * Share updates on how coffee meetings go as group members attend them
 * Networking events: 
    * What meetups are coming up? Who can you connect with at them? Make a plan to attend a meetup together
    * Discuss ideas for pitching a talk at a meetup; help anyone interested write out their pitch. Here are some [tips to help you get started](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/meetup_involvement_guidelines.md)
+   * Alumni Resource: 1406 grad Alan Smith has some [advice](https://turingschool.slack.com/files/U02B4RACH/F6F5K924A/My_Standard_Job_Hunt_Advice) for how you can utilize your job searching time, especially on networking 
 * Storytelling: 
    * Practice refining your story into a short elevator pitch and provide feedback to each other 
+   * Alumni Resource: 1606-BE grad Sonia Gupta and 1608-FE grad Matt Kaufman discuss in these two Turing podcasts about how their online presence helped them in their job search. Tip: For Sonia's podcast, listen to   and for Matt's, listen to 
 * Interview prep: 
     * Review common questions with each other
     * Discuss approaches that you've taken in mock interviews and real interviews alike
