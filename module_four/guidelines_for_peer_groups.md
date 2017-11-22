@@ -16,38 +16,46 @@ Depending on your group's timeline, your meetings may vary slightly in structure
 | Week 6    | * Keep jobtrack.io updated                                                                                                                                                                                                                                                                                                                                   | * Keep jobtrack.io updated                                                                                                                                                                                                                                                                                                                                | * Keep jobtrack.io updated                                                                                                                                                                                                                                                                             | * Keep jobtrack.io updated                                                                                                                                                                                                                       |
 ## Resources:
 * [Jobtrack.io Tutorial](https://drive.google.com/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing)
+
 * Outreach emails: 
    * Write emails together 
    * Give feedback on each other’s emails before sending them out
    * Use [these guidelines and tips](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_guidelines.md) for the email-writing and reviewing process. 
    * Alumni Resource: Check out this [blog post](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer) from 1606-BE grad Jesse Spevack on how he utilized cold outreach in his job search. 
+
 * Coffee meetings: 
    * What questions do you want to make sure to ask? Create a list with your group. Use [this list](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/research_conversation_questions.md) to get started
    * Share updates on how coffee meetings go as group members attend them
+
 * Networking events: 
    * What meetups are coming up? Who can you connect with at them? Make a plan to attend a meetup together
    * Discuss ideas for pitching a talk at a meetup; help anyone interested write out their pitch. Here are some [tips to help you get started](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/meetup_involvement_guidelines.md)
    * Alumni Resource: 1406 grad Alan Smith has some [advice](https://turingschool.slack.com/files/U02B4RACH/F6F5K924A/My_Standard_Job_Hunt_Advice) for how you can utilize your job searching time, especially on networking 
+
 * Storytelling: 
    * Practice refining your story into a short elevator pitch and provide feedback to each other 
-   * Alumni Resource: 1606-BE grad Sonia Gupta and 1608-FE grad Matt Kaufman discuss in these two Turing podcasts about how their online presence helped them in their job search. Tip: For Sonia's podcast, listen to   and for Matt's, listen to 
+   * Alumni Resource: [1606-BE grad Sonia Gupta](http://turingschool.libsyn.com/turing-grads-sonia-gupta-jesse-spevack) and [1608-FE grad Matt Kaufman](http://turingschool.libsyn.com/turing-podcast-revival-episode-5-turing-grads-the-real-world) discuss in these two Turing podcasts about how their online presence helped them in their job search. Tip: For Sonia's podcast, start at 10:10 and listen until 12:20, and for Matt's, start at 6:50 and listen until 9:12.
+
 * Interview prep: 
     * Review common questions with each other
     * Discuss approaches that you've taken in mock interviews and real interviews alike
     * Share resources to help each other level up
     * For resources and mentors who you can schedule mock interviews with, make sure to [reference this document](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/technical_interview_prep_resources.md)
+
 * Job Search Housekeeping: Resumes, Social Media, Turing Portfolios, GitHub:
     * Share your resumes with each other for feedback and tips
     * Review each other's LinkedIn profiles and provide feedback, write recommendations for each other, endorse each other's skills
     * Twitter: follow each other, retweet each other's posts, engage in discussions about software topics
     * Turing Portfolios: Review each other's Turing portfolios and provide feedback; check especially to make sure that all code is working and that there are updated ReadMes
     * GitHub: Review each other's code, look over and help each other write ReadMes for featured projects
+
 * Blogging: 
     * Discuss ideas for posts
     * Spend time writing blog posts together
     * Complete peer review
     * Discuss ideas for how you can use a blog post to increase visibility
     * Use these [tips for writing blogs using templates, writing tools, and peer review resources.](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/blogging_tips.md) 
+
 * Pooling your resources: 
     * What leads or tips can you share with each other? Have you talked with someone who may not have an opening/company that's the right fit for you but could be a great fit for one of your groupmates?
 
