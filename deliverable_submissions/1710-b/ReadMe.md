@@ -5,7 +5,7 @@ Fork this repo (the fork button is at the top righthand side of your screen) and
 * Your Last Name
 * Your Module & Program
 
-Example: Jessica Rodriguez 1708-FE
+Example: Jessica Rodriguez 1708-BE
 
 To make sure that you're in the right version of this markdown, check out [this resource](https://help.github.com/articles/configuring-a-remote-for-a-fork/) to help you update your clone.
 
