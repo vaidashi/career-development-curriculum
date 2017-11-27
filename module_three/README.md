@@ -32,7 +32,7 @@ In order to fulfill the requirements of module three, students will submit these
 * [Turing Alumni portfolio](https://www.turing.io/alumni)
 * Gear Up-related reflections
 
-Gear Up Reflections will go in your end-of-module portfolio. During the portfolio review, you'll present your Turing portfolio and updated resume to your instructors. 
+Gear Up Reflections will go in your end-of-module portfolio. During the portfolio review, you'll also present your Turing portfolio and updated resume to your instructors. 
 
 ### Gear Up Sessions
 
