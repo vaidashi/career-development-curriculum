@@ -23,7 +23,7 @@ Time: 60 mins
 * Create goals for your professional development at Turing using StrengthsFinder
 
 ### Optional Deliverable
-Complete this [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist and DM it to Ellen Mary and/or Allison if you would like to schedule a coaching session to discuss it. 
+Complete this [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist and DM it to Ellen Mary if you would like to schedule a coaching session to discuss it. These coaching sessions will happen during Tuesday lunch office hours.
 
 ## Overview
 ### What is a Strength?
@@ -68,13 +68,13 @@ Now that you have taken the StrengthsFinder assessment, let's dive into what the
 * Strengths Insight and Action-Planning Guide: Along with insights, this document gives suggestions for action steps you could take to develop these talents more. 
 
 ### I Do
-Allison will model how she would reflect on her results:
+Erin will model how she would reflect on her results:
 
-* Strategic
+* Connectedness
 * Empathy
-* Intellection
-* Developer
 * Input
+* Strategic
+* Ideation
 
 1. Discover the meaning of a talent theme:
     * How does StrengthsFinder define these themes?
@@ -118,7 +118,7 @@ Allison will model how she would reflect on her results:
 Using the other two reports, now you'll take time to individually reflect on the results and begin to make both short-term and longterm goals for both Turing and your new career path using your strengths. Answer the rest of the questions on the [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md) in your own gist. 
   
 ## Next Steps & Coaching
-StrengthsFinder will be a helpful tool we'll use throughout your career development sessions at Turing. If you would like support in building your strengths individually or just want someone to talk with about your goals or how to be successful at Turing, Allison is always available for 1-on-1 professional coaching. You can book time with her [here](https://allisonreusinger.youcanbook.me/) or just send her a DM. 
+StrengthsFinder will be a helpful tool we'll use throughout your career development sessions at Turing. If you would like support in building your strengths individually or just want someone to talk with about your goals or how to be successful at Turing, please attend Ellen Mary's office hours on Tuesdays from 12-1 pm.
 
 Participating in coaching is completely optional, and even if you don't want to participate in coaching this module, you can participate at any point during your time at Turing. 
 
