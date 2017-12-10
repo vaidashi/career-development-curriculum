@@ -37,6 +37,25 @@ My role as a teammate in my projects was just that, a teammate. I make sure, tha
   
 * Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 
+  * Date of feedback conversation: 
+12/08/2017
+
+  * How did you prepare for the conversation? 
+
+During the project, usually after long sessions of work or at the end of the day we would discuss how the day went and how we were both feeling about the project and each other. So I took into account all of those conversations along with reflecting on how I thought the project went in the end.
+
+  * How did the conversation go for you? What was easy about the conversation? What was more difficult? 
+
+I thought the conversation went very well. Our whole project went smoothly. Our conversation about the project went just as smoothly, we both feel we worked hard and made amazing progress. Discussing all the things that went well in the project were easy to talk about because we were reveling in our victories. The most difficult thing to talk about was the coaching. We acknowledged that we both have more to learn, but we understand that as students, that's exactly why we're here.
+
+  * What principles of feedback did you use in the conversation? 
+
+We used positive feedback, acknowledgement of our successes, and coaching.
+
+  * Any other comments: 
+
+Group: Alex, Kailin
+
 
 * Working draft of professional story (1-2 paragraphs)
 
