@@ -65,6 +65,30 @@ Group: Alex, Kailin
   
   I left Verizon because their motivations started to shift. The job became less about helping people and more about making the sale regardless of what the customer actually wants. Time spent ensuring a customer had a great experience was frowned upon if it didn't result in them opening up their wallets. I took to code because of my love for solving problems. I have learned that in a coding position I'll be able to be creative, solve problems, and create websites and programs that people want or need to use. During my time at Turing I focused on growth outside of my career as well. I picked up and moved to Denver, CO. I spent every day improving my coding skills. Any time not spent coding was spent training for a half marathon and preparing my meals for the week. Code school was the catalyst for the majority of my self improvement and I'm looking forward to the next step where I can take everything I've learned and apply it to my next career.
 
+# Feedback III Reflection
+
+* What are you doing well as a pair programmer and collaborator?
+ 
+As a pair programmer I am showing people that I have a lot to offer as far as getting the job done. My partners and I selected motivating, driven, positive, and knowledgeable. I think these skills describe a strong work ethic and describe me as a powerful part of the pair. I think I'm showing people that I'm a very useful parter in a pairing situation.
+
+* How do you use your strengths as a team member?
+
+I try to stay focused and positive when facing challenges. I think a lot of what people said about me in my blind spot, I do see about myself, but with only 15 words to select I had to eliminate a lot of the choices.
+
+* How would you like to continue to develop your strengths?
+
+I like the majority of words that came up in my blind spot, I think they're true to who I am and who I want to be. Some of the words that were selected for me I would like to focus more on to make a change. Needy is one of the words chosen for me, which I think links to my selection of self-consious in the Facade block. I think if I work on my confidence in times of discomfort, both of those words would fall into the unknown.
+
+* What would you like to improve on as a teammate?
+
+The "uncompromising" trait. I think it can be a good thing, as in someone who stands strong in their values. I can also see how it's a negative thing, as in one who does not compromise. I want to make sure I stay on the positive side of that trait.
+
+* How would you like your teammates to see you?
+
+Friendly, Kind, clever, caring, logical, driven, knowledgable, motivating, positive.
+
+* Any other comments:
+
 
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
 
