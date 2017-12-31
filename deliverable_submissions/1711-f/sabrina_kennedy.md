@@ -20,6 +20,10 @@ https://gist.github.com/chunktooth/7a15fc2ceb61acf7d6e150146acbeadc idea box dtr
 
 https://gist.github.com/skenne21/c2ba4f31f7ff47af27c2863b2e24cd34
 
+  
+
+  
+
 ## Mod 1 Round One Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
