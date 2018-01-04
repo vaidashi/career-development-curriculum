@@ -98,6 +98,38 @@ Friendly, Kind, clever, caring, logical, driven, knowledgable, motivating, posit
 
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
 
+# Outreach & Networking Plan for Module 3
+As we've discussed, meeting people, forming relationships, and having conversations are the key pieces to getting your foot in the door at any company. It's important to be proactive in your approach to outreach and networking, so it's necessary to make a plan for what you'll try in Module 3. 
+
+**Meetups/Networking Events:** Identify 1 meetup and/or other networking event that you'll attend between now and the end of Module 3. Answer these questions:
+
+* Why will you attend this particular event?
+
+  I have already attended a Denver Devs meetup. It was a happy hour event. I chose it because it seemed like a very laid back event where I could just go and introduce myself to the people there without discussing code and jobs too heavily. It was a nice way to get introduced to the people who attend the event.
+  
+* Who do you hope to connect with at this event?
+
+  I was just looking forward to meeting whoever would be willing to talk to me. Which, as it turned out, was basically everyone. Networking there was very casual and everyone was very friendly and welcoming. It was not as intimidating as I thought it would be.
+
+* How will you follow-up with the people you connect at this event?
+
+  At the first event I didn't really manage to follow up with anyone but I am paying attention to the Denver Devs slack channel and keeping an eye out for more meetups to go to. I figure once I start attending enough that people start to recognize me, I'll move on to the next phase and start contacting those people directly and eventually meet up with them outside of Denver Devs meetups.
+
+**Warm Outreach:** Identify a mentor, alum, or someone else in the Turing community you will reach out to by the end of Module 3. *If you have someone you'd like to reach out to outside of the Turing community, go for it!* Describe:
+
+* Why you want to connect with this person and what you hope to talk about
+
+  I have already found a mentor from the Mentor list. I wanted to contact her because her description on the list included a lot of my hobbies outside of coding. She is also local to denver which means we'd be able to meet at turing if we wanted to pair in person.
+
+* When you will contact them by and how you plan to meet
+
+  So far our communication has been mostly through slack. I set up a video chat for the first time we met but since then it has been mostly DMing through slack. It seems to work best for both of us. 
+
+* What your follow-up will look like once you've met with them
+
+  Our plan is to keep in touch and I'll reach out whenever I have questions. I have also made a point to reach out occasionally just to see how things are going in the attempt to make a more casual conversation. Also I don't want to get in the pattern of only reaching out when I have a question about code.
+
+
 ## Mod 1 Deliverables:
 * Link to DTR Memo
 
