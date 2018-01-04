@@ -129,7 +129,6 @@ As we've discussed, meeting people, forming relationships, and having conversati
 
   Our plan is to keep in touch and I'll reach out whenever I have questions. I have also made a point to reach out occasionally just to see how things are going in the attempt to make a more casual conversation. Also I don't want to get in the pattern of only reaching out when I have a question about code.
 
-
 ## Mod 1 Deliverables:
 * Link to DTR Memo
 
