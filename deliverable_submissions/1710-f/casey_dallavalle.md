@@ -19,6 +19,7 @@ Casey Dallavalle 1710-FE
   ** I participated in two group projects this mod, one with Melena Suilteanu, the other with Valentino Valentine. Melena and I had a very similar level of code expertise. In our work, we agreed on several things: doing the javascript together and making sure we were spending an equal amount of time driving and navigating. We were successful in being both leaders and also supporting each other. We are both good communicators and were able to talk through challenges in code when stress was high. I also had a successful pairing with my last partner, Valentino Valentine. Valentino and I definitely had different strengths. I was technically more capable than him, so I wanted to make sure that he had the space to learn from this project. I ended up taking a lot more of the navigations. Since I am a very hands on person, I made sure to code everything again on my own time. Being a navigator was challenging for me. I am an introvert, so talking a lot and also leading tires me out quickly. However, I feel like the project helped me learn to lead and teach as a navigator.
   
 * Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+
   **Date of feedback conversation: 
     - 12/11/17
   
