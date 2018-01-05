@@ -68,6 +68,8 @@ Some lists you may want to set up in Trello are:
 #### Jobtrack.io
 [Jobtrack.io](https://jobtrack.io) is another tool that has been built specifically for job seekers. It allows you to track relationships with companies and where you are in the process, pulling in data about companies intuitively through its free Chrome extension. You are also able to manage versions of your resume and cover letters within the tool, and it will send you reminders to proceed in different steps of the process with companies. 
 
+This [tutorial](https://drive.google.com/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) can help you get started on using it effectively. 
+
 #### Your Turn
 Explore different Job Search Tracker systems and decide on one that you can set up now. Start by reading this [blog post on using Trello for the job search](https://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process), which is a 4-minute read, and then dive into both of these tools to see what might be more beneficial for you. 
 
