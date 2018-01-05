@@ -20,8 +20,8 @@ Casey Dallavalle 1710-FE
   
 * Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 
-  **Date of feedback conversation: 
-    - 12/11/17
+  ** Date of feedback conversation: 
+    *** 12/11/17
   
   ** How did you prepare for the conversation?
     - I did a reflection of the two weeks we were working together on game time. I made a list of things that overall were very successful and created some examples of each. I made sure to think of her specific strengths in the project and how they 1) helped us create a better produce and 2) complimented my strengths and weaknesses as well. 
