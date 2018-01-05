@@ -36,10 +36,8 @@ Casey Dallavalle 1710-FE
   - I had always been interested in learning how to code and my chance came in the form of a free two day coding weekend geared towards minorities in the tech field. After the event, I starting learning HTML, CSS and Javascript on my own time. Eventually I decided to take the leap and invest in Turing School of Software & Design. I quickly grew to love software development and am thoroughly excited about my future. One thing Turing helped me realize, is that I am a learning-oriented person. The reason I did not find satisfaction in my previous career, is because every job I worked in required performing the same tasks, meticulously, over and over again. I am excited by a career in software development because I will always be challenging myself to expand my skills and learning new code. My goal is to combine my love for nature with my new knowledge and create technology that helps people connect to the world around them.
   
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
- 
  - The meetup plan: 
     On Tuesday, January 16th I plan to attend the React w/ D3 and Drawing on a Map with deck.gl. I want to go to this event because I am interested in working in React after Turing. I hope to connect with people in the industry who are working in React and also learn companies in Denver that are using the React technology. I will follow-up via email or linkedIn - whatever they prefer.
-      
   - The outreach plan:
     I just emailed a woman named Lia James. She was a previous Turing instructor and I met her at a Tech Ladies Meet Up. I want to connect with her because she seems like she knows the tech industry well and might be able to point me to people and/or companies to connect to. I already contacted her and hopefully will meet with her in the near future! My follow-up will be an email thanking her for her time and updating on any advice she may have given me.
 
