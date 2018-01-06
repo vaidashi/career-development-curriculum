@@ -12,9 +12,13 @@ Example: Jessica Rodriguez 1710-BE
 
 ## Mod 2 Deliverables:
 [Project Management and Leadership](https://gist.github.com/farmermel/c34bd2c21d0ec62a1f49e0bf62ca29da)
+
 [Feedback II Reflection](https://gist.github.com/farmermel/2e96a2929a2471a09ab801dba0921b59)
+
 [Professional Story Draft](https://gist.github.com/farmermel/7fe7716c5cea1561081c874809d0acba)
+
 [Outreach and Networking Plan](https://gist.github.com/farmermel/591b29fa578f73883276cb4677d1f10a)
+
 [Feedback III Reflection](https://gist.github.com/farmermel/4a04a5e7f5abde129489179792e39a62)
 
 ## Mod 1 Deliverables:
