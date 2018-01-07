@@ -14,4 +14,4 @@ Example: Jessica Rodriguez 1710-FE
 ## Mod 1 Deliverables:
 * Link to [DTR Memo](https://github.com/mngatewood/2DoBox/blob/master/DTR.md)
 
-* Link to gist documenting your (strengths & storytelling reflection)[https://gist.github.com/mngatewood/2184f5250f2ed8f3bc2b29763460bf07]
+* Link to gist documenting your [strengths & storytelling reflection](https://gist.github.com/mngatewood/2184f5250f2ed8f3bc2b29763460bf07)
