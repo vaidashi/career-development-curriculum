@@ -1,5 +1,5 @@
 # Flower Exercise
-## Taking Inventory of Who You Are to Help you Find the Best Fit
+## Taking Inventory of Who You Are to Help You Find the Best Fit
 
 What is important to you? What goals do you have for yourself? What kind of services do you want to provide? Where do you see your career going? Utilizing a job-hunting strategy that has an 84% success rate, you’ll complete a self-inventory to answer those questions and more in this session adapted from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles
 

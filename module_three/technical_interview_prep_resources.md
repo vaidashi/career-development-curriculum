@@ -3,7 +3,7 @@
 This markdown is intended to provide resources for Module 3 and 4 students as they prepare for technical interviews. This list is in no way exhaustive, but this should help give you a good start.
 
 ### Read this first
-Super mentor Ian Douglas has published [this handy guide](https://docs.google.com/document/d/1yWfxxYoCkZgxQrJ5Bn6051OE9a6f7mm5zs72jvqGKx8/edit?usp=sharing) to the ins and outs of technical interviews
+Ian Douglas has published [this handy guide](https://docs.google.com/document/d/1yWfxxYoCkZgxQrJ5Bn6051OE9a6f7mm5zs72jvqGKx8/edit?usp=sharing) to the ins and outs of technical interviews
 
 ### Videos
 
@@ -13,7 +13,6 @@ Super mentor Ian Douglas has published [this handy guide](https://docs.google.co
 
 * [Mark Miranda](https://markmiranda.youcanbook.me/)
 * [Rich Shea](https://richcshea.youcanbook.me/) - if you do not see a time that works for you, feel free to reach out to Rich on Slack (@richshea)
-* [Adrienne Domingus](https://calendly.com/adriennedomingus/) - if you do not see a time that works for you, feel free to reach out to Adrienne on Slack (@adrienne)
 * [Austin Wood](https://austinwood.youcanbook.me/)
 
 ### Apps & Other Resources

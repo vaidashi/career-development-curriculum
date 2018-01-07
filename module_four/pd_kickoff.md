@@ -1,24 +1,25 @@
 # Module 4 Professional Development Kickoff
 
-## Your Crash Course in Job Search Strategies & Resources
+## Setting You Up for Success in the Module 4 Job Search
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing)
 
 ### Session Structure:
 Time: 60 mins, then breakout groups
 
-* Opening: objectives & introduction of scope & sequence of M4 PD; introduction to how groups will work & discuss end of module plan (12 mins)
-* Intro to barriers (10 mins)
-* Outreach (15 mins)
-* Networking & Branding (13 mins)
-* Technical Interview Prep Ideas (7 mins)
+* Opening: objectives, scope & sequence of M4 PD. Introduction to PD groups, breakdown of week by week, and discussion of 30-day plan (10 mins)
+* Visioning, Barriers, & Strengths (30 mins)
+* Jobtrack set-up (18 mins)
+	* This time can also be used to explore resources if students already have jobtrack accounts
 * Closing & prepare to get into breakout groups (2 mins)
 
 ## Opening: The Big Picture
 ### Objectives
 * Understand the scope and sequence of Module 4 Professional Development and what support looks like this module
-* Identify barriers that may come up for you in the job search
-* Identify particular strategies for outreach, networking, branding, and interview prep
+* Discover the use and importance of M4 PD peer groups & coaches
+* Identify barriers that may come up for you in the job search and utilize strategies to overcome them
+* Create a Jobtrack.io account
+* Identify particular resources & strategies for outreach, networking, branding, and interview prep
 
 ### Module 4 Professional Development Scope & Sequence
 You're starting your final module at Turing, and we aim to set you up with structured support to help you navigate this successfully. However, you are the driver of your own job search -- take advantage of all of the tools and resources listed here!
@@ -26,18 +27,26 @@ You're starting your final module at Turing, and we aim to set you up with struc
 ### Looking Ahead
 In your Module 4, you'll be expected to:
 
+* Participate in a trial with [jobtrack.io](https://jobtrack.io/)
 * Complete 1 mock interview and technical challenge
-* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) in your portfolio to discuss at the review
+* Submit your [30-day job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) in your portfolio to discuss at the end-of-module portfolio review
 * Give your condensed elevator pitch version of your professional story at the portfolio review
 * Present your Turing Story, which will be a lightning talk of sorts to describe your Turing journey. Slides are encouraged but optional.
 
 **You Do:** Students skim over the plan and ask any questions that come up (3-5 mins) 
 
 ### Professional Development Peer Groups & Coaches
+[Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to get your group going on the right track. Depending on your group's timeline, your group's structure will vary from week to week, but the guidelines provide you with a breakdown of what you'll discuss with your coaches and peers each week.
 
-[Reference these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to get your group going on the right track. Students look over the guidelines and ask any questions that come up (3-5 mins)
+**You Do:** Students look over the guidelines and ask any questions that come up (3-5 mins)
 
-## (Perceived) Barriers to your Job Search
+## Visioning, Barriers, & Strengths
+### Embarking on the Mod 4 Job Search: Dream Big
+Close your eyes and imagine that you’re in your dream job; what is it like? What are you doing? What does the company do? Who do you work with? Who are your users? Why is this a dream job for you — do you get to do what you like? Are you using your strengths? Do you get mentorship?
+
+Now open your eyes. Is there anything standing in your way of achieving that dream? 
+
+### (Perceived) Barriers to your Job Search
 We can sometimes talk ourselves out of opportunities before we even give them a chance, and we create our own barriers to success.
 
 * Examples of barriers:
@@ -57,59 +66,78 @@ What are some barriers you might carry with you? Think about these areas:
 * Other -- what other anxieties do you have that aren't covered in the other categories? 
 
 **You Do:**
-Individually, reflect in your journal on barriers that have come up for you in previous job searches and/or that you anticipate could hold you back in your current job search. 
+Individually, reflect in your journal on specific barriers that have come up for you in previous job searches and/or that you anticipate could hold you back in your current job search. 
 * Why do you think these barriers occur for you? 
 * Have you tried to overcome them in the past? If so, what was effective for you? 
 * Think about how you answered the "confidence in the job search" question in the survey for PD peer groups. What specific areas bring you confidence? What areas do you feel less confident in?
 * What kind of support could you use from your peer group to help you move past these barriers? 
 Be prepared to share this information in your group DTR. 
 
-## Strategies & Tools
-### Outreach
-The number #1 strategy we're going to encourage you to take on in your job search is to pursue relationships over applications. You do this through outreach. Whether it's "warm" outreach in which you utilize your existing network or "cold" outreach in which you initiate contact with someone you haven't met yet, building relationships with others who are already in the technology industry will help you get your foot in the door faster than if you merely submit your resume to online application portals.
+## Overcoming Your Barriers: Five Strategies 
+Adapted from *Coaching Questions* by Tony Stoltzfus
 
-To give you a sense of how effective this approach can be, check out [this blog post from 1606-BE alum Jesse Spevack](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer) on his job search, specifically on how he utilized outreach in his job search.
+In order to overcome our barriers and achieve that dream job, we need to incorporate strategies that actually allow us to move past these barriers.
 
-**You Do:** Spend 7 minutes reading this blog post (stop at the section that ends immediately before "Technical Challenges") and jot down any points that stick out to you. What parts of Jesse's approach seem doable to you and why? What parts seem daunting to you and why? How can you adapt any of Jesse's advice to your own approach?
+**1. Dream Without It:**
+Imagine that the obstacle is suddenly gone. Think about what you would do then. **Goal:** experience the possibility that the dream could happen to provide energy to tackle the barrier. 
 
-**Pair & Share:** Pair up with someone else to share your takeaways from Jesse's blog post.
+Guiding questions:
+* With the barrier gone, how does that change things for you? How do you feel about pursuing that dream job now?
+* If you had unlimited resources and couldn't fail, what would you do then?
 
-**Whole Group Discussion:** 
-* What value is there in using outreach as a job search strategy?
-* What are some ways that you will adapt Jesse's approach in your job search? 2-3 people share out.
+**Do:** Instructor models and then students jot down ideas
 
-Later, you'll use notes that you took here to discuss in your PD peer groups. 
+**2. Find What Worked in the Past:**
+Different change strategies work for different people. To find what works for you, explore what you've done in similar situations in the past. **Goal:** act of reflecting on past successes builds courage and confidence and brings to mind practical solutions.
 
-### Networking & Branding
-Another way to build relationships is through networking and sharing your story with others. 
+Guiding questions:
+* When you've faced this kind of obstacle in the past, how did you overcome it? 
+* When have you faced a fear in the past and beat it? How'd you do it?
+* Think back to why you left your last job and enrolled in Turing. What was the turning point for you there? From that success, what can you apply to this new job search?
+ 
+**Do:** Instructor models and then students jot down ideas
 
-**Whole Group:** What's the purpose of going to meetups and other networking events? What are some common barriers that come up that prevent you from going to meetups? How can the benefits outweigh the barriers?
+**3: Brainstorm Options:**
+When we're mulling over a challenge we face, we tend to stop thinking creatively after 2-3 options. If those options don't look very attractive, we get stuck. **Goal:** Get unstuck by thinking through more doable options and get back into the creative zone. 
 
-We've discussed the power of storytelling, and this is something you'll continue to practice with your groups. Let's look at what the payoff can be for effective storytelling as describe by two different alumni in their job searches.
+Guiding questions:
+* What are 5 options you could use to tackle this barrier?
+* Focus in on your strengths: How do your top 5 StrengthsFinder strengths relate to these options? What [domains of leadership](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing) can you pull from? 
+* Who else can help you harness these strengths? 
 
-**Alumni Connection:** 
-Form a group of 3-4 people to listen to these two podcast clips:
-* [1606-BE alum Sonia Gupta on the Turing Podcast](http://turingschool.libsyn.com/turing-grads-sonia-gupta-jesse-spevack): Start at 10:10 and listen until 12:20
-* [1608-FE alum Matt Kaufman on the Turing Podcast](http://turingschool.libsyn.com/turing-podcast-revival-episode-5-turing-grads-the-real-world): Start at 6:50 and listen until until 9:12
+**Do:** Instructor models and then students jot down ideas
 
-Discuss with your group:
-* What does it mean to show off your "authentic self"? How does this relate to your job search?  
-* What do you think impresses employers in a first look at a Turing portfolio?
-* How could you impress companies right now with your capstone projects and/or adding to your existing projects? Outline 1-2 strategies to use to make your portfolios impressive
+**4: Walk in the Light:**
+Barriers have the most power over us when they live inside our heads, unexamined. **Goal:** Bring your obstacles to the light -- acknowledge them and talk about them.
 
-**Whole Group:** Share out some takeaways to the whole group
+Guiding questions:
+* What's the thing you don't want to happen?
+* What's your worst-case scenario? What makes this the "worst" for you?
+* Now, what if you *intentionally* did the worst thing or had the worst thing happen to you? What do you do now?
 
-### Technical Interview Prep
-Overview of what technical interview prep will look like this module:
-* Back End: Mock interviews with Ian Douglas
-* Front End: Mock interviews with Brittany Storoz
-* Several opportunities to practice challenges in class
-* Check out [these resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/technical_interview_prep_resources.md)
+**Do:** Instructor models and then students jot down ideas
 
-**You Do:** List out what you feel are your current strengths and weaknesses when it comes to technical interviews. How can you focus your time during technical interview prep sessions and mock interviews to help you capitalize on your strengths and improve your weaknesses?
+**5: Find the Reason:**
+Everyone has a good reason for what they do. You have a good reason for coming to Turing and embarking on this career change. Go back to those reasons for being here. **Goal:** Rediscover and refine your motivations
+
+Guiding question:
+* Find the underlying motivation for embarking on a job search in a new field -- link it back to the practicalities (not just the dreams) of what this new career means, such as higher income, support family better, greater work-life balance, intellectual stimulation, ability to make a difference on a real scale, etc. At the end of the day, what motivates *you* to achieve this?
+
+**Do:** Instructor models and then students jot down ideas
+
+## Jobtrack Set-Up
+As a class, we'll watch this [video](https://drive.google.com/a/jobtrack.io/file/d/14SPY5CbL5hQj7JDxGrAnCMSkIgmLG78n/view?usp=sharing) on how to set up and utilize Jobtrack.io in your job search.  
+
+**You Do:** After watching the video, take 5 minutes to set up your jobtrack account and update it with current information.
+
+## If You Already Have a JobTrack account set up:
+### Choose Your Own Adventure: Explore Your Resources
+Depending on the area(s) that you've identified as being a particular barrier for you, you may want to hone in on exploring the resources and alumni tips for that area. 
+
+Check out the resources section of [this document](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) again, and begin making additional plans to help you with your barriers and your overall job search strategy for the module. 
 
 ### Closing: Break into Groups
-You'll meet with your peer groups to get started strategizing on your job search. **You've been grouped according to the timeline that you said you'd need a job by.** Keep this in mind as you plan together. You'll see who your coach is but won't meet with them until Week 2. 
+You'll meet with your peer groups to get started strategizing on your job search. **You've been grouped according to the timeline that you said you'd need a job by.** Keep this in mind as you plan together.
 
 Start with a DTR to get on the same page about your job search goals, barriers you might place on yourself in this job search, how you want to communicate with each other, and ideas for how you can motivate and hold each other accountable. [Use these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_peer_groups.md) to help structure your time. 
 
@@ -120,4 +148,3 @@ Start with a DTR to get on the same page about your job search goals, barriers y
 * Your peer group
 * Your coach
 * Your mentors
- 

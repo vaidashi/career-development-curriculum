@@ -21,7 +21,7 @@ By mastering the objectives listed above, students will be able to put themselve
 * [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md) 
 * [Feedback III](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
 * [Storytelling II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
-* [Outreach & Networking]
+* [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
 
 ### Deliverables
 In order to fulfill the requirements of Module Two, students will submit these deliverables:
