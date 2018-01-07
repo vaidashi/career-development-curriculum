@@ -100,15 +100,3 @@ He lives in Oakland, CA, so I'll try to reach him online over a weekend sometime
 What your follow-up will look like once you've met with them.
 
 Just thanking him and setting up a time to meet again.
-
-
-
-
-
-
-
-
-
-
-Working draft of professional story (1-2 paragraphs)
-Plan for outreach & networking as you go into Module 3 using these guidelines
