@@ -14,3 +14,17 @@ Example: Jessica Rodriguez 1710-BE
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://gist.github.com/NatBee/203301d588b6b120a31d96470642afea)
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://gist.github.com/NatBee/a58ac891c7647859414f3e8798002c0f)
+
+## Mod 2 Deliverables:
+Written reflection:
+How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
+What were you already doing?
+What did you put into place in Module Two?
+What was effective?
+What do you want to improve on in future projects?
+Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
+Feedback II reflection: In-person feedback conversation following these guidelines
+Working draft of professional story (1-2 paragraphs)
+Plan for outreach & networking as you go into Module 3 using these guidelines
+
+https://gist.github.com/NatBee/5919e3c8a2b5a9425f4a09b3210862e1
