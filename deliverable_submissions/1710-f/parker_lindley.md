@@ -32,11 +32,3 @@ https://github.com/turingschool/career-development-curriculum/tree/master/module
 * [Working Draft of professional story](https://gist.github.com/etcetera8/dc82b03dc3a74a04acb3b2954933af1c)
 
 * [Plan for outreach and networking](https://gist.github.com/etcetera8/27f7194040fc5305b6ce990ac53944ab)
-
-* Gear up related reflections
-
-1. Empathy & Privelage
-
-2. Parable of the Polygon/Automation -- Attention Economy
-
-3. Case study with mod 4 - Getting Jobs from Blogs
