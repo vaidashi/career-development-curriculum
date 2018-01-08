@@ -16,7 +16,7 @@ To make sure that you're in the right version of this markdown, check out [this 
   https://gist.github.com/Maxscores/2fe69f1a109591498277e4c35ac4f953
   
 * Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
-
+https://gist.github.com/Maxscores/3af3fcc18f440754d4ea9f735da2e8c6
 
 * Working draft of professional story (1-2 paragraphs)
  https://gist.github.com/Maxscores/379978c928b9efa7d6ba0801819f4657
