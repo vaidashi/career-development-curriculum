@@ -7,11 +7,13 @@ Fork this repo (the fork button is at the top righthand side of your screen) and
 * Your Last Name
 * Your Module & Program
 
+Example: Jessica Rodriguez 1708-FE
 
-Casey Dallavalle 1710-FE
+To make sure that you're in the right version of this markdown, check out [this resource](https://help.github.com/articles/configuring-a-remote-for-a-fork/) to help you update your clone.
 
 ## Mod 2 Deliverables:
 * Written reflection:
+
   * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions: What were you already doing? What did you put into place in Module Two? What was effective? What do you want to improve on in future projects?* 
   ** I have used the agile process many times here at Turing. In Mod 1, the instructors divided each project into phases, which was essentially defining the first MVP and building upon the MVP for each phase. In Mod 2, we were responsible for creating our own MVP for game time, so I got practice in defining what the minimum amount of functionality to work was. Once we had our MVP, we continued to work in the code and also let Turing students play the game. That way, as we built our code, we were able to incorporate user experiences into the creation of the next MVP. I found this strategy very effective in figuring out the bugs we had in our current MVP and what people wanted in the next update. I want to continue using this strategy and give access to our MVP to Turing students and also, people outside of Turing.
   
@@ -41,6 +43,17 @@ Casey Dallavalle 1710-FE
    - On Tuesday, January 16th I plan to attend the React w/ D3 and Drawing on a Map with deck.gl. I want to go to this event because I am interested in working in React after Turing. I hope to connect with people in the industry who are working in React and also learn companies in Denver that are using the React technology. I will follow-up via email or linkedIn - whatever they prefer.
   - The outreach plan:
     - I just emailed a woman named Lia James. She was a previous Turing instructor and I met her at a Tech Ladies Meet Up. I want to connect with her because she seems like she knows the tech industry well and might be able to point me to people and/or companies to connect to. I already contacted her and hopefully will meet with her in the near future! My follow-up will be an email thanking her for her time and updating on any advice she may have given me.
+
+  * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
+    * What were you already doing?
+    * What did you put into place in Module Two?
+    * What was effective?
+    * What do you want to improve on in future projects?
+  * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
+* Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+* Working draft of professional story (1-2 paragraphs)
+* Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
+
 
 ## Mod 1 Deliverables:
 * Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):

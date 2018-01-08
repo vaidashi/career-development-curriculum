@@ -1,16 +1,19 @@
-# Ricardo Viera
+# Ricardo Viera 1710-FE
 
-## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen) and then clone it to create a copy of this repository to use on your machine. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request title field, make sure to post:
+## Mod 2 Deliverables:
 
-* Your First Name
-* Your Last Name
-* Your Module & Program
+## Written Feedback: 
+https://gist.github.com/rvwatch/7794541b6c72dd5f03964d6ecfce4780
 
-Example: Jessica Rodriguez 1710-BE
+## Feedback II reflection:
+https://gist.github.com/rvwatch/57931088072a623fd7d35bc3d292851b
 
-*If you are repeating the module, delete your previous clone and fork and re-fork and re-clone this repo to receive the updates and find your file in this new cohort.*
+## Feedback III reflection:
+https://gist.github.com/rvwatch/b646426c1e7975a4abe7f0c183034eca
 
-## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+## Professional story: 
+https://gist.github.com/rvwatch/1d0dd9bedefc31e124230a795f8f8d3a
+
+## Networking 
+https://gist.github.com/rvwatch/696d3eae5dba15e45b12048ec8a7ee15
+
