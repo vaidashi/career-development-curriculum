@@ -7,11 +7,15 @@ Fork this repo (the fork button is at the top righthand side of your screen) and
 * Your Last Name
 * Your Module & Program
 
-Example: Jessica Rodriguez 1710-BE
+Example: Jessica Rodriguez 1708-BE
 
-*If you are repeating the module, delete your previous clone and fork and re-fork and re-clone this repo to receive the updates and find your file in this new cohort.*
+To make sure that you're in the right version of this markdown, check out [this resource](https://help.github.com/articles/configuring-a-remote-for-a-fork/) to help you update your clone.
+
+## Mod 2 Deliverables:
+* Written reflection, link to gist with all criteria:
+https://gist.github.com/abarnes26/e14a7323aed600bc856b2c3c8e18bccd
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* Link to DTR Memo using these [guidelines] https://gist.github.com/abarnes26/720d3152351941aea2362db5f75be144
+* Link to gist documenting your strengths & storytelling reflection using these [guidelines] https://gist.github.com/abarnes26/ee13839266e064912c8c4f2cffe04e6f
 

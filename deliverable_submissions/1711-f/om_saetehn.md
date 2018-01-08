@@ -1,0 +1,12 @@
+# Strengths & Storytelling Reflection Guidelines
+##### Utilizing strengths at Turing
+Having been aware that Turing will be a new and challenging experience, it's been my intention from the start to keep growing and learning. I'm surprised to discover that I do persist despite these challenges, all the while still feeling very intrigued and passionate about what I'm learning and about the path I've chosen. Reflecting on the moment from the beginning until now, I still feel as strongly about these values. The only difference is that I am actually testing myself rather than just saying or thinking about them. There's still much more to learn, it's great to be here and grow with the others.
+
+##### Dealing with struggle so far
+There are certain days which I go from being completely in my element and knowing what I've learned, to doubting whether or not I would ever figure out the solutions to many questions I had. It's important for me to go over old lessons, to solve problems in previous projects and be at peace with them, to solidify what I know and be able to accept new information. It's also important for me to able to pass on the knowledge to other people who also go through the same struggle.
+
+##### Future vision and career transition into junior developer
+I want to become a part of the change in the world, using resources and skills I have available to connect people with technology, to connect people together. Building fun educational software combined with other technologies, and mobilizing social causes were parts of the reasons that got me excited about becoming a software developer- hoping that I can also afford the liberty, maintain hobbies and do the work that I love for the rest of my lifetime. I believe the learning process doesn't stop here. To live is to keep learning. Also I hope that oneday I can share my knowledge and excitement to other people.
+
+##### Easy and difficult part about storytelling and how to improve this ability
+It might seem a little intimidating at first to talk to strangers about yourself in such details- our strengths or weakness because the society often engages only in small talks. For me it was a relief that we can open up our minds and hearts so that we can improve ourselves. It's really liberating and helping me a lot with communication and team work. I'd like to get better by transitioning from talking about self into something more useful outside of myself for the public audience.

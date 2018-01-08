@@ -57,6 +57,7 @@ Here are some tools that you can utilize to find contact info for people you'd l
 * [Find That Lead](https://findthatlead.com/)
 * [Find That Email](https://findthat.email/)
 * [MatterMark](https://mattermark.com/)
+* [Skrapp.io](https://www.skrapp.io/)
 * GitHub
 * Personal website  
 
@@ -118,7 +119,7 @@ Spend 10 minutes drafting an email to the person you've been researching. Be sur
 
 * Subject line
 * Connection
-* Call to action with a specific date and time
+* Call to action with a specific date and time -- Suggest a few dates and times for the this week and the following; ask for 30 minutes to an hour. Offer a video hang-out as an option.
 
 **Pair & Share:**
 In your peer group, spend 10 minutes giving and receiving positive feedback and suggestions for improvement. Read your email aloud and your group should give:
@@ -142,17 +143,22 @@ If you don't receive a response, don't assume that means the conversation is dea
 
 If you receive a response saying they're too busy to meet that week or something similar, ask for a better time, and set up a meeting accordingly. Persistence pays off, and you're making it clear that meeting them is important to you. 
 
+*YOU* should respond to emails as quickly as possible so that you can keep the conversation momentum going.
+
 **What if they do respond?**
 Use the meeting to build a relationship. 
 
 Do:
 
-* Ask questions -- ask about experience, projects, where they’d work next, what they’d change about their current role/team, advice for getting started in the industry
+* Ask questions -- ask about experience, projects, what their company does, where they’d work next, what they’d change about their current role/team, advice for getting started in the industry as a new developer
 * Make eye contact
 * Have your story ready to share
 * Bring pen + paper, leave computer closed
+* Be on-time (preferably early) when you meet
+* Offer to buy coffee -- they may buy the coffee themselves, but the offer is a nice touch
+* Afterwards, send a thank you message the same day; *Very few people do this, but it means a lot even if it’s really simple*
 
 Don't:
 
-* Ask for a job
+* Ask for a job 
 * Talk about yourself too much
