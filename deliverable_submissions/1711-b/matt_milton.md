@@ -19,4 +19,4 @@ Example: Jessica Rodriguez 1710-BE
 * Milton
 * 1711 BE
 * DTR Memos = https://gist.github.com/mgmilton/7e7c30ad34791d23ad450ba028f60137
-* Strength Story = https://gist.github.com/mgmilton/7e7c30ad34791d23ad450ba028f60137
+* Strength Story = https://gist.github.com/mgmilton/9a01a29ce6c8c04687336435bc4424aa  
