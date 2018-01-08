@@ -9,7 +9,7 @@ Length: 60 minutes
 * Opening (5 mins); recap of what will need to be done to close out this chapter and fully dive into the job search
 * Argue your case (10-15 mins) 
 * Rate yourself (5 mins)
-* Peer group discussion (10-15 mins) Self-ratings on the different areas of the plan and compare to the barriers discussion from week 1; then get into peer groups for discussion on how they'll go into the last 2 weeks and what their support will look like post-grad
+* Peer group discussion (10-15 mins) 
 * Plan work time (20-30 mins)
 
 ### Opening
@@ -43,7 +43,7 @@ The post-grad plan will ask you to complete action steps in the following catego
 * Identifying an additional social media/networking tool (blogging, planning meetup/conference talks, participating in hackathons or open source projects) that you will use in your job search
 
 **If you already have a job offer secured, please rate yourself regarding the second part of the job search plan:**
-* Identifying 1-2 poeple from your PD peer group who you will check in with during the first 30 days
+* Identifying 1-2 people from your PD peer group who you will check in with during the first 30 days
 * Identifying an area you are skilled to help these people with and how confident you are with that help
 * Identfying 1-2 people from your job search who you can recommend others from your cohort to
 * Making the introductions to people you'd recommend

@@ -1,4 +1,6 @@
-# Agile Practices & Software Collaboration
+# Agile Practices & Leadership
+
+## Software Collaboration in Practice
 
 [Slides for this session](https://docs.google.com/presentation/d/1GV_PSrTRRKlXE1IKp9NXRHbgipyK1nmdk34i8n_UobQ/edit?usp=sharing)
 
@@ -7,22 +9,20 @@
 Length: 90 minutes
 
 * Opening: objectives, deliverable, why (5 mins)
-* Waterfall vs. Agile (20 mins)
-   * Lecture (12 mins)
+* Waterfall vs. Agile (25 mins)
+   * Lecture (15 mins)
    * Turn & Talk (5 mins)
-   * Whole Group share-out (3 mins)
-* Agile in Practice (15 mins)
+   * Whole Group share-out (5 mins)
+* Agile in Practice (20 mins)
    * Lecture (5 mins)
-   * Story Practice (5 mins)
+   * Story Practice (10 mins)
    * Turn & Talk (5 mins)
 * Project Management Tools & Resources (10 mins)
-* How Teams Work Together (40 mins)
+* How Teams Work Together (29 mins)
    * Whole Group Introduction (3 mins)
    * Tuckman's Video (6 mins)
    * StrengthsFinder Leadership Domains (5 mins)
-   * Discussion #1 (10 mins)
-   * Redefining the Agile Manifesto (6 mins)
-   * Discussion #2 (10 mins)
+   * Project Group Discussion (15 mins)
 * Closing: how to continue this at Turing (1 min)
 
 ### Objectives (Jeff & Allison)
@@ -103,12 +103,12 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 
 * GitHub's story
 * Eric Ries' "The Lean Startup"
-* [Agile Manifesto](http://agilemanifesto.org/), written in 2001 and has its merits and its flaws. We'll continue to discuss later in this lesson  
+* [Agile Manifesto](http://agilemanifesto.org/), written in 2001 and has its merits and its flaws
  
 #### Turn & Talk:
 * When does it make sense to use the Waterfall method? When does it make sense to use Agile?
 * How do you see Agile already being used in your processes at Turing?
-* How does this manifesto describe teamwork to you?
+* How does Agile describe teamwork to you?
 
 1-3 groups share out takeaways to the whole group. 
 
@@ -208,22 +208,12 @@ Four Domains of Leadership in Strengths:
 
 What does this tell you about your own leadership style?
 
-#### Discussion #1:
+#### Project Team Discussion
 
 * Share your strengths with each other -- what do they mean? How do you interpret these strengths in your day-to-day work? 
 * Describe a “high point” moment as a team so far -- when has your team worked at its absolute best? How have you moved through Tuckman's stages?
 * What are your domains of strengths? How have you seen these in action working together so far? What are the impacts of these domains on the team? 
 * What domains are not covered as much in your current team? How does that affect your team’s performance? 
-
-#### Building Our Own Manifesto
-As we mentioned at the beginning of this session, the [Agile Manifesto](http://agilemanifesto.org/) was one of the first pieces of agile philosophy to be introduced to the industry. However, as we can see in its site, it is outdated in different ways. 
-
-#### Discussion #2: 
-What might be missing from this manifesto that could describe a better approach to team projects? How might other perspectives help us understand teamwork better?
-
-Using everything we've talked about in this session today, build your own manifesto of how to build effective teams. You're part of this industry now and part of establishing your place in the industry is to take ownership over your practices. 
-
-**You Do:** With your project group, create your own set of principles of how teams should work, thinking specifically about your own team. 
 
 ### Closing
 How will you continue to apply these principles during the rest of your time at Turing? 
