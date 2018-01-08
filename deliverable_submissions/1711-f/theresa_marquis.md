@@ -16,6 +16,6 @@ Example: Jessica Rodriguez 1710-FE
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_follow-up.md): 
 
 ## Mod 1 Deliverables:
-* Link to DTR Memo using these https://github.com/tmcjunkinmarquis/black_thursday/blob/master/dtr.md
+* Link to DTR Memo using these https://github.com/tmcjunkinmarquis/idea-box/blob/master/README.md
 * Link to gist documenting your strengths & storytelling reflection using these https://gist.github.com/tmcjunkinmarquis/9a4a563b558364d34c4d384bcd057e2e
 

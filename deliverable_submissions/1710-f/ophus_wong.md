@@ -29,3 +29,9 @@ To make sure that you're in the right version of this markdown, check out [this 
   * [2DoBox-Pivot](https://gist.github.com/OphDub/9aae34dc4ac24ad09170398f869494c9)
   
 * [Strengths & Storytelling Reflection](https://gist.github.com/OphDub/94419f7713ee2ba58f940b46f48e714d)
+
+## Mod 2 Deliverables:
+* [Reflection (Agile Process & Team Role)](https://gist.github.com/OphDub/50360b9d588b8a6c6acadd54aa5dbc3e)
+* [Feedback II reflection](https://gist.github.com/OphDub/2fd7cde22be380a67ccd9592c9f7b863)
+* [Professional Story](https://gist.github.com/OphDub/2188240ca074a5c241878962aa2cb513)
+* [Outreach & Networking Plan](https://gist.github.com/OphDub/7f9a247dc1e73e5030fb3f0f44ca0b61)
