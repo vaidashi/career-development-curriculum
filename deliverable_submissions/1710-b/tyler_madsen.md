@@ -24,6 +24,7 @@ https://gist.github.com/tylermarshal/ecc06349819c437f39983e83c4848cbe
 https://gist.github.com/tylermarshal/6a23f53beb85aa6c63aefc5e17821b5a
 
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
+https://gist.github.com/tylermarshal/308a0af60edc8ecfca115ae7849cce16
 
 
 ## Mod 1 Deliverables:
