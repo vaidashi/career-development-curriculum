@@ -7,7 +7,7 @@ As we've discussed, meeting people, forming relationships, and having conversati
 * Who do you hope to connect with at this event?
 * How will you follow-up with the people you connect at this event?
 
-**Warm Outreach:** Identify a mentor, alum, or someone else in the Turing community you will reach out to by the end of Module 3. Describe:
+**Warm Outreach:** Identify a mentor, alum, or someone else in the Turing community you will reach out to by the end of Module 3. *If you have someone you'd like to reach out to outside of the Turing community, go for it!* Describe:
 
 * Why you want to connect with this person and what you hope to talk about
 * When you will contact them by and how you plan to meet
