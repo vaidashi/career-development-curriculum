@@ -31,14 +31,6 @@ In order to fulfill the requirements of module one, students will submit these d
 * StrengthsFinder/storytelling reflection using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
 * Create/Update LinkedIn, GitHub, Twitter, and Stack Overflow profiles and input them into Census
 
-You'll submit all deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) except for your partner feedback, which you will submit to Allison directly via DM. Gear Up reflections should be included in your module portfolio.
+You'll submit your DTR Memo and Storytelling reflection [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Your profiles will be submitted by setting up your Census account, and your partner feedback will be submitted in the surveys you receive. 
 
-### Gear Up Sessions
-
-* Growth Mindset
-* Getting Better at Difficult Things
-* Dealing with Difference: Introverts & Extroverts
-* Code: Debugging the Gender Gap
-* Case Study with Mod 4
-
-You'll submit your Gear Up reflections in your end-of-module portfolio
+Gear Up reflections should be included in your module portfolio.

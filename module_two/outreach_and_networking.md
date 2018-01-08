@@ -7,7 +7,8 @@
 Time: 60 minutes
 
 * Opening (5 mins)
-* Intro to outreach (15 mins)
+* Intro to outreach (10 mins)
+* Crafting the Email (5 mins)
 * Outreach examples (5 mins)
 * Outreach practice (20 mins)
 * Intro to networking (5 mins)
@@ -114,6 +115,7 @@ Tools:
 * [Find That Lead](https://findthatlead.com/)
 * [Find That Email](https://findthat.email/)
 * [MatterMark](https://mattermark.com/)
+* [Skrapp.io](https://www.skrapp.io/)
 * GitHub
 * Personal website  
 
@@ -171,8 +173,6 @@ Because you've researched your contact, you'll know if there are certain things 
 * Fellow Bootcamp grad -- mention that you'd like to learn more about their transition from bootcamp to the tech industry
 * Consider timing based on your research -- have they recently launched a new product? You could tie your message to events or activities that are top of mind to the recipient
 * Connections -- even if you don’t know someone in common, you may have some other connection, like a school or other organization. Why did you pick that person to reach out to?
-
-For more on the effectiveness of outreach and follow up, check out 1606-BE alum Jesse Spevack's [blog post on his job search experience](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer)
 
 #### Other Email Tips
 * Keep it casual -- no "To Whom It May Concern"
@@ -236,7 +236,7 @@ Then, draft your message to them. Be sure to include:
 
 * Subject line
 * Connection
-* Call to action with a specific date and time
+* Call to action with a specific date and time -- Suggest a few dates and times for the this week and the following; ask for 30 minutes to an hour. Offer a video hang-out as an option.
 
 **Pair & Share:**
 Form groups of 3-4 (4 max) and spend 10 minutes giving and receiving positive feedback and suggestions for improvement. Person A will read email and person B & C will both give:
@@ -260,15 +260,20 @@ If you don't receive a response, don't assume that means the conversation is dea
 
 If you receive a response saying they're too busy to meet that week or something similar, ask for a better time, and set up a meeting accordingly. Persistence pays off, and you're making it clear that meeting them is important to you. 
 
+*YOU* should respond to emails as quickly as possible so that you can keep the conversation momentum going.
+
 **What if they do respond?**
 Use the meeting to build a relationship. 
 
 Do:
 
-* Ask questions -- ask about experience, projects, where they’d work next, what they’d change about their current role/team, advice for getting started in the industry
+* Ask questions -- ask about experience, projects, what their company does, where they’d work next, what they’d change about their current role/team, advice for getting started in the industry as a new developer
 * Make eye contact
 * Have your story ready to share
 * Bring pen + paper, leave computer closed
+* Be on-time (preferably early) when you meet
+* Offer to buy coffee -- they may buy the coffee themselves, but the offer is a nice touch
+* Afterwards, send a thank you message the same day; *Very few people do this, but it means a lot even if it’s really simple*
 
 Don't:
 
