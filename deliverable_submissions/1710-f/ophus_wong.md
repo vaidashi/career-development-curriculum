@@ -23,4 +23,4 @@ Example: Jessica Rodriguez 1710-BE
 * [Reflection (Agile Process & Team Role)](https://gist.github.com/OphDub/50360b9d588b8a6c6acadd54aa5dbc3e)
 * [Feedback II reflection](https://gist.github.com/OphDub/2fd7cde22be380a67ccd9592c9f7b863)
 * [Professional Story](https://gist.github.com/OphDub/2188240ca074a5c241878962aa2cb513)
-* [Outreach & Networking Plan]()
+* [Outreach & Networking Plan](https://gist.github.com/OphDub/7f9a247dc1e73e5030fb3f0f44ca0b61)
