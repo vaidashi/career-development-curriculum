@@ -1,6 +1,10 @@
 # Amanda Tjan
 
+
 Directions to Submit PD deliverables:
+
+## Directions to Submit PD deliverables:
+
 Fork this repo (the fork button is at the top righthand side of your screen) and then clone it to create a copy of this repository to use on your machine. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request title field, make sure to post:
 
 * Your First Name
@@ -12,6 +16,7 @@ Example: Jessica Rodriguez 1708-FE
 To make sure that you're in the right version of this markdown, check out [this resource](https://help.github.com/articles/configuring-a-remote-for-a-fork/) to help you update your clone.
 
 ## Mod 2 Deliverables:
+
 
 ### Agile Work Flow:
 
@@ -54,6 +59,18 @@ In theory, I had achieved all of my lifelong dreams I had of working in fashion,
 **Warm Outreach:** Identify a mentor, alum, or someone else in the Turing community you will reach out to by the end of Module 3. *If you have someone you'd like to reach out to outside of the Turing community, go for it!* Describe:
 
   * I have been doing warm outreach with various mentors, alums, and people in the community all Mod. At this point, I have 4 official mentors from the Turing community, so my goal is to find another mentor outside of the Turing community. Particularly, I want to start reaching out to developers in Madrid, since I am planning to go back there. I am still in the process of finding the right people to reach out too and waiting from responses from my friends at big companies that work with developers. Because of the distance, the plan would be to meet via Skype and then I'll follow-up via e-mail. I want to ask them about what the tech scene is like in Madrid since it is very distinct from the scene in the US. 
+
+* Written reflection:
+  * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
+    * What were you already doing?
+    * What did you put into place in Module Two?
+    * What was effective?
+    * What do you want to improve on in future projects?
+  * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
+* Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
+* Working draft of professional story (1-2 paragraphs)
+* Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
+
 
 ## 1710-FE Mod 1 Deliverable
 
