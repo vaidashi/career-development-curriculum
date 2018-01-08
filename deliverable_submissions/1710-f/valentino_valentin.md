@@ -24,5 +24,8 @@ To make sure that you're in the right version of this markdown, check out [this 
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
 
 ## Mod 1 Round One Deliverables:
-* Link to DTR: https://gist.github.com/valentinovtino/74f42e6e64ae8c362bf44d2bc6d013a5
+* Link to DTR: [Melana and Valentino] https://gist.github.com/valentinovtino/5b46b8c8f0a02d00d87d10d16b91553a
 * Link to gist documenting your strengths & storytelling reflection: https://gist.github.com/valentinovtino/65270da01443d8ec2988530fd11e2308
+
+## Mod 2 Deliverabables:
+* https://gist.github.com/valentinovtino/9ad6802fb805e9a327652afc9d541a18

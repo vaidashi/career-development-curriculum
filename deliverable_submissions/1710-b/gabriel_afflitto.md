@@ -23,6 +23,10 @@ To make sure that you're in the right version of this markdown, check out [this 
 * Working draft of professional story (1-2 paragraphs)
 * Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
 
+## Mod 2 Deliverables:
+
+https://gist.github.com/GabrielAfflitto/51bb1c1f85ae458638dea1b45a78b5ef
+
 
 ## Mod 1 Round Two Deliverables:
 https://gist.github.com/GabrielAfflitto/1949416fd487109616df3fb3ededb205

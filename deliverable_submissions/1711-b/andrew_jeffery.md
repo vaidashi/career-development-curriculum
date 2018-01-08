@@ -1,16 +1,8 @@
-# Andrew Jeffery
 
-## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen) and then clone it to create a copy of this repository to use on your machine. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request title field, make sure to post:
+* Link to DTR Memos:
+https://gist.github.com/amj133/bb0cd57dba45dfd1e74a512f874415d6
+https://gist.github.com/amj133/136f7a802ce9c95bb35f8f1d70a2b1b0
 
-* Your First Name
-* Your Last Name
-* Your Module & Program
 
-Example: Jessica Rodriguez 1710-BE
-
-*If you are repeating the module, delete your previous clone and fork and re-fork and re-clone this repo to receive the updates and find your file in this new cohort.*
-
-## Mod 1 Deliverables:
-* Link to DTR Memo using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md):
-* Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
+* Link to gist documenting your strengths & storytelling reflection:
+https://gist.github.com/amj133/3f6030671f24b093f121f8f70fad90d5
