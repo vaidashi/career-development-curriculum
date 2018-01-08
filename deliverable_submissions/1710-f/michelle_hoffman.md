@@ -27,7 +27,7 @@ Example: Jessica Rodriguez 1710-BE
 5. Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
    I used my strengths of focus and restorative to make sure that my partners and I stayed on track with troubleshooting issues and hitting all of the project specs. 
 
-*[Feedback II reflection]: In-person feedback conversation following these guidelines
+*[Feedback II reflection](https://gist.github.com/michellehoffman/5d57a531602ed142cfc61956f5ff2e35)
 *[Working draft of professional story (1-2 paragraphs)](https://gist.github.com/michellehoffman/578de82c07eb3de7f0d77cbed6907464)
 *[Plan for outreach & networking as you go into Module 3 using these guidelines](https://gist.github.com/michellehoffman/5526eb0646429a676d89c63040b42707)
 
