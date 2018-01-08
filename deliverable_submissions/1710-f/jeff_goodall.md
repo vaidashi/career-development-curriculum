@@ -31,3 +31,7 @@ To make sure that you're in the right version of this markdown, check out [this 
 * Link to gist documenting your strengths & storytelling reflection using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_storytelling_reflection.md)
 
   - [Jeffs Gist for Strengths and StoryTelling Reflection](https://gist.github.com/goodalls/dca4f8e30ea88b29663842b81cae1ec9):
+  
+## Mod 2 Deliverables:
+
+  - [Jeffs Gist for MOD 2 Deliverables](https://gist.github.com/goodalls/834d9938d7bcc11e1b53527edf1ba4e5):

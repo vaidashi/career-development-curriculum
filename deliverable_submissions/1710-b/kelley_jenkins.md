@@ -12,6 +12,7 @@ Example: Jessica Rodriguez 1708-BE
 To make sure that you're in the right version of this markdown, check out [this resource](https://help.github.com/articles/configuring-a-remote-for-a-fork/) to help you update your clone.
 
 ## Mod 2 Deliverables:
+Link to Mod2 Deliverables Gist https://gist.github.com/kelleyjenkins/f1256d0d7978508e4cfafd082e3f2d60
 * Written reflection:
   * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
     * What were you already doing?

@@ -1,32 +1,36 @@
-# Ricardo Viera
+# Ricardo Viera 1710-FE
 
-## Directions to Submit PD deliverables:
-Fork this repo (the fork button is at the top righthand side of your screen) and then clone it to create a copy of this repository to use on your machine. From the ReadMe, click on "deliverable_submissions," click on your cohort, and then find your individual file. Update your file by adding links to the gists you've completed for each deliverable. Then create a Pull Request. Within the Pull Request title field, make sure to post:
 
-* Your First Name
-* Your Last Name
-* Your Module & Program
-
-Example: Jessica Rodriguez 1708-FE
-
-To make sure that you're in the right version of this markdown, check out [this resource](https://help.github.com/articles/configuring-a-remote-for-a-fork/) to help you update your clone.
 
 ## Mod 2 Deliverables:
-* Written reflection:
-  * How you've used agile as a process at Turing and what kind of project management tools you utilized. Address these questions:
-    * What were you already doing?
-    * What did you put into place in Module Two?
-    * What was effective?
-    * What do you want to improve on in future projects?
-  * Description of the role you played in your pair/group projects this module -- what was your role as a teammate? How did you utilize your strengths and leadership skills?
-* Feedback II reflection: In-person feedback conversation following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
-* Working draft of professional story (1-2 paragraphs)
-* Plan for outreach & networking as you go into Module 3 using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md)
 
-## Mod 1 Deliverables:
+## Written Feedback: 
+https://gist.github.com/rvwatch/7794541b6c72dd5f03964d6ecfce4780
 
-DTR
-(https://gist.github.com/rvwatch/7750435217c1ccb1010e9212b553a81b)
+## Feedback III reflection:
+https://gist.github.com/rvwatch/b646426c1e7975a4abe7f0c183034eca
 
-Strengths and Storytelling Reflections
-(https://gist.github.com/rvwatch/2bfd35390e6b4b04b719a181fb4f16e8)
+## Professional story: 
+https://gist.github.com/rvwatch/1d0dd9bedefc31e124230a795f8f8d3a
+
+## Networking 
+https://gist.github.com/rvwatch/696d3eae5dba15e45b12048ec8a7ee15
+
+## Mod 2 Deliverables:
+
+## Written Feedback: 
+https://gist.github.com/rvwatch/7794541b6c72dd5f03964d6ecfce4780
+
+## Feedback II reflection:
+https://gist.github.com/rvwatch/57931088072a623fd7d35bc3d292851b
+
+## Feedback III reflection:
+https://gist.github.com/rvwatch/b646426c1e7975a4abe7f0c183034eca
+
+## Professional story: 
+https://gist.github.com/rvwatch/1d0dd9bedefc31e124230a795f8f8d3a
+
+## Networking 
+https://gist.github.com/rvwatch/696d3eae5dba15e45b12048ec8a7ee15
+
+
