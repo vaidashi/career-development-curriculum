@@ -19,9 +19,10 @@ Design a 40-hour "work week" that provides time for:
 How much time will you spend on each? When will you do each thing?
 
 **Action Step #1:** Establish a shareable calendar (like Google Calendar) and block out time on your calendar *now* to adhere to these goals. Be prepared to show this calendar to your instructors during your portfolio review.
+https://calendar.google.com/calendar/embed?src=vaidashi50%40gmail.com&ctz=America%2FDenver
 
 **Action Step #2:** Backwards plan for your big goal. What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
-
+90 days would be ideal. I would have to move back to NJ and live with family if I don't have a job by then.
 
 **Action Step #3:** Based on what you outlined above, create monthly, weekly, and daily goals to reach in order to reach your big goal:
 
@@ -29,7 +30,9 @@ How much time will you spend on each? When will you do each thing?
 Keep in mind:
 
 * What is feasible in your schedule?
+All of it.
 * What actions will give you the most impact in your search?
+Setting up meetings in person.
 
 ### Coding
 For time spent coding during your first 30 days post-grad, consider: 
